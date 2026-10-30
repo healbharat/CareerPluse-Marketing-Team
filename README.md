@@ -59,3 +59,10 @@ The task **owner name and label** are set in every Issue. Actual GitHub `assigne
 ## Source and scope
 
 Adapted from the supplied *Heal Bharat Services & CareerPluse — 15-Day Marketing Execution Plan* and *Heal Bharat Services — Marketing Team Responsibilities & Work Plan*. Both source PDFs combined CareerPluse and business-service marketing. **This repo covers CareerPluse only.** Concrete daily scheduling and owner split are newly designed operating recommendations, not claims already achieved.
+
+
+## NEW: 15 paid students + 1 business approach (15 working days)
+
+**Updated outcome target:** **15 unique net paid and successfully onboarded CareerPluse students** by Day 15, plus **at least one genuine business prospect approached** for a verified Heal Bharat Services offering. These are *targets, not recorded achievements*. This replaces the previous 10+ free/connected-student goal as the primary success metric. Do not count unpaid signups, pending/failed/refunded payments or a mere verbal business lead as a win. Pricing/trial terms must be founder-verified; never presume ₹999 or a free trial is live.
+
+**Read the full detailed execution and reporting plan:** [Paid Acquisition & Business Outreach](docs/PAID_ACQUISITION_AND_BUSINESS_OUTREACH.md). The 60 existing GitHub Issues each contain a paid/business conversion add-on. At Day 5/10/15 Founder reviews actual numbers and blocker reports. **No student/transaction/prospect identities in this public repo.**
