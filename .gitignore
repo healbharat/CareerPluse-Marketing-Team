@@ -1,0 +1,10 @@
+# Never publish credentials or student contact data
+.env
+.env.*
+*.secret
+private-leads/
+crm/
+reports-private/
+*.xlsx
+*.pdf
+.DS_Store

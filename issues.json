@@ -1,0 +1,782 @@
+[
+  {
+    "key": "PRAGATI-D01",
+    "owner_key": "pragati",
+    "day": 1,
+    "title": "[Day 01] [Pragati] Kickoff and governance",
+    "body": "## Owner and schedule\n- **Owner:** Pragati\n- **Fixed role:** Marketing Team Leader + Social Media & Content Marketing Executive\n- **Campaign day:** Day 01 (relative working day, not calendar date)\n- **Phase:** Setup & launch\n- **Priority:** P0 - blocking\n- **Prerequisites:** Founder and website access\n\n## Actions — complete in order\n- [ ] Conduct 20-minute kickoff and confirm each person has one fixed role and understands their KPIs.\n- [ ] Create campaign Day 1–15 calendar and assign a named owner to each work item.\n- [ ] Ask founder to confirm live features, approved claims, free-trial/price status, official links and consent wording before promotion.\n- [ ] Define report cutoff (proposed 7 PM IST) and founder review time (7:30 PM IST).\n\n## Output to submit\nRole matrix, kickoff notes, blocked-claims list\n\n## Acceptance criteria (definition of done)\nEvery student knows their tasks; approval blockers documented; no unapproved posts published\n\n## Planning target / KPI rule\nDaily all-team tracker audit; one approved content draft/day on working days; 3–5 quality published posts/reels per week.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 01 | OWNER: Pragati\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:pragati",
+      "day:01",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "PRAGATI-D02",
+    "owner_key": "pragati",
+    "day": 2,
+    "title": "[Day 02] [Pragati] Tracker and brand setup",
+    "body": "## Owner and schedule\n- **Owner:** Pragati\n- **Fixed role:** Marketing Team Leader + Social Media & Content Marketing Executive\n- **Campaign day:** Day 02 (relative working day, not calendar date)\n- **Phase:** Setup & launch\n- **Priority:** P0 - blocking\n- **Prerequisites:** D1 kickoff; founder approval\n\n## Actions — complete in order\n- [ ] Configure a private student lead tracker; keep only aggregate status metrics in public GitHub.\n- [ ] Prepare shared Canva brand kit: logo, color palette, type, 6-post integrated grid sketch and mobile readability test.\n- [ ] Create Instagram content calendar with approval owner and clear CTA path.\n- [ ] Draft daily report template based on team KPIs.\n\n## Output to submit\nPrivate tracker structure; brand samples; 15-day content calendar\n\n## Acceptance criteria (definition of done)\nAll templates reviewed and no personal contact details in this public repo\n\n## Planning target / KPI rule\nDaily all-team tracker audit; one approved content draft/day on working days; 3–5 quality published posts/reels per week.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 02 | OWNER: Pragati\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:pragati",
+      "day:02",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "PRAGATI-D03",
+    "owner_key": "pragati",
+    "day": 3,
+    "title": "[Day 03] [Pragati] Approve launch content",
+    "body": "## Owner and schedule\n- **Owner:** Pragati\n- **Fixed role:** Marketing Team Leader + Social Media & Content Marketing Executive\n- **Campaign day:** Day 03 (relative working day, not calendar date)\n- **Phase:** Setup & launch\n- **Priority:** P0 - blocking\n- **Prerequisites:** D2 content + website test\n\n## Actions — complete in order\n- [ ] Check registration landing link from phone and laptop with Shrushti.\n- [ ] Review and publish first approved educational post; avoid advertising unverified product features.\n- [ ] Check Rupam/Mannu outreach script and approve personalised wording with founder.\n- [ ] Collect all 4 student progress comments and compile Day 3 founder summary.\n\n## Output to submit\nPublished post link (if approved), approved scripts, daily summary\n\n## Acceptance criteria (definition of done)\nOne live or approved-ready content item, all four reports recorded\n\n## Planning target / KPI rule\nDaily all-team tracker audit; one approved content draft/day on working days; 3–5 quality published posts/reels per week.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 03 | OWNER: Pragati\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:pragati",
+      "day:03",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "PRAGATI-D04",
+    "owner_key": "pragati",
+    "day": 4,
+    "title": "[Day 04] [Pragati] Content production and lead hygiene",
+    "body": "## Owner and schedule\n- **Owner:** Pragati\n- **Fixed role:** Marketing Team Leader + Social Media & Content Marketing Executive\n- **Campaign day:** Day 04 (relative working day, not calendar date)\n- **Phase:** Setup & launch\n- **Priority:** P2 - normal\n- **Prerequisites:** D3 launch\n\n## Actions — complete in order\n- [ ] Prepare one beginner Full Stack roadmap carousel with accurate tech sequence.\n- [ ] Review first outreach replies with the team; flag duplicate leads and public disclosure risks.\n- [ ] Verify CTA destination from Instagram and each shared template.\n- [ ] Log daily status and blockers to founder.\n\n## Output to submit\nRoadmap draft, link checks, team report\n\n## Acceptance criteria (definition of done)\nRoadmap ready for approval and 100% active issues updated\n\n## Planning target / KPI rule\nDaily all-team tracker audit; one approved content draft/day on working days; 3–5 quality published posts/reels per week.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 04 | OWNER: Pragati\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:pragati",
+      "day:04",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "PRAGATI-D05",
+    "owner_key": "pragati",
+    "day": 5,
+    "title": "[Day 05] [Pragati] Day 5 founder review",
+    "body": "## Owner and schedule\n- **Owner:** Pragati\n- **Fixed role:** Marketing Team Leader + Social Media & Content Marketing Executive\n- **Campaign day:** Day 05 (relative working day, not calendar date)\n- **Phase:** Setup & launch\n- **Priority:** P1 - high\n- **Prerequisites:** D1–4 metrics\n\n## Actions — complete in order\n- [ ] Summarise days 1–5 reach, saves, clicks, enquiries, demo requests and connected students (actuals only).\n- [ ] Publish or queue one approved content item.\n- [ ] Identify highest-friction funnel step and assign one corrective action.\n- [ ] Run a 15-minute team review with proof links.\n\n## Output to submit\n5-day report and one correction task\n\n## Acceptance criteria (definition of done)\nNumbers reconciled to source records; all unresolved blockers have owners\n\n## Planning target / KPI rule\nDaily all-team tracker audit; one approved content draft/day on working days; 3–5 quality published posts/reels per week.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 05 | OWNER: Pragati\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:pragati",
+      "day:05",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "PRAGATI-D06",
+    "owner_key": "pragati",
+    "day": 6,
+    "title": "[Day 06] [Pragati] Educational content batch",
+    "body": "## Owner and schedule\n- **Owner:** Pragati\n- **Fixed role:** Marketing Team Leader + Social Media & Content Marketing Executive\n- **Campaign day:** Day 06 (relative working day, not calendar date)\n- **Phase:** Outreach & demos\n- **Priority:** P2 - normal\n- **Prerequisites:** First-week feedback\n\n## Actions — complete in order\n- [ ] Draft 2 evergreen posts (portfolio projects and Git/GitHub basics) for this week.\n- [ ] Produce branded mobile-ready Reel cover and caption with a single CTA.\n- [ ] Check if published content violates approved-claims register.\n- [ ] Review 4 role reports and post founder summary.\n\n## Output to submit\n2 drafts + one Reel cover + daily report\n\n## Acceptance criteria (definition of done)\nTwo drafts in approval queue, no unsupported claims\n\n## Planning target / KPI rule\nDaily all-team tracker audit; one approved content draft/day on working days; 3–5 quality published posts/reels per week.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 06 | OWNER: Pragati\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:pragati",
+      "day:06",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "PRAGATI-D07",
+    "owner_key": "pragati",
+    "day": 7,
+    "title": "[Day 07] [Pragati] Community engagement and quality review",
+    "body": "## Owner and schedule\n- **Owner:** Pragati\n- **Fixed role:** Marketing Team Leader + Social Media & Content Marketing Executive\n- **Campaign day:** Day 07 (relative working day, not calendar date)\n- **Phase:** Outreach & demos\n- **Priority:** P2 - normal\n- **Prerequisites:** D6 approved content\n\n## Actions — complete in order\n- [ ] Publish one approved Reel or carousel.\n- [ ] Answer public post comments using only the FAQ; escalate pricing/feature questions.\n- [ ] Audit consent and duplicate entries in private tracker via counts only.\n- [ ] Confirm next demo schedule with Shrushti and outreach owners.\n\n## Output to submit\nPost link, engagement summary, demo calendar\n\n## Acceptance criteria (definition of done)\nEvery public response accurate; demos have date/owner\n\n## Planning target / KPI rule\nDaily all-team tracker audit; one approved content draft/day on working days; 3–5 quality published posts/reels per week.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 07 | OWNER: Pragati\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:pragati",
+      "day:07",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "PRAGATI-D08",
+    "owner_key": "pragati",
+    "day": 8,
+    "title": "[Day 08] [Pragati] Verified CareerPluse walkthrough",
+    "body": "## Owner and schedule\n- **Owner:** Pragati\n- **Fixed role:** Marketing Team Leader + Social Media & Content Marketing Executive\n- **Campaign day:** Day 08 (relative working day, not calendar date)\n- **Phase:** Outreach & demos\n- **Priority:** P2 - normal\n- **Prerequisites:** Shrushti feature test and approval\n\n## Actions — complete in order\n- [ ] Request dated test-account screen recording from Shrushti.\n- [ ] Draft and publish product walkthrough ONLY if all shown features are verified.\n- [ ] Add registration guide CTA and verify its link on mobile.\n- [ ] Collect end-of-day numbers from every role.\n\n## Output to submit\nWalkthrough Reel or withheld-content record, working CTA, report\n\n## Acceptance criteria (definition of done)\nNo planned feature represented as live; link tested\n\n## Planning target / KPI rule\nDaily all-team tracker audit; one approved content draft/day on working days; 3–5 quality published posts/reels per week.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 08 | OWNER: Pragati\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:pragati",
+      "day:08",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "PRAGATI-D09",
+    "owner_key": "pragati",
+    "day": 9,
+    "title": "[Day 09] [Pragati] Portfolio skills campaign",
+    "body": "## Owner and schedule\n- **Owner:** Pragati\n- **Fixed role:** Marketing Team Leader + Social Media & Content Marketing Executive\n- **Campaign day:** Day 09 (relative working day, not calendar date)\n- **Phase:** Outreach & demos\n- **Priority:** P2 - normal\n- **Prerequisites:** D8 campaign results\n\n## Actions — complete in order\n- [ ] Prepare a carousel about project explanations for fresher interviews.\n- [ ] Review post performance by saves, clicks and enquiries, not follower vanity metrics.\n- [ ] Schedule one useful Q&A story if approved.\n- [ ] Close content blockers with owner and next action.\n\n## Output to submit\nPortfolio post, story draft, KPI report\n\n## Acceptance criteria (definition of done)\nOne approved content deliverable and daily KPI updates\n\n## Planning target / KPI rule\nDaily all-team tracker audit; one approved content draft/day on working days; 3–5 quality published posts/reels per week.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 09 | OWNER: Pragati\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:pragati",
+      "day:09",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "PRAGATI-D10",
+    "owner_key": "pragati",
+    "day": 10,
+    "title": "[Day 10] [Pragati] Day 10 mid-campaign optimisation",
+    "body": "## Owner and schedule\n- **Owner:** Pragati\n- **Fixed role:** Marketing Team Leader + Social Media & Content Marketing Executive\n- **Campaign day:** Day 10 (relative working day, not calendar date)\n- **Phase:** Outreach & demos\n- **Priority:** P1 - high\n- **Prerequisites:** D1–9 records\n\n## Actions — complete in order\n- [ ] Compare source performance: Instagram, college, communities; use only aggregate counts in GitHub.\n- [ ] Prepare a mid-campaign review: targets vs actual, 3 bottlenecks, 3 next actions.\n- [ ] Ask founder to approve wording changes and next content batch.\n- [ ] Validate all 4 members' issue comments and missing evidence.\n\n## Output to submit\nMidpoint report, changed messaging plan\n\n## Acceptance criteria (definition of done)\nFounder can see what worked, what failed and precise next steps\n\n## Planning target / KPI rule\nDaily all-team tracker audit; one approved content draft/day on working days; 3–5 quality published posts/reels per week.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 10 | OWNER: Pragati\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:pragati",
+      "day:10",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "PRAGATI-D11",
+    "owner_key": "pragati",
+    "day": 11,
+    "title": "[Day 11] [Pragati] Trust-building FAQ content",
+    "body": "## Owner and schedule\n- **Owner:** Pragati\n- **Fixed role:** Marketing Team Leader + Social Media & Content Marketing Executive\n- **Campaign day:** Day 11 (relative working day, not calendar date)\n- **Phase:** Conversion & review\n- **Priority:** P2 - normal\n- **Prerequisites:** Approved claims register\n\n## Actions — complete in order\n- [ ] Prepare a clear FAQ post: what CareerPluse currently offers, how to register, how to verify the brand.\n- [ ] Confirm pricing and 7-day trial claim with founder and product proof; do not state them if unverified.\n- [ ] Review sales claims, hashtags and DMs for false placement/certificate guarantees.\n- [ ] Publish only with founder approval.\n\n## Output to submit\nApproved FAQ post + claims decision\n\n## Acceptance criteria (definition of done)\nNo unapproved outcome, price or trial claims\n\n## Planning target / KPI rule\nDaily all-team tracker audit; one approved content draft/day on working days; 3–5 quality published posts/reels per week.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 11 | OWNER: Pragati\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:pragati",
+      "day:11",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "PRAGATI-D12",
+    "owner_key": "pragati",
+    "day": 12,
+    "title": "[Day 12] [Pragati] Authentic feedback or useful tips",
+    "body": "## Owner and schedule\n- **Owner:** Pragati\n- **Fixed role:** Marketing Team Leader + Social Media & Content Marketing Executive\n- **Campaign day:** Day 12 (relative working day, not calendar date)\n- **Phase:** Conversion & review\n- **Priority:** P2 - normal\n- **Prerequisites:** D11 FAQ; real feedback\n\n## Actions — complete in order\n- [ ] Ask Shrushti for anonymised feedback themes; never invent testimonials.\n- [ ] Create one coding tip Reel/story; use a real testimonial only with permission.\n- [ ] Review content performance and handoff enquiries to Mannu or Shrushti.\n- [ ] Update daily founder report.\n\n## Output to submit\nPublished educational item + aggregated feedback themes\n\n## Acceptance criteria (definition of done)\nFeedback used ethically and handoffs logged without personal data\n\n## Planning target / KPI rule\nDaily all-team tracker audit; one approved content draft/day on working days; 3–5 quality published posts/reels per week.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 12 | OWNER: Pragati\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:pragati",
+      "day:12",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "PRAGATI-D13",
+    "owner_key": "pragati",
+    "day": 13,
+    "title": "[Day 13] [Pragati] Objection-led messaging",
+    "body": "## Owner and schedule\n- **Owner:** Pragati\n- **Fixed role:** Marketing Team Leader + Social Media & Content Marketing Executive\n- **Campaign day:** Day 13 (relative working day, not calendar date)\n- **Phase:** Conversion & review\n- **Priority:** P2 - normal\n- **Prerequisites:** D10 objections\n\n## Actions — complete in order\n- [ ] Use aggregate questions from students to write a 3-question story poll and answers.\n- [ ] Prepare one fresh educational design for Canva with readable text.\n- [ ] Ask founder to approve final-week promotional CTA.\n- [ ] Review lead follow-up compliance (max two, opt-out respected).\n\n## Output to submit\nStory/poll draft, approved CTA, team report\n\n## Acceptance criteria (definition of done)\nClaims verified, due follow-ups accounted for\n\n## Planning target / KPI rule\nDaily all-team tracker audit; one approved content draft/day on working days; 3–5 quality published posts/reels per week.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 13 | OWNER: Pragati\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:pragati",
+      "day:13",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "PRAGATI-D14",
+    "owner_key": "pragati",
+    "day": 14,
+    "title": "[Day 14] [Pragati] Final push and verification audit",
+    "body": "## Owner and schedule\n- **Owner:** Pragati\n- **Fixed role:** Marketing Team Leader + Social Media & Content Marketing Executive\n- **Campaign day:** Day 14 (relative working day, not calendar date)\n- **Phase:** Conversion & review\n- **Priority:** P1 - high\n- **Prerequisites:** D13 work\n\n## Actions — complete in order\n- [ ] Publish one approved registration guide reminder; no pressure or false urgency.\n- [ ] Verify broken links and missing story highlights.\n- [ ] Have every owner identify open leads and blockers; use aggregate totals only.\n- [ ] Check that Shrushti can prove each connected student in product records.\n\n## Output to submit\nFinal campaign post link, conversion audit\n\n## Acceptance criteria (definition of done)\nPublic content accurate; pipeline counts reconciled\n\n## Planning target / KPI rule\nDaily all-team tracker audit; one approved content draft/day on working days; 3–5 quality published posts/reels per week.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 14 | OWNER: Pragati\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:pragati",
+      "day:14",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "PRAGATI-D15",
+    "owner_key": "pragati",
+    "day": 15,
+    "title": "[Day 15] [Pragati] Final review and phase-two decision",
+    "body": "## Owner and schedule\n- **Owner:** Pragati\n- **Fixed role:** Marketing Team Leader + Social Media & Content Marketing Executive\n- **Campaign day:** Day 15 (relative working day, not calendar date)\n- **Phase:** Conversion & review\n- **Priority:** P1 - high\n- **Prerequisites:** All prior days\n\n## Actions — complete in order\n- [ ] Reconcile 15-day actual reach, contacts, replies, demos, started registrations and confirmed onboarded students.\n- [ ] Produce owner-wise performance review with evidence links and no public personal information.\n- [ ] Recommend next 15-day experiments, changed targets and content formats.\n- [ ] Hold founder meeting and archive approved final report.\n\n## Output to submit\n15-day final report, next-phase plan, signed-off issue statuses\n\n## Acceptance criteria (definition of done)\nEvery KPI has actual value including zero; founder reviews and approves\n\n## Planning target / KPI rule\nDaily all-team tracker audit; one approved content draft/day on working days; 3–5 quality published posts/reels per week.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 15 | OWNER: Pragati\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:pragati",
+      "day:15",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "RUPAM-D01",
+    "owner_key": "rupam",
+    "day": 1,
+    "title": "[Day 01] [Rupam] Define college segmentation",
+    "body": "## Owner and schedule\n- **Owner:** Rupam\n- **Fixed role:** College Outreach & Partnership Executive\n- **Campaign day:** Day 01 (relative working day, not calendar date)\n- **Phase:** Setup & launch\n- **Priority:** P0 - blocking\n- **Prerequisites:** Founder approved pitch\n\n## Actions — complete in order\n- [ ] Define target college types: engineering, BCA, BSc CS, Diploma and relevant clubs.\n- [ ] Research 5 likely colleges using official/public pages only.\n- [ ] Note city, course fit, public official link and likely student value.\n- [ ] Draft permission-first intro to TPO/HOD for founder approval.\n\n## Output to submit\n5 researched colleges (private prospect tracker) and intro draft\n\n## Acceptance criteria (definition of done)\n5 valid public-source records; no outreach until pitch approved\n\n## Planning target / KPI rule\n5 relevant college/club prospects researched and up to 3 personalised permission-based contacts on active outreach days.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 01 | OWNER: Rupam\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:rupam",
+      "day:01",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "RUPAM-D02",
+    "owner_key": "rupam",
+    "day": 2,
+    "title": "[Day 02] [Rupam] Build campus pipeline",
+    "body": "## Owner and schedule\n- **Owner:** Rupam\n- **Fixed role:** College Outreach & Partnership Executive\n- **Campaign day:** Day 02 (relative working day, not calendar date)\n- **Phase:** Setup & launch\n- **Priority:** P0 - blocking\n- **Prerequisites:** D1 segmentation\n\n## Actions — complete in order\n- [ ] Research 5 more colleges or student coding clubs.\n- [ ] Identify 3 relevant official public campus channels/TPO or department contacts.\n- [ ] Prepare one tailored request for a short orientation, not a sales blast.\n- [ ] Log public source and next-action date in private CRM.\n\n## Output to submit\n5 campus records, 3 draft messages\n\n## Acceptance criteria (definition of done)\nAccurate contacts and clear next steps; no private scraped data\n\n## Planning target / KPI rule\n5 relevant college/club prospects researched and up to 3 personalised permission-based contacts on active outreach days.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 02 | OWNER: Rupam\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:rupam",
+      "day:02",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "RUPAM-D03",
+    "owner_key": "rupam",
+    "day": 3,
+    "title": "[Day 03] [Rupam] First personalised campus outreach",
+    "body": "## Owner and schedule\n- **Owner:** Rupam\n- **Fixed role:** College Outreach & Partnership Executive\n- **Campaign day:** Day 03 (relative working day, not calendar date)\n- **Phase:** Setup & launch\n- **Priority:** P0 - blocking\n- **Prerequisites:** Approved pitch and CRM\n\n## Actions — complete in order\n- [ ] Send up to 3 individually tailored college messages after approval.\n- [ ] Research 5 fresh campus prospects.\n- [ ] Record contact date, role, response, permission state, next action (in private CRM).\n- [ ] If a reply arrives, ask whether a short free orientation is welcome (only if session offer approved).\n\n## Output to submit\n3 outreach outcomes, 5 prospects researched\n\n## Acceptance criteria (definition of done)\nEvery sent message traceable; no group added without permission\n\n## Planning target / KPI rule\n5 relevant college/club prospects researched and up to 3 personalised permission-based contacts on active outreach days.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 03 | OWNER: Rupam\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:rupam",
+      "day:03",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "RUPAM-D04",
+    "owner_key": "rupam",
+    "day": 4,
+    "title": "[Day 04] [Rupam] Placement-cell conversations",
+    "body": "## Owner and schedule\n- **Owner:** Rupam\n- **Fixed role:** College Outreach & Partnership Executive\n- **Campaign day:** Day 04 (relative working day, not calendar date)\n- **Phase:** Setup & launch\n- **Priority:** P2 - normal\n- **Prerequisites:** D3 feedback\n\n## Actions — complete in order\n- [ ] Research 5 relevant institutions or placement clubs.\n- [ ] Contact up to 3 new official representatives using personalised messages.\n- [ ] Offer verified product demonstration and coding-roadmap session, not internship/job guarantees.\n- [ ] Schedule next step for any genuine interest.\n\n## Output to submit\nNew contacts + interested meeting pipeline\n\n## Acceptance criteria (definition of done)\nPermission logged and requests follow official channels\n\n## Planning target / KPI rule\n5 relevant college/club prospects researched and up to 3 personalised permission-based contacts on active outreach days.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 04 | OWNER: Rupam\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:rupam",
+      "day:04",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "RUPAM-D05",
+    "owner_key": "rupam",
+    "day": 5,
+    "title": "[Day 05] [Rupam] Review initial campus results",
+    "body": "## Owner and schedule\n- **Owner:** Rupam\n- **Fixed role:** College Outreach & Partnership Executive\n- **Campaign day:** Day 05 (relative working day, not calendar date)\n- **Phase:** Setup & launch\n- **Priority:** P1 - high\n- **Prerequisites:** D3–4 outreach\n\n## Actions — complete in order\n- [ ] Review answers from Day 3–4; reply courteously to interested coordinators.\n- [ ] Research 5 additional colleges.\n- [ ] Send up to 3 new personalised messages if permitted.\n- [ ] Summarise objections and meeting possibilities for Pragati.\n\n## Output to submit\n1-page campus response summary + CRM updates\n\n## Acceptance criteria (definition of done)\nAll active opportunities have next step and date\n\n## Planning target / KPI rule\n5 relevant college/club prospects researched and up to 3 personalised permission-based contacts on active outreach days.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 05 | OWNER: Rupam\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:rupam",
+      "day:05",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "RUPAM-D06",
+    "owner_key": "rupam",
+    "day": 6,
+    "title": "[Day 06] [Rupam] Improve college presentation",
+    "body": "## Owner and schedule\n- **Owner:** Rupam\n- **Fixed role:** College Outreach & Partnership Executive\n- **Campaign day:** Day 06 (relative working day, not calendar date)\n- **Phase:** Outreach & demos\n- **Priority:** P2 - normal\n- **Prerequisites:** Verified demo material\n\n## Actions — complete in order\n- [ ] Prepare one-page approved orientation agenda (roadmap, live demo, Q&A, registration help).\n- [ ] Research 5 institutions and contact up to 3 suitable coordinators.\n- [ ] Ask Shrushti about which verified features can be demonstrated.\n- [ ] Record which college segments have strongest response.\n\n## Output to submit\nOrientation pitch sheet, outreach log\n\n## Acceptance criteria (definition of done)\nAgenda uses only tested features; consent confirmed\n\n## Planning target / KPI rule\n5 relevant college/club prospects researched and up to 3 personalised permission-based contacts on active outreach days.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 06 | OWNER: Rupam\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:rupam",
+      "day:06",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "RUPAM-D07",
+    "owner_key": "rupam",
+    "day": 7,
+    "title": "[Day 07] [Rupam] Book or attempt campus session",
+    "body": "## Owner and schedule\n- **Owner:** Rupam\n- **Fixed role:** College Outreach & Partnership Executive\n- **Campaign day:** Day 07 (relative working day, not calendar date)\n- **Phase:** Outreach & demos\n- **Priority:** P2 - normal\n- **Prerequisites:** D6 presentation\n\n## Actions — complete in order\n- [ ] Follow up only with previously engaged contacts, within the two-follow-up cap.\n- [ ] Research 5 additional campus prospects, personalise up to 3 outreach requests.\n- [ ] Propose one realistic campus orientation time to interested contact; do not claim booking without confirmation.\n- [ ] Handoff confirmed session details to Shrushti.\n\n## Output to submit\nSession calendar entries or honest no-booking status\n\n## Acceptance criteria (definition of done)\nEach proposed meeting shows confirmed/pending distinctly\n\n## Planning target / KPI rule\n5 relevant college/club prospects researched and up to 3 personalised permission-based contacts on active outreach days.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 07 | OWNER: Rupam\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:rupam",
+      "day:07",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "RUPAM-D08",
+    "owner_key": "rupam",
+    "day": 8,
+    "title": "[Day 08] [Rupam] Support confirmed campus demos",
+    "body": "## Owner and schedule\n- **Owner:** Rupam\n- **Fixed role:** College Outreach & Partnership Executive\n- **Campaign day:** Day 08 (relative working day, not calendar date)\n- **Phase:** Outreach & demos\n- **Priority:** P2 - normal\n- **Prerequisites:** Confirmed coordinator permission\n\n## Actions — complete in order\n- [ ] Coordinate with Shrushti for any confirmed orientation; otherwise continue approved contact work.\n- [ ] Research 5 colleges and approach up to 3 new official contacts.\n- [ ] Share QR/registration guide only if coordinator approves.\n- [ ] Log attendance in aggregate and hand off opted-in students securely.\n\n## Output to submit\nCampus session results or outreach progress report\n\n## Acceptance criteria (definition of done)\nAny attendees/registrations are verified not estimated\n\n## Planning target / KPI rule\n5 relevant college/club prospects researched and up to 3 personalised permission-based contacts on active outreach days.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 08 | OWNER: Rupam\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:rupam",
+      "day:08",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "RUPAM-D09",
+    "owner_key": "rupam",
+    "day": 9,
+    "title": "[Day 09] [Rupam] Coding-club partnership outreach",
+    "body": "## Owner and schedule\n- **Owner:** Rupam\n- **Fixed role:** College Outreach & Partnership Executive\n- **Campaign day:** Day 09 (relative working day, not calendar date)\n- **Phase:** Outreach & demos\n- **Priority:** P2 - normal\n- **Prerequisites:** Approved educational resources\n\n## Actions — complete in order\n- [ ] Research 5 student coding communities or campus clubs with public pages.\n- [ ] Contact up to 3 club coordinators with an educational collaboration request.\n- [ ] Offer sample Full Stack roadmap or project-idea resource approved by founder.\n- [ ] Record club policies and next contact dates.\n\n## Output to submit\n5 clubs/colleges + 3 individual contacts\n\n## Acceptance criteria (definition of done)\nNo posting to groups without moderator permission\n\n## Planning target / KPI rule\n5 relevant college/club prospects researched and up to 3 personalised permission-based contacts on active outreach days.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 09 | OWNER: Rupam\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:rupam",
+      "day:09",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "RUPAM-D10",
+    "owner_key": "rupam",
+    "day": 10,
+    "title": "[Day 10] [Rupam] Day 10 campus conversion review",
+    "body": "## Owner and schedule\n- **Owner:** Rupam\n- **Fixed role:** College Outreach & Partnership Executive\n- **Campaign day:** Day 10 (relative working day, not calendar date)\n- **Phase:** Outreach & demos\n- **Priority:** P1 - high\n- **Prerequisites:** D1–9 outreach\n\n## Actions — complete in order\n- [ ] Calculate researched colleges, contacted organisations, replies, orientations agreed and held (real counts).\n- [ ] Research up to 5 targeted high-fit colleges; prioritise warm conversations.\n- [ ] Prepare top 3 partnership objections and suggested responses.\n- [ ] Send aggregate outcome summary to Pragati.\n\n## Output to submit\n10-day campus funnel summary\n\n## Acceptance criteria (definition of done)\nAll metrics backed by CRM with no public student identities\n\n## Planning target / KPI rule\n5 relevant college/club prospects researched and up to 3 personalised permission-based contacts on active outreach days.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 10 | OWNER: Rupam\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:rupam",
+      "day:10",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "RUPAM-D11",
+    "owner_key": "rupam",
+    "day": 11,
+    "title": "[Day 11] [Rupam] Placement cell follow-ups",
+    "body": "## Owner and schedule\n- **Owner:** Rupam\n- **Fixed role:** College Outreach & Partnership Executive\n- **Campaign day:** Day 11 (relative working day, not calendar date)\n- **Phase:** Conversion & review\n- **Priority:** P2 - normal\n- **Prerequisites:** D10 messaging approved\n\n## Actions — complete in order\n- [ ] Reach up to 3 new relevant official placement/campus contacts if capacity permits.\n- [ ] Research 5 prospective campuses.\n- [ ] Explain how a product walkthrough works using only verified claims.\n- [ ] Log positive, negative, and not-yet-replied statuses separately.\n\n## Output to submit\nCurrent campus pipeline and next-action list\n\n## Acceptance criteria (definition of done)\nNo guarantee of internship or placement stated\n\n## Planning target / KPI rule\n5 relevant college/club prospects researched and up to 3 personalised permission-based contacts on active outreach days.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 11 | OWNER: Rupam\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:rupam",
+      "day:11",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "RUPAM-D12",
+    "owner_key": "rupam",
+    "day": 12,
+    "title": "[Day 12] [Rupam] Coordinate Q&A session",
+    "body": "## Owner and schedule\n- **Owner:** Rupam\n- **Fixed role:** College Outreach & Partnership Executive\n- **Campaign day:** Day 12 (relative working day, not calendar date)\n- **Phase:** Conversion & review\n- **Priority:** P2 - normal\n- **Prerequisites:** Interested college and Shrushti availability\n\n## Actions — complete in order\n- [ ] Offer a 30–45 minute approved learning Q&A to interested TPOs/clubs.\n- [ ] Confirm permissions, time and channel before promising a session.\n- [ ] Research 5 new institutions and personalise up to 3 approaches.\n- [ ] Notify Pragati and Shrushti of confirmed details.\n\n## Output to submit\nSession prep brief and outreach record\n\n## Acceptance criteria (definition of done)\nAttendees/meeting not counted until session occurred\n\n## Planning target / KPI rule\n5 relevant college/club prospects researched and up to 3 personalised permission-based contacts on active outreach days.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 12 | OWNER: Rupam\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:rupam",
+      "day:12",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "RUPAM-D13",
+    "owner_key": "rupam",
+    "day": 13,
+    "title": "[Day 13] [Rupam] Campus session execution",
+    "body": "## Owner and schedule\n- **Owner:** Rupam\n- **Fixed role:** College Outreach & Partnership Executive\n- **Campaign day:** Day 13 (relative working day, not calendar date)\n- **Phase:** Conversion & review\n- **Priority:** P2 - normal\n- **Prerequisites:** D12 scheduling\n\n## Actions — complete in order\n- [ ] Run or support any confirmed campus session with Shrushti.\n- [ ] If no session confirmed, continue up to 3 high-quality outreach messages and research 5 relevant organisations.\n- [ ] Secure consent before distributing materials to participants.\n- [ ] Log attendance counts, demo interest and agreed next action.\n\n## Output to submit\nOrientation summary or honest outreach report\n\n## Acceptance criteria (definition of done)\nEvidence of session (non-personal) or explicitly zero sessions\n\n## Planning target / KPI rule\n5 relevant college/club prospects researched and up to 3 personalised permission-based contacts on active outreach days.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 13 | OWNER: Rupam\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:rupam",
+      "day:13",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "RUPAM-D14",
+    "owner_key": "rupam",
+    "day": 14,
+    "title": "[Day 14] [Rupam] Close warm campus conversations",
+    "body": "## Owner and schedule\n- **Owner:** Rupam\n- **Fixed role:** College Outreach & Partnership Executive\n- **Campaign day:** Day 14 (relative working day, not calendar date)\n- **Phase:** Conversion & review\n- **Priority:** P1 - high\n- **Prerequisites:** D13 outcomes\n\n## Actions — complete in order\n- [ ] Follow up respectfully with engaged coordinators within the cap.\n- [ ] Confirm any next-month orientation opportunities without fabricating dates.\n- [ ] Update all open college records and remove duplicate organisations.\n- [ ] Send qualified opted-in referrals to Shrushti through private tracker.\n\n## Output to submit\nClean campus pipeline and handoffs\n\n## Acceptance criteria (definition of done)\nAll warm records have next action or closed status\n\n## Planning target / KPI rule\n5 relevant college/club prospects researched and up to 3 personalised permission-based contacts on active outreach days.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 14 | OWNER: Rupam\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:rupam",
+      "day:14",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "RUPAM-D15",
+    "owner_key": "rupam",
+    "day": 15,
+    "title": "[Day 15] [Rupam] 15-day college partnerships report",
+    "body": "## Owner and schedule\n- **Owner:** Rupam\n- **Fixed role:** College Outreach & Partnership Executive\n- **Campaign day:** Day 15 (relative working day, not calendar date)\n- **Phase:** Conversion & review\n- **Priority:** P1 - high\n- **Prerequisites:** All college issues\n\n## Actions — complete in order\n- [ ] Summarise total unique researched colleges, actual approaches, replies, sessions and verified student referrals.\n- [ ] Record sources, strongest pitches and reasons for no response, without exposing private contacts.\n- [ ] Propose next 15-day campus pipeline and priorities.\n- [ ] Comment final KPI summary on this issue.\n\n## Output to submit\nFounder-ready campus review and next-phase plan\n\n## Acceptance criteria (definition of done)\nCounts reconcile to private CRM and personal data stays private\n\n## Planning target / KPI rule\n5 relevant college/club prospects researched and up to 3 personalised permission-based contacts on active outreach days.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 15 | OWNER: Rupam\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:rupam",
+      "day:15",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "MANNU-D01",
+    "owner_key": "mannu",
+    "day": 1,
+    "title": "[Day 01] [Mannu Sharma] Map student audience and communities",
+    "body": "## Owner and schedule\n- **Owner:** Mannu Sharma\n- **Fixed role:** Student Outreach & Community Executive\n- **Campaign day:** Day 01 (relative working day, not calendar date)\n- **Phase:** Setup & launch\n- **Priority:** P0 - blocking\n- **Prerequisites:** Approved resource/claims\n\n## Actions — complete in order\n- [ ] Define relevant learners (CS/IT students, final-year freshers, beginners in web development).\n- [ ] Identify 5 relevant public student communities or college pages.\n- [ ] Draft helpful resources students may want: Full Stack roadmap, projects checklist.\n- [ ] Ask Pragati to approve one-to-one and group outreach guidelines.\n\n## Output to submit\nAudience segments + community list, message drafts\n\n## Acceptance criteria (definition of done)\nAll audience sources public and contacts permission-based\n\n## Planning target / KPI rule\nUp to 10 relevant personalised permission-based contacts on active outreach days; track meaningful replies and hand-offs, not spam volume.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 01 | OWNER: Mannu Sharma\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:mannu",
+      "day:01",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "MANNU-D02",
+    "owner_key": "mannu",
+    "day": 2,
+    "title": "[Day 02] [Mannu Sharma] Prepare outreach and consent tracker",
+    "body": "## Owner and schedule\n- **Owner:** Mannu Sharma\n- **Fixed role:** Student Outreach & Community Executive\n- **Campaign day:** Day 02 (relative working day, not calendar date)\n- **Phase:** Setup & launch\n- **Priority:** P0 - blocking\n- **Prerequisites:** D1 guidelines\n\n## Actions — complete in order\n- [ ] Identify 10 relevant public profiles or opt-in event contacts without scraping private data.\n- [ ] Check community rules and request admin permission before any post.\n- [ ] Draft three personalised opener variations that ask about learner goals, not a hard sell.\n- [ ] Set up private contact statuses with Pragati.\n\n## Output to submit\n10 researched potential conversations, permission log\n\n## Acceptance criteria (definition of done)\nNo outreach without appropriate permission or legitimate context\n\n## Planning target / KPI rule\nUp to 10 relevant personalised permission-based contacts on active outreach days; track meaningful replies and hand-offs, not spam volume.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 02 | OWNER: Mannu Sharma\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:mannu",
+      "day:02",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "MANNU-D03",
+    "owner_key": "mannu",
+    "day": 3,
+    "title": "[Day 03] [Mannu Sharma] First student conversations",
+    "body": "## Owner and schedule\n- **Owner:** Mannu Sharma\n- **Fixed role:** Student Outreach & Community Executive\n- **Campaign day:** Day 03 (relative working day, not calendar date)\n- **Phase:** Setup & launch\n- **Priority:** P0 - blocking\n- **Prerequisites:** D2 scripts approved\n\n## Actions — complete in order\n- [ ] Initiate up to 10 genuine, personalised contacts; prioritise people who opted in or engaged first.\n- [ ] Offer roadmap/project tips before a product invitation.\n- [ ] Share CareerPluse link only with interest; do not mass DM.\n- [ ] Record reply, permission, interest and next step in private tracker.\n\n## Output to submit\n10 or fewer documented outreach attempts, response count\n\n## Acceptance criteria (definition of done)\nEvery message personalised; 0 bulk blasts; all outcomes logged\n\n## Planning target / KPI rule\nUp to 10 relevant personalised permission-based contacts on active outreach days; track meaningful replies and hand-offs, not spam volume.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 03 | OWNER: Mannu Sharma\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:mannu",
+      "day:03",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "MANNU-D04",
+    "owner_key": "mannu",
+    "day": 4,
+    "title": "[Day 04] [Mannu Sharma] Reply handling and lead qualification",
+    "body": "## Owner and schedule\n- **Owner:** Mannu Sharma\n- **Fixed role:** Student Outreach & Community Executive\n- **Campaign day:** Day 04 (relative working day, not calendar date)\n- **Phase:** Setup & launch\n- **Priority:** P2 - normal\n- **Prerequisites:** D3 responses\n\n## Actions — complete in order\n- [ ] Reply to interested students with verified one-line explanation and FAQ.\n- [ ] Initiate up to 10 fresh relevant permission-based contacts.\n- [ ] Mark interested students as demo-ready and handoff securely to Shrushti.\n- [ ] Do not double-contact a lead owned by another team member.\n\n## Output to submit\nConversation counts, qualified handoffs, objections\n\n## Acceptance criteria (definition of done)\nEach interested lead has clear next action and owner\n\n## Planning target / KPI rule\nUp to 10 relevant personalised permission-based contacts on active outreach days; track meaningful replies and hand-offs, not spam volume.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 04 | OWNER: Mannu Sharma\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:mannu",
+      "day:04",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "MANNU-D05",
+    "owner_key": "mannu",
+    "day": 5,
+    "title": "[Day 05] [Mannu Sharma] Review the first outreach week",
+    "body": "## Owner and schedule\n- **Owner:** Mannu Sharma\n- **Fixed role:** Student Outreach & Community Executive\n- **Campaign day:** Day 05 (relative working day, not calendar date)\n- **Phase:** Setup & launch\n- **Priority:** P1 - high\n- **Prerequisites:** D3–4 tracker\n\n## Actions — complete in order\n- [ ] Review students by replied/interested/demo-needed/declined; use private CRM.\n- [ ] Continue up to 10 appropriate contacts only when follow-up capacity permits.\n- [ ] Collect top five learner questions for Pragati content plans.\n- [ ] Stop follow-ups immediately on opt-out.\n\n## Output to submit\n5-day funnel summary and FAQ input\n\n## Acceptance criteria (definition of done)\nNo invalid lead counted; full consent/opt-out status recorded\n\n## Planning target / KPI rule\nUp to 10 relevant personalised permission-based contacts on active outreach days; track meaningful replies and hand-offs, not spam volume.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 05 | OWNER: Mannu Sharma\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:mannu",
+      "day:05",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "MANNU-D06",
+    "owner_key": "mannu",
+    "day": 6,
+    "title": "[Day 06] [Mannu Sharma] Targeted community education",
+    "body": "## Owner and schedule\n- **Owner:** Mannu Sharma\n- **Fixed role:** Student Outreach & Community Executive\n- **Campaign day:** Day 06 (relative working day, not calendar date)\n- **Phase:** Outreach & demos\n- **Priority:** P2 - normal\n- **Prerequisites:** D5 insights\n\n## Actions — complete in order\n- [ ] Request permission to post a beginner roadmap or coding tip in up to 2 relevant communities.\n- [ ] Initiate up to 10 personalised contacts, prioritising genuine interactions.\n- [ ] Track responses and offer intro demos to interested students.\n- [ ] Record admin permissions and links, not private participant data, publicly.\n\n## Output to submit\nPermissions, contacts, demo handoffs\n\n## Acceptance criteria (definition of done)\nNo group post without permission and no bulk unsolicited DMs\n\n## Planning target / KPI rule\nUp to 10 relevant personalised permission-based contacts on active outreach days; track meaningful replies and hand-offs, not spam volume.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 06 | OWNER: Mannu Sharma\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:mannu",
+      "day:06",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "MANNU-D07",
+    "owner_key": "mannu",
+    "day": 7,
+    "title": "[Day 07] [Mannu Sharma] Promote orientation to opt-in students",
+    "body": "## Owner and schedule\n- **Owner:** Mannu Sharma\n- **Fixed role:** Student Outreach & Community Executive\n- **Campaign day:** Day 07 (relative working day, not calendar date)\n- **Phase:** Outreach & demos\n- **Priority:** P2 - normal\n- **Prerequisites:** Rupam/Shrushti session availability\n\n## Actions — complete in order\n- [ ] Invite interested/opted-in students to any confirmed orientation session.\n- [ ] Initiate up to 10 new meaningful contacts where allowed.\n- [ ] Confirm invitees understand optional registration and exact verified offer.\n- [ ] Send opted-in demo list privately to Shrushti.\n\n## Output to submit\nDemo invitations, accepted RSVP counts\n\n## Acceptance criteria (definition of done)\nNo session claims unless confirmed; accepted replies counted honestly\n\n## Planning target / KPI rule\nUp to 10 relevant personalised permission-based contacts on active outreach days; track meaningful replies and hand-offs, not spam volume.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 07 | OWNER: Mannu Sharma\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:mannu",
+      "day:07",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "MANNU-D08",
+    "owner_key": "mannu",
+    "day": 8,
+    "title": "[Day 08] [Mannu Sharma] Product demo follow-through",
+    "body": "## Owner and schedule\n- **Owner:** Mannu Sharma\n- **Fixed role:** Student Outreach & Community Executive\n- **Campaign day:** Day 08 (relative working day, not calendar date)\n- **Phase:** Outreach & demos\n- **Priority:** P2 - normal\n- **Prerequisites:** D7 invitations\n\n## Actions — complete in order\n- [ ] Check interested leads for whether they attended the confirmed session.\n- [ ] Initiate up to 10 eligible new personalised contacts.\n- [ ] Ask one respectful clarifying question if interested person did not register; do not pressure.\n- [ ] Update lead status and hand off registration issues privately.\n\n## Output to submit\nAttendance follow-up and outreach stats\n\n## Acceptance criteria (definition of done)\nEvery demo handoff linked to valid permission\n\n## Planning target / KPI rule\nUp to 10 relevant personalised permission-based contacts on active outreach days; track meaningful replies and hand-offs, not spam volume.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 08 | OWNER: Mannu Sharma\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:mannu",
+      "day:08",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "MANNU-D09",
+    "owner_key": "mannu",
+    "day": 9,
+    "title": "[Day 09] [Mannu Sharma] New student segment experiment",
+    "body": "## Owner and schedule\n- **Owner:** Mannu Sharma\n- **Fixed role:** Student Outreach & Community Executive\n- **Campaign day:** Day 09 (relative working day, not calendar date)\n- **Phase:** Outreach & demos\n- **Priority:** P2 - normal\n- **Prerequisites:** D8 conversion results\n\n## Actions — complete in order\n- [ ] Choose one focused segment (e.g., BCA final-year or beginner Full Stack learners).\n- [ ] Initiate up to 10 relevant customised conversations, avoiding spam and duplicate contacts.\n- [ ] Compare interested-reply rate with previous segment in aggregate.\n- [ ] Propose an approved educational CTA change.\n\n## Output to submit\nSegment insights, reply-rate comparison\n\n## Acceptance criteria (definition of done)\nSource labels accurate; private data never in issues\n\n## Planning target / KPI rule\nUp to 10 relevant personalised permission-based contacts on active outreach days; track meaningful replies and hand-offs, not spam volume.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 09 | OWNER: Mannu Sharma\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:mannu",
+      "day:09",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "MANNU-D10",
+    "owner_key": "mannu",
+    "day": 10,
+    "title": "[Day 10] [Mannu Sharma] Day 10 outreach funnel review",
+    "body": "## Owner and schedule\n- **Owner:** Mannu Sharma\n- **Fixed role:** Student Outreach & Community Executive\n- **Campaign day:** Day 10 (relative working day, not calendar date)\n- **Phase:** Outreach & demos\n- **Priority:** P1 - high\n- **Prerequisites:** D1–9 CRM\n\n## Actions — complete in order\n- [ ] Compute unique contacts, replies, real interested leads, demos requested and handoffs (actual counts).\n- [ ] Audit follow-ups: at most 2 to a non-responder, none after opt-out.\n- [ ] List top objections and best-performing intro variants without revealing personal chats.\n- [ ] Share safe summary with Pragati.\n\n## Output to submit\nMid-campaign outreach report\n\n## Acceptance criteria (definition of done)\nCounts reconcile and duplicate contacts removed\n\n## Planning target / KPI rule\nUp to 10 relevant personalised permission-based contacts on active outreach days; track meaningful replies and hand-offs, not spam volume.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 10 | OWNER: Mannu Sharma\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:mannu",
+      "day:10",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "MANNU-D11",
+    "owner_key": "mannu",
+    "day": 11,
+    "title": "[Day 11] [Mannu Sharma] Answer trust and price questions",
+    "body": "## Owner and schedule\n- **Owner:** Mannu Sharma\n- **Fixed role:** Student Outreach & Community Executive\n- **Campaign day:** Day 11 (relative working day, not calendar date)\n- **Phase:** Conversion & review\n- **Priority:** P2 - normal\n- **Prerequisites:** Approved FAQ\n\n## Actions — complete in order\n- [ ] Initiate up to 10 permission-based targeted contacts.\n- [ ] Answer trust questions with official website and approved company identity.\n- [ ] For price, free trial, job guarantees: share only confirmed current facts or escalate.\n- [ ] Capture unresolved objections for founder review.\n\n## Output to submit\nObjections log, interest/handoff counts\n\n## Acceptance criteria (definition of done)\nNo unverified price, free trial, certificate or placement claim\n\n## Planning target / KPI rule\nUp to 10 relevant personalised permission-based contacts on active outreach days; track meaningful replies and hand-offs, not spam volume.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 11 | OWNER: Mannu Sharma\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:mannu",
+      "day:11",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "MANNU-D12",
+    "owner_key": "mannu",
+    "day": 12,
+    "title": "[Day 12] [Mannu Sharma] Consent-based referral experiment",
+    "body": "## Owner and schedule\n- **Owner:** Mannu Sharma\n- **Fixed role:** Student Outreach & Community Executive\n- **Campaign day:** Day 12 (relative working day, not calendar date)\n- **Phase:** Conversion & review\n- **Priority:** P2 - normal\n- **Prerequisites:** D11 engaged users\n\n## Actions — complete in order\n- [ ] Ask existing engaged users if they want to share a public roadmap with friends; no incentives unless authorised.\n- [ ] Initiate up to 10 respectful conversations with new opted-in contacts.\n- [ ] Track referrals only after referred students voluntarily contact the team.\n- [ ] Handoff interested students to Shrushti through private tracker.\n\n## Output to submit\nReferral count and conversation record\n\n## Acceptance criteria (definition of done)\nNo contact data shared without consent\n\n## Planning target / KPI rule\nUp to 10 relevant personalised permission-based contacts on active outreach days; track meaningful replies and hand-offs, not spam volume.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 12 | OWNER: Mannu Sharma\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:mannu",
+      "day:12",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "MANNU-D13",
+    "owner_key": "mannu",
+    "day": 13,
+    "title": "[Day 13] [Mannu Sharma] Final-week questions campaign",
+    "body": "## Owner and schedule\n- **Owner:** Mannu Sharma\n- **Fixed role:** Student Outreach & Community Executive\n- **Campaign day:** Day 13 (relative working day, not calendar date)\n- **Phase:** Conversion & review\n- **Priority:** P2 - normal\n- **Prerequisites:** D12 referral experiment\n\n## Actions — complete in order\n- [ ] Invite interested students to a practical Q&A / demo only if it is scheduled and approved.\n- [ ] Initiate up to 10 relevant personalised conversations.\n- [ ] Revisit only warm leads with due next actions; stop after two unreturned follow-ups.\n- [ ] Update top content needs based on recurring questions.\n\n## Output to submit\nQuestion list and accepted demo invitations\n\n## Acceptance criteria (definition of done)\nAll contacts legitimate; zero unapproved group posting\n\n## Planning target / KPI rule\nUp to 10 relevant personalised permission-based contacts on active outreach days; track meaningful replies and hand-offs, not spam volume.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 13 | OWNER: Mannu Sharma\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:mannu",
+      "day:13",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "MANNU-D14",
+    "owner_key": "mannu",
+    "day": 14,
+    "title": "[Day 14] [Mannu Sharma] Registration-support handoff audit",
+    "body": "## Owner and schedule\n- **Owner:** Mannu Sharma\n- **Fixed role:** Student Outreach & Community Executive\n- **Campaign day:** Day 14 (relative working day, not calendar date)\n- **Phase:** Conversion & review\n- **Priority:** P1 - high\n- **Prerequisites:** D13 leads\n\n## Actions — complete in order\n- [ ] Initiate up to 10 high-fit permitted conversations only if the pipeline can be supported.\n- [ ] Check every warm lead has a single owner and a next step.\n- [ ] Handoff pending login/registration problems directly to Shrushti in private tools.\n- [ ] Record no-response or opt-out without repeated chasing.\n\n## Output to submit\nFinal handoff list (private), aggregate issue comment\n\n## Acceptance criteria (definition of done)\nNo warm lead lost; privacy maintained\n\n## Planning target / KPI rule\nUp to 10 relevant personalised permission-based contacts on active outreach days; track meaningful replies and hand-offs, not spam volume.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 14 | OWNER: Mannu Sharma\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:mannu",
+      "day:14",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "MANNU-D15",
+    "owner_key": "mannu",
+    "day": 15,
+    "title": "[Day 15] [Mannu Sharma] 15-day student outreach report",
+    "body": "## Owner and schedule\n- **Owner:** Mannu Sharma\n- **Fixed role:** Student Outreach & Community Executive\n- **Campaign day:** Day 15 (relative working day, not calendar date)\n- **Phase:** Conversion & review\n- **Priority:** P1 - high\n- **Prerequisites:** All outreach issues\n\n## Actions — complete in order\n- [ ] Count actual unique contacted students, genuine replies, interest, demo handoffs, registrations reported by Shrushti.\n- [ ] List response by community/channel and three objections.\n- [ ] Make one evidence-backed recommendation for next period.\n- [ ] Mark outstanding follow-ups due; do not publish identifying info.\n\n## Output to submit\nFounder-ready anonymised outreach summary\n\n## Acceptance criteria (definition of done)\nVerified actual counts with zeroes where applicable\n\n## Planning target / KPI rule\nUp to 10 relevant personalised permission-based contacts on active outreach days; track meaningful replies and hand-offs, not spam volume.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 15 | OWNER: Mannu Sharma\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:mannu",
+      "day:15",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "SHRUSHTI-D01",
+    "owner_key": "shrushti",
+    "day": 1,
+    "title": "[Day 01] [Shrushti] Test real registration journey",
+    "body": "## Owner and schedule\n- **Owner:** Shrushti\n- **Fixed role:** Product Demo, Registration & Onboarding Executive\n- **Campaign day:** Day 01 (relative working day, not calendar date)\n- **Phase:** Setup & launch\n- **Priority:** P0 - blocking\n- **Prerequisites:** Test credentials and product access\n\n## Actions — complete in order\n- [ ] Use test accounts to try sign-up/login/password reset/profile on phone and laptop.\n- [ ] Test account access on Wi-Fi and mobile data if available.\n- [ ] Record blockers, confusing steps, loading issues and dated screenshots with test data only.\n- [ ] Notify founder immediately if registration is broken; do not ask marketing to drive signups into broken flow.\n\n## Output to submit\nRegistration smoke-test and blocker log\n\n## Acceptance criteria (definition of done)\nClear pass/fail result; no untested registration promotion\n\n## Planning target / KPI rule\n2–3 demos when scheduled; verify 100% of claimed registrations with product evidence and log blockers.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 01 | OWNER: Shrushti\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:shrushti",
+      "day:01",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "SHRUSHTI-D02",
+    "owner_key": "shrushti",
+    "day": 2,
+    "title": "[Day 02] [Shrushti] Feature readiness and approved demo scope",
+    "body": "## Owner and schedule\n- **Owner:** Shrushti\n- **Fixed role:** Product Demo, Registration & Onboarding Executive\n- **Campaign day:** Day 02 (relative working day, not calendar date)\n- **Phase:** Setup & launch\n- **Priority:** P0 - blocking\n- **Prerequisites:** D1 test\n\n## Actions — complete in order\n- [ ] Build list of live/tested, limited, in-progress and planned student-facing features.\n- [ ] Capture dated screenshots from test accounts for approved claims, without personal student information.\n- [ ] Confirm official link, price and 7-day free-trial status with founder; mark unconfirmed claims as not usable.\n- [ ] Retest full registration at least 3 times on more than one device/browser if possible.\n\n## Output to submit\nApproved feature-status sheet and test evidence\n\n## Acceptance criteria (definition of done)\nOnly verified live features cleared for promotion\n\n## Planning target / KPI rule\n2–3 demos when scheduled; verify 100% of claimed registrations with product evidence and log blockers.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 02 | OWNER: Shrushti\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:shrushti",
+      "day:02",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "SHRUSHTI-D03",
+    "owner_key": "shrushti",
+    "day": 3,
+    "title": "[Day 03] [Shrushti] Registration guide and demo rehearsal",
+    "body": "## Owner and schedule\n- **Owner:** Shrushti\n- **Fixed role:** Product Demo, Registration & Onboarding Executive\n- **Campaign day:** Day 03 (relative working day, not calendar date)\n- **Phase:** Setup & launch\n- **Priority:** P0 - blocking\n- **Prerequisites:** D2 verified features\n\n## Actions — complete in order\n- [ ] Create step-by-step signup and login guide with screenshots from test accounts.\n- [ ] Prepare 2-minute and 10-minute walkthrough scripts using verified features only.\n- [ ] Rehearse demo and prepare answers to basic FAQ (cost, suitability, data, what is not promised).\n- [ ] Share approved guide with Pragati, Rupam and Mannu.\n\n## Output to submit\nRegistration guide and approved demo script\n\n## Acceptance criteria (definition of done)\nA test learner can follow guide; links work\n\n## Planning target / KPI rule\n2–3 demos when scheduled; verify 100% of claimed registrations with product evidence and log blockers.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 03 | OWNER: Shrushti\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:shrushti",
+      "day:03",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "SHRUSHTI-D04",
+    "owner_key": "shrushti",
+    "day": 4,
+    "title": "[Day 04] [Shrushti] Start registration support desk",
+    "body": "## Owner and schedule\n- **Owner:** Shrushti\n- **Fixed role:** Product Demo, Registration & Onboarding Executive\n- **Campaign day:** Day 04 (relative working day, not calendar date)\n- **Phase:** Setup & launch\n- **Priority:** P2 - normal\n- **Prerequisites:** D3 guide, opt-in leads\n\n## Actions — complete in order\n- [ ] Offer 2–3 short demos if interested students are scheduled; otherwise rehearse and record 0 actual demos.\n- [ ] Help opted-in students register using the live guide; never request passwords/OTPs.\n- [ ] Verify account access and onboarding completion using permitted product evidence.\n- [ ] Record why a student stalled and the precise next action in private CRM.\n\n## Output to submit\nDemo summary, registrations at each stage, issue log\n\n## Acceptance criteria (definition of done)\nEach counted connected student passes 4-step definition\n\n## Planning target / KPI rule\n2–3 demos when scheduled; verify 100% of claimed registrations with product evidence and log blockers.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 04 | OWNER: Shrushti\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:shrushti",
+      "day:04",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "SHRUSHTI-D05",
+    "owner_key": "shrushti",
+    "day": 5,
+    "title": "[Day 05] [Shrushti] Fix friction and follow up",
+    "body": "## Owner and schedule\n- **Owner:** Shrushti\n- **Fixed role:** Product Demo, Registration & Onboarding Executive\n- **Campaign day:** Day 05 (relative working day, not calendar date)\n- **Phase:** Setup & launch\n- **Priority:** P1 - high\n- **Prerequisites:** D4 blockers\n\n## Actions — complete in order\n- [ ] Retest the top reported issue and send actionable bug reproduction to technical owner.\n- [ ] Help all outstanding registration attempts that have consent to be contacted.\n- [ ] Conduct scheduled demos if available; track actual attendees, not promises.\n- [ ] Report common questions to Pragati for FAQ content.\n\n## Output to submit\nRetest notes, registration completion counts, FAQ inputs\n\n## Acceptance criteria (definition of done)\nBlocking issue escalated and tracked; no false completion count\n\n## Planning target / KPI rule\n2–3 demos when scheduled; verify 100% of claimed registrations with product evidence and log blockers.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 05 | OWNER: Shrushti\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:shrushti",
+      "day:05",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "SHRUSHTI-D06",
+    "owner_key": "shrushti",
+    "day": 6,
+    "title": "[Day 06] [Shrushti] Guided onboarding sessions",
+    "body": "## Owner and schedule\n- **Owner:** Shrushti\n- **Fixed role:** Product Demo, Registration & Onboarding Executive\n- **Campaign day:** Day 06 (relative working day, not calendar date)\n- **Phase:** Outreach & demos\n- **Priority:** P2 - normal\n- **Prerequisites:** D5 fix status\n\n## Actions — complete in order\n- [ ] Offer 2–3 short demos to confirmed interested students if available.\n- [ ] Check pending registration, verification, login and profile setup with each opted-in learner.\n- [ ] Reconcile interested leads from Mannu and Rupam with duplicate check.\n- [ ] Share anonymised conversion blockers with founder.\n\n## Output to submit\nDemo evidence and onboarding status counts\n\n## Acceptance criteria (definition of done)\nEach actual completion verified from product; no duplicate count\n\n## Planning target / KPI rule\n2–3 demos when scheduled; verify 100% of claimed registrations with product evidence and log blockers.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 06 | OWNER: Shrushti\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:shrushti",
+      "day:06",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "SHRUSHTI-D07",
+    "owner_key": "shrushti",
+    "day": 7,
+    "title": "[Day 07] [Shrushti] Orientation coordination and FAQ",
+    "body": "## Owner and schedule\n- **Owner:** Shrushti\n- **Fixed role:** Product Demo, Registration & Onboarding Executive\n- **Campaign day:** Day 07 (relative working day, not calendar date)\n- **Phase:** Outreach & demos\n- **Priority:** P2 - normal\n- **Prerequisites:** Rupam meeting confirmation\n\n## Actions — complete in order\n- [ ] Prepare 30–45 minute roadmap/product Q&A agenda with Rupam if campus session is confirmed.\n- [ ] Run approved walkthrough and assist registration only for opted-in attendees.\n- [ ] Test all QR or registration links immediately before session.\n- [ ] Record actual attendance, initiated accounts and completed onboarding separately.\n\n## Output to submit\nSession results or honest not-held log\n\n## Acceptance criteria (definition of done)\nNo session claimed if not held; link checks documented\n\n## Planning target / KPI rule\n2–3 demos when scheduled; verify 100% of claimed registrations with product evidence and log blockers.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 07 | OWNER: Shrushti\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:shrushti",
+      "day:07",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "SHRUSHTI-D08",
+    "owner_key": "shrushti",
+    "day": 8,
+    "title": "[Day 08] [Shrushti] Focused demo and registration day",
+    "body": "## Owner and schedule\n- **Owner:** Shrushti\n- **Fixed role:** Product Demo, Registration & Onboarding Executive\n- **Campaign day:** Day 08 (relative working day, not calendar date)\n- **Phase:** Outreach & demos\n- **Priority:** P2 - normal\n- **Prerequisites:** D7 referrals\n\n## Actions — complete in order\n- [ ] Run 2–3 product demos if scheduled; follow up only opted-in learners.\n- [ ] Use approved real test-account product walkthrough.\n- [ ] Support current registration blockers and classify reason for each drop-off.\n- [ ] Send verified account-access/onboarding counts to Pragati.\n\n## Output to submit\nDemos performed, support cases and verified completions\n\n## Acceptance criteria (definition of done)\nAll demos and connected student counts evidenced\n\n## Planning target / KPI rule\n2–3 demos when scheduled; verify 100% of claimed registrations with product evidence and log blockers.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 08 | OWNER: Shrushti\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:shrushti",
+      "day:08",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "SHRUSHTI-D09",
+    "owner_key": "shrushti",
+    "day": 9,
+    "title": "[Day 09] [Shrushti] Onboarding quality check",
+    "body": "## Owner and schedule\n- **Owner:** Shrushti\n- **Fixed role:** Product Demo, Registration & Onboarding Executive\n- **Campaign day:** Day 09 (relative working day, not calendar date)\n- **Phase:** Outreach & demos\n- **Priority:** P2 - normal\n- **Prerequisites:** D8 cohort\n\n## Actions — complete in order\n- [ ] Audit every student marked registered: can they actually log in?\n- [ ] Ask new users whether they completed first profile/setup; confirm with product records when accessible.\n- [ ] Fix or escalate blockers with reproducible steps, never share passwords or personal data in GitHub.\n- [ ] Offer 2–3 additional demos if booked.\n\n## Output to submit\nAccount access audit and blocker list\n\n## Acceptance criteria (definition of done)\nNo registered student mislabeled successfully connected\n\n## Planning target / KPI rule\n2–3 demos when scheduled; verify 100% of claimed registrations with product evidence and log blockers.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 09 | OWNER: Shrushti\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:shrushti",
+      "day:09",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "SHRUSHTI-D10",
+    "owner_key": "shrushti",
+    "day": 10,
+    "title": "[Day 10] [Shrushti] Day 10 funnel drop-off analysis",
+    "body": "## Owner and schedule\n- **Owner:** Shrushti\n- **Fixed role:** Product Demo, Registration & Onboarding Executive\n- **Campaign day:** Day 10 (relative working day, not calendar date)\n- **Phase:** Outreach & demos\n- **Priority:** P1 - high\n- **Prerequisites:** D1–9 evidence\n\n## Actions — complete in order\n- [ ] Compute real registration starts, completes, access confirmations and onboarding completions.\n- [ ] Categorise top reasons: trust, technical, price, time, interest, device or other.\n- [ ] Propose top two guide/product fixes and verify implemented changes if available.\n- [ ] Send aggregate mid-campaign report to Pragati.\n\n## Output to submit\nConversion funnel summary and top fixes\n\n## Acceptance criteria (definition of done)\nNumbers backed by private product data, no user names exposed\n\n## Planning target / KPI rule\n2–3 demos when scheduled; verify 100% of claimed registrations with product evidence and log blockers.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 10 | OWNER: Shrushti\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:shrushti",
+      "day:10",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "SHRUSHTI-D11",
+    "owner_key": "shrushti",
+    "day": 11,
+    "title": "[Day 11] [Shrushti] Second demo wave",
+    "body": "## Owner and schedule\n- **Owner:** Shrushti\n- **Fixed role:** Product Demo, Registration & Onboarding Executive\n- **Campaign day:** Day 11 (relative working day, not calendar date)\n- **Phase:** Conversion & review\n- **Priority:** P2 - normal\n- **Prerequisites:** D10 drop-off analysis\n\n## Actions — complete in order\n- [ ] Hold 2–3 short walkthroughs for opted-in students if bookings exist.\n- [ ] Recheck registration and login paths after any release.\n- [ ] Help pending users who explicitly requested support; stop after opt-out.\n- [ ] Send accurate FAQ improvements to Pragati and Mannu.\n\n## Output to submit\nDemo attendance, regression check, FAQ update\n\n## Acceptance criteria (definition of done)\nAll actual demos distinguish booked vs held\n\n## Planning target / KPI rule\n2–3 demos when scheduled; verify 100% of claimed registrations with product evidence and log blockers.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 11 | OWNER: Shrushti\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:shrushti",
+      "day:11",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "SHRUSHTI-D12",
+    "owner_key": "shrushti",
+    "day": 12,
+    "title": "[Day 12] [Shrushti] Collect genuine user feedback",
+    "body": "## Owner and schedule\n- **Owner:** Shrushti\n- **Fixed role:** Product Demo, Registration & Onboarding Executive\n- **Campaign day:** Day 12 (relative working day, not calendar date)\n- **Phase:** Conversion & review\n- **Priority:** P2 - normal\n- **Prerequisites:** Existing genuine users\n\n## Actions — complete in order\n- [ ] Ask recent users an optional 3-question feedback form or short chat.\n- [ ] Collect insights on usability and next learning goals; store raw responses privately.\n- [ ] Request explicit written permission before any public testimonial or screenshot.\n- [ ] Summarise only anonymised themes for Pragati and founder.\n\n## Output to submit\nFeedback themes report and permission log (private)\n\n## Acceptance criteria (definition of done)\nNo identifying feedback posted publicly without permission\n\n## Planning target / KPI rule\n2–3 demos when scheduled; verify 100% of claimed registrations with product evidence and log blockers.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 12 | OWNER: Shrushti\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:shrushti",
+      "day:12",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "SHRUSHTI-D13",
+    "owner_key": "shrushti",
+    "day": 13,
+    "title": "[Day 13] [Shrushti] Registration FAQ and troubleshooting",
+    "body": "## Owner and schedule\n- **Owner:** Shrushti\n- **Fixed role:** Product Demo, Registration & Onboarding Executive\n- **Campaign day:** Day 13 (relative working day, not calendar date)\n- **Phase:** Conversion & review\n- **Priority:** P2 - normal\n- **Prerequisites:** D12 feedback\n\n## Actions — complete in order\n- [ ] Update guide for the top 3 recurring login/signup questions.\n- [ ] Offer scheduled demos to interested learners where available.\n- [ ] Review all outstanding blockers with developer/founder and retest after fixes.\n- [ ] Ensure each open prospect has one owner and next action.\n\n## Output to submit\nUpdated guide, support status counts\n\n## Acceptance criteria (definition of done)\nGuide aligns with live product; blocker owner identified\n\n## Planning target / KPI rule\n2–3 demos when scheduled; verify 100% of claimed registrations with product evidence and log blockers.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 13 | OWNER: Shrushti\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:shrushti",
+      "day:13",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "SHRUSHTI-D14",
+    "owner_key": "shrushti",
+    "day": 14,
+    "title": "[Day 14] [Shrushti] Final connected-student evidence audit",
+    "body": "## Owner and schedule\n- **Owner:** Shrushti\n- **Fixed role:** Product Demo, Registration & Onboarding Executive\n- **Campaign day:** Day 14 (relative working day, not calendar date)\n- **Phase:** Conversion & review\n- **Priority:** P1 - high\n- **Prerequisites:** D13 support results\n\n## Actions — complete in order\n- [ ] Audit registered accounts against interest, completed registration, account access, completed onboarding.\n- [ ] Confirm each counted person appears once in private system; record safe aggregate counts publicly.\n- [ ] Assist warm unfinished users only with their consent and without pressure.\n- [ ] Escalate all remaining login blockers.\n\n## Output to submit\nVerified connected-student total, pending breakdown\n\n## Acceptance criteria (definition of done)\nNo unverified or duplicate success counted\n\n## Planning target / KPI rule\n2–3 demos when scheduled; verify 100% of claimed registrations with product evidence and log blockers.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 14 | OWNER: Shrushti\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:shrushti",
+      "day:14",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  },
+  {
+    "key": "SHRUSHTI-D15",
+    "owner_key": "shrushti",
+    "day": 15,
+    "title": "[Day 15] [Shrushti] 15-day onboarding and demo report",
+    "body": "## Owner and schedule\n- **Owner:** Shrushti\n- **Fixed role:** Product Demo, Registration & Onboarding Executive\n- **Campaign day:** Day 15 (relative working day, not calendar date)\n- **Phase:** Conversion & review\n- **Priority:** P1 - high\n- **Prerequisites:** All registration work\n\n## Actions — complete in order\n- [ ] Prepare actual demos held, demo participants, registration started/completed, account access and verified onboarding totals.\n- [ ] Summarise top technical issues and observed conversion barriers.\n- [ ] Provide improvement recommendations and short guide for next intake.\n- [ ] Give Pragati aggregate evidence references; private product records remain private.\n\n## Output to submit\nFinal product funnel report and next-phase improvements\n\n## Acceptance criteria (definition of done)\nFounder can audit figures without publicly exposing student identities\n\n## Planning target / KPI rule\n2–3 demos when scheduled; verify 100% of claimed registrations with product evidence and log blockers.\n\n## End-of-day report (comment below by proposed 7:00 PM IST)\nCopy this format and replace placeholders with **actuals**, including 0 if none:\n\n```text\nDAY: 15 | OWNER: Shrushti\nSTATUS: In Progress / Blocked / Ready for Review\nTASKS COMPLETED: [x of y + brief summary]\nTARGET vs ACTUAL: [specific counts; 0 if no result]\nEVIDENCE (SAFE PUBLIC LINKS): [approved post/demo agenda/document links; no contact lists]\nLEAD / DEMO / REGISTRATION COUNTS: [aggregate only]\nBLOCKERS + WHO MUST FIX:\nNEXT ACTION + DATE:\nFOUNDER REVIEW: Pending\n```\n\n### Security and review\n- This repository is **PUBLIC**: no student names, phone numbers, email addresses, personal handles, unredacted screenshots, CRM exports, passwords, OTPs or private pricing notes.\n- Keep lead-level details and verification records in a founder-approved **PRIVATE** tracker, refer to aggregate counts only here.\n- When done, tick boxes and comment `STATUS: Ready for Review` with public-safe proof. Pragati checks; founder approves; only then close issue and mark `status:approved` if used.\n- Never promise placements, certificates, pricing, 7-day trials or features until founder verifies them live. No purchased lists, scraping, fake reviews or unsolicited bulk messages. Stop at opt-out; at most two follow-ups to an unresponsive person.\n",
+    "labels": [
+      "owner:shrushti",
+      "day:15",
+      "status:todo",
+      "type:marketing-task"
+    ]
+  }
+]
