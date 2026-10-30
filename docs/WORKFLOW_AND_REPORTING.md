@@ -41,3 +41,11 @@ A working day starts when the team agrees it starts; Day 1 isn't assumed to be O
 - Outreach: attempts, meaningful replies, opt-in demo count; not student names/handles/DMs.
 - Onboarding: # registrations started, complete, access confirmed, onboarding complete, connected unique total; proofs stay in restricted product system.
 - **All statuses and numbers must reflect reality, including zero.** No fabrication or generic "completed" without detail.
+
+
+## Conversion-focused reviews (new)
+
+- Public daily issue reports must include **net verified paid and onboarded / 15** and **business approached / 1** alongside existing activity counts.
+- Pragati privately reconciles totals with Shrushti's verified payment/onboarding report. Founder checks accounting/payment source of truth. Rupam shows privately dated evidence of the first approved business approach.
+- **Day 5/10/15:** Founder assesses genuine conversion, not just content and messages. Missed milestones generate corrective tasks and realistic adjustment, never fabricated wins.
+- The repo is public: do **not** paste students' identities, payment/transaction data or private business CRM records into issues. Full specification: [paid conversion playbook](PAID_ACQUISITION_AND_BUSINESS_OUTREACH.md).
