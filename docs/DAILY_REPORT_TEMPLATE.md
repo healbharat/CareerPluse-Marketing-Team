@@ -38,3 +38,19 @@ Founder decisions: fix signup first; approve campus FAQ wording
 ```
 
 These are format examples, **not** recorded results.
+
+
+## REQUIRED: additional paid and business conversion reporting fields
+
+Append the following to the existing GitHub Issue comment. These are **aggregate numbers only**, not customer/payment identities. Source records remain private.
+
+```text
+PAID STUDENTS (TODAY): successful verified and onboarded __ | refunds/reversals __ | net new __
+NET VERIFIED PAID & ONBOARDED (CUMULATIVE): __ / 15
+PAYMENT / SIGNUP BLOCKERS: __
+BUSINESS PROSPECTS (RUPAM): researched __ | qualified __ | approached __ | replied __ | meetings held __
+BUSINESS APPROACHED CUMULATIVE: __ / 1
+TRACKER RECONCILED: Yes / No | FOUNDER APPROVAL: Pending / Approved / Changes
+```
+
+A paid student is verified only after a successful authorised payment, registration, account access and initial onboarding, excluding reversed/refunded accounts from the net active total. A business approach counts only after an actual personalised first outreach was sent. Refer to [the new conversion playbook](PAID_ACQUISITION_AND_BUSINESS_OUTREACH.md).
