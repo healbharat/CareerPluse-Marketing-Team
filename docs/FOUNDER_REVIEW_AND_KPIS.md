@@ -35,3 +35,15 @@ Fields: unique ID; owner; student identity/contact details (only if voluntarily 
 ## Approved claims register (private founder-controlled)
 
 Each claim: exact wording, feature or price status, evidence date, founder approval date, expiry/re-test date. Do not advertise a 7-day trial, ₹999 pricing, placements, certificates, internship experience, guarantees or security certifications unless currently verified and authorised.
+
+
+## Revised PRIMARY goal (supersedes earlier 10-connected metric)
+
+- **Day 15: ≥15 unique net paid, successfully onboarded CareerPluse students** (not just leads, trials, unpaid registrations or unverified payment claims).
+- **Day 15: ≥1 genuine business approached** with an authorised, personalised first message/call logged in private CRM; 1 business reply/discovery conversation is a stretch goal, not the same as a paying business client.
+- **Checkpoints, cumulative paid:** Day 5 ≥2; Day 7 ≥4; Day 10 ≥7; Day 12 ≥10; Day 15 ≥15. All are planning milestones, not outcomes or guarantees.
+- **Private reconciliation:** Successful captured/settled payment in authorised records, unique student ID, account access, onboarding completed, minus confirmed refunded/reversed payments. Aggregate only on public GitHub.
+- **Business stages:** Researched → Qualified → Approached (first outreach sent) → Replied → Meeting held → Proposal → Paying client (payment actually received). Count each stage independently.
+- **Daily founder report now includes:** paid today, refunds/reversals, cumulative net verified paid/onboarded, gap to 15; business researched, approached, replied, meetings and business-approached gap to 1. Never post names, payments, receipts, transaction IDs or private business details publicly.
+
+Detailed day-by-day conversion playbook: [Paid Acquisition and Business Outreach](PAID_ACQUISITION_AND_BUSINESS_OUTREACH.md).
