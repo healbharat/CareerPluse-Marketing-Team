@@ -1,68 +1,48 @@
-# CareerPluse · 15-Day Marketing Execution Board
+# CareerPluse — Marketing Team GitHub Task Board
 
-**Public GitHub task tracker** for [CareerPluse.in](https://careerpluse.in). This repository contains **60 individual GitHub Issue tasks: 4 named people × 15 days**, plus SOPs, reporting templates and import scripts. It intentionally contains **no student/customer data**.
+**Public task tracker:** [CareerPluse.in](https://careerpluse.in) | [All GitHub Issues](https://github.com/healbharat/CareerPluse-Marketing-Team/issues)
 
-> **Team note:** The current names provided are **4 people**, not 5. Pragati holds two responsibilities: team leadership **and** content/social marketing. We have not invented a fifth member. Founder is the approver.
+## Current team (updated November 2026)
 
-## Team and ownership
+| Member | GitHub | Role | Days / issue numbers |
+|---|---|---|---|
+| Pragati | `@PragatiC-code` | Marketing team lead, content & social, campus strategy and 1-business approach handover | Day 1–15: #1–15; Day 16–20: #16, #20–22, #25 |
+| Mannu Sharma | `@mannusharma8397` | Student outreach, community/campus-club contacts | Day 1–15: #31–45; Day 16–20: #17–19, #24, #26 |
+| Shrushti | `@srushtip223` | Demos, payment verification, onboarding and campus session support | Day 1–15: #46–60; Day 16–20: #23, #27–30 |
+| Vaishnavi | `@vaishnavi-2312-google` | **Instagram Stories engagement only** | Her own Day 1–15: #61–75 |
+| Founder | `@healbharat` | Approvals, lead/privacy safeguards, finance verification, final issue closure | Across all work |
 
-| Person | Fixed role | Owner issue label |
-|---|---|---|
-| **Pragati** | Marketing Team Leader **and** Social Media & Content Marketing Executive | `owner:pragati` |
-| **Rupam** | College Outreach & Partnership Executive | `owner:rupam` |
-| **Mannu Sharma** | Student Outreach & Community Executive | `owner:mannu` |
-| **Shrushti** | Product Demo, Registration & Onboarding Executive | `owner:shrushti` |
-| **Founder** | Approvals, priorities, high-value meetings, final issue closure | N/A |
+**Former intern:** Rupam has left. Her 15 original issues #16–30 have been **reassigned and rescheduled**, with the existing issue numbers retained, preserving task history. Her access must also be revoked via [GitHub Manage Access](https://github.com/healbharat/CareerPluse-Marketing-Team/settings/access) by the repository owner. **Do not re-invite her.**
 
-## Start here (students)
+## Current campaign targets
 
-1. Open **Issues** at `https://github.com/OWNER/CareerPluse-Marketing-Team/issues` (replace OWNER with repository owner). Click a task with your name or filter `owner:yourname`.
-2. Read **Day 01** first; complete dependencies before Day 03 promotions. **Day means working day**; no dates are presumed.
-3. Move issue progress by posting an update comment. Tick each action when finished. Never mark not-yet-done as done.
-4. **At end of each workday (suggested 7:00 PM IST)** comment using the report format in your Issue; raw leads and private screenshots go **only in private CRM**, not GitHub.
-5. Mark issue `Ready for Review` in comment. Pragati verifies completeness; founder approves and closes it. **Only approved/closed tasks count as completed**.
-6. If blocked, write `STATUS: Blocked`, name blocker and what help is needed. Do not hide zero results.
+- **15 unique net PAID and successfully onboarded CareerPluse students by the original Day 15** (planning target, not actuals). A paid count requires genuinely confirmed payment + registered account + access + onboarding; subtract refunded/reversed payments. Day 16–20 handover tasks do not change that original deadline.
+- **At least one real business approached** with a founder-approved Heal Bharat Services offer; Pragati now owns the business contact handover, not Rupam. An approach does not mean a reply or a paying client.
+- Vaishnavi measures interactive Story engagement and student preferences, **not** student payments or business sales.
 
-**Founder:** review the daily summaries by suggested **7:30 PM IST**, approve pricing/claims, remove blockers, audit day 5/10/15 funnel.
+## Key links
 
-## Goals (planning targets, not guarantees)
+- [All tasks](https://github.com/healbharat/CareerPluse-Marketing-Team/issues)
+- [Pragati — 20 tasks](https://github.com/healbharat/CareerPluse-Marketing-Team/issues?q=is%3Aissue+label%3Aowner%3Apragati)
+- [Mannu Sharma — 20 tasks](https://github.com/healbharat/CareerPluse-Marketing-Team/issues?q=is%3Aissue+label%3Aowner%3Amannu)
+- [Shrushti — 20 tasks](https://github.com/healbharat/CareerPluse-Marketing-Team/issues?q=is%3Aissue+label%3Aowner%3Ashrushti)
+- [Vaishnavi — 15 Story tasks](https://github.com/healbharat/CareerPluse-Marketing-Team/issues?q=is%3Aissue+label%3Aowner%3Avaishnavi)
+- [Full revised matrix](docs/15_DAY_TASK_MATRIX.md)
+- [Vaishnavi Story plan + brand-kit prerequisite](docs/VAISHNAVI_INSTAGRAM_STORIES_PLAN.md)
+- [Team change + assignment/access notes](docs/TEAM_HANDOVER_NOV_2026.md)
+- [Daily reporting workflow](docs/WORKFLOW_AND_REPORTING.md)
+- [Paid / business outcome definitions](docs/PAID_ACQUISITION_AND_BUSINESS_OUTREACH.md)
 
-- **Primary:** **10+ verified connected students in the first 15 working days.** Count only genuine interest + completed registration + account access + completed onboarding, all evidenced in private product records.
-- Approximate funnel planning assumptions from prior playbook: **120–150** directly contacted relevant students (across sources), **15–20** demo/session attendees or walkthroughs, and **12–18** registration attempts. Review with actual results after day 5; these are not forecasts.
-- Rupam: ~5 researched college prospects and up to 3 personalised contacts on active outreach days.
-- Mannu: up to 10 personalised, permission-based contacts on active outreach days; quality beats volume.
-- Pragati: ~3–5 approved quality posts/Reels weekly, daily leadership and reporting.
-- Shrushti: ~2–3 demos **when scheduled**; 100% verification for claimed onboarding counts.
+## Daily workflow
 
-## Project files
+1. Open only your assigned issue for the relevant **working Day**; do not confuse Vaishnavi's own Day 1–15 with the others' later Day 16–20.
+2. Check the task-specific list; work only on manager-approved brand material, pricing, and public claims.
+3. Post an **actual, public-safe** daily Issue comment by the agreed cutoff (proposed 7:00 PM IST).
+4. Pragati reviews at 7:15 PM, Founder approves at 7:30 PM (suggested, adjust by team agreement).
+5. After approval Founder closes the issue. A written task attempt is not proof that a paid student or business client was acquired.
 
-| File | Use |
-|---|---|
-| [`docs/ROLES_AND_TARGETS.md`](docs/ROLES_AND_TARGETS.md) | Fixed role contract and KPIs |
-| [`docs/15_DAY_TASK_MATRIX.md`](docs/15_DAY_TASK_MATRIX.md) | All daily work at a glance |
-| [`docs/WORKFLOW_AND_REPORTING.md`](docs/WORKFLOW_AND_REPORTING.md) | GitHub issue process and deadlines |
-| [`docs/DAILY_REPORT_TEMPLATE.md`](docs/DAILY_REPORT_TEMPLATE.md) | Reusable daily comment format |
-| [`docs/FOUNDER_REVIEW_AND_KPIS.md`](docs/FOUNDER_REVIEW_AND_KPIS.md) | How to measure and audit conversions |
-| [`docs/APPROVED_CLAIMS_AND_PRIVACY.md`](docs/APPROVED_CLAIMS_AND_PRIVACY.md) | Marketing compliance and privacy |
-| [`issues.json`](issues.json) | Source of truth for 60 detailed tasks, used by import script |
-| [`scripts/setup-github.ps1`](scripts/setup-github.ps1) | **One-time public repo setup** with GitHub CLI on Windows |
-| [`scripts/import-issues.ps1`](scripts/import-issues.ps1) | Idempotent GitHub Issue import (if setup interrupted) |
+**Privacy:** This is a **PUBLIC** repository. Never upload student names, phone numbers, emails, private DMs, passwords, personal profiles, private lead sheets, payment receipts, transaction IDs or unpublished student responses. Keep them in restricted company systems.
 
-## Important security boundary
+## Legacy setup warning
 
-A **public** repo is the right place for responsibilities, safe work links, aggregate KPI summaries and review comments. A **private** approved tracker is required for contact details, names of prospects, student account status and proof of registrations. Never upload lead lists here.
-
-## GitHub usernames are not yet known
-
-The task **owner name and label** are set in every Issue. Actual GitHub `assignee` accounts are **not assigned** because only personal names were supplied. After students share GitHub usernames, Founder can invite them as collaborators in **Settings → Collaborators and teams** and assign relevant issues. Never assume an identity based on someone’s name.
-
-## Source and scope
-
-Adapted from the supplied *Heal Bharat Services & CareerPluse — 15-Day Marketing Execution Plan* and *Heal Bharat Services — Marketing Team Responsibilities & Work Plan*. Both source PDFs combined CareerPluse and business-service marketing. **This repo covers CareerPluse only.** Concrete daily scheduling and owner split are newly designed operating recommendations, not claims already achieved.
-
-
-## NEW: 15 paid students + 1 business approach (15 working days)
-
-**Updated outcome target:** **15 unique net paid and successfully onboarded CareerPluse students** by Day 15, plus **at least one genuine business prospect approached** for a verified Heal Bharat Services offering. These are *targets, not recorded achievements*. This replaces the previous 10+ free/connected-student goal as the primary success metric. Do not count unpaid signups, pending/failed/refunded payments or a mere verbal business lead as a win. Pricing/trial terms must be founder-verified; never presume ₹999 or a free trial is live.
-
-**Read the full detailed execution and reporting plan:** [Paid Acquisition & Business Outreach](docs/PAID_ACQUISITION_AND_BUSINESS_OUTREACH.md). The 60 existing GitHub Issues each contain a paid/business conversion add-on. At Day 5/10/15 Founder reviews actual numbers and blocker reports. **No student/transaction/prospect identities in this public repo.**
+The initial 60-item `issues.json` and its original import/setup scripts are **historical bootstrap artifacts**, not the current live assignment source; **do not rerun them**, as they may refer to Rupam or old issue titles. The **GitHub Issues and this updated README** are the current source of truth. The original invite-and-assign script has been disabled to prevent inviting a former intern.
