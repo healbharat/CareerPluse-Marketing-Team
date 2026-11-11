@@ -28,9 +28,9 @@
 | Registration or approved checkout starts | 20–30 | Shrushti |
 | **Net verified paid & onboarded students** | **15 by Day 15** | Shrushti independently verifies; founder approves |
 | Business prospects researched | 8–10 | Rupam |
-| Qualified business shortlist | 3 | Rupam + Founder |
-| **Business approached (personalised first message/call)** | **≥1 by Day 7, maintain by Day 15** | Rupam; Founder approves |
-| Business replies / two-way discussions | Stretch ≥1 | Rupam + Founder |
+| Qualified business shortlist | 3 | Pragati + Founder |
+| **Business approached (personalised first message/call)** | **≥1 by Day 7, maintain by Day 15** | Pragati; Founder approves |
+| Business replies / two-way discussions | Stretch ≥1 | Pragati + Founder |
 
 ## Milestone targets (cumulative, planning only)
 
@@ -47,26 +47,26 @@
 
 | Day | Required add-on actions |
 |---|---|
-| 1 | Pragati: founder-verified price/payment policy; Rupam: identify business buyer segment; Mannu: define interested-vs-paid; Shrushti: payment/signup test plan |
-| 2 | Pragati: paid funnel columns + private ledger access; Rupam: research 8-10 business prospects; Mannu: consent-based discovery list; Shrushti: verified checkout/onboarding SOP |
-| 3 | Pragati: approved priced CTA; Rupam: shortlist 3 business prospects; Mannu: approved student discovery; Shrushti: pricing/receipt FAQ |
-| 4 | Pragati: paid conversions vs enquiries report; Rupam: draft 1 custom business pitch; Mannu: interested paid-intent handoffs; Shrushti: demo + payment help |
-| 5 | Pragati: founder checkpoint (planning ≥2 paid); Rupam: founder review of business pitch; Mannu: warm lead analysis; Shrushti: reconcile paid unique count |
-| 6 | Pragati: trust/offer clarification content; Rupam: first approved business approach; Mannu: consented follow-ups; Shrushti: help legitimate checkouts |
-| 7 | Pragati: daily source-level funnel; Rupam: log proof of 1 business approach sent; Mannu: orientation invitation; Shrushti: payment/onboarding quality |
-| 8 | Pragati: real product proof content; Rupam: seek business discovery call if response; Mannu: schedule student demos; Shrushti: paid walkthrough |
-| 9 | Pragati: review channel ROI; Rupam: qualify business needs/budget; Mannu: address cost questions via approved FAQ; Shrushti: verify payment status |
-| 10 | Pragati: founder checkpoint (planning ≥7 paid); Rupam: audit business approached vs replied; Mannu: conversion drop-off report; Shrushti: financial reconciliation |
-| 11 | Pragati: verified FAQ/reassurance campaign; Rupam: polite business follow-up if allowed; Mannu: honest price/eligibility answers; Shrushti: stalled payment troubleshooting |
-| 12 | Pragati: optimize approved CTA; Rupam: prepare short business discovery agenda; Mannu: optional consensual referrals; Shrushti: after-purchase feedback |
-| 13 | Pragati: conversion bottleneck coaching; Rupam: seek meeting or document no-reply; Mannu: warm leads; Shrushti: end-to-end paid onboarding |
-| 14 | Pragati: audit uniqueness and refunds; Rupam: final approved business next-step; Mannu: final opt-in follow-ups; Shrushti: check paid + access + onboarding |
-| 15 | Pragati: founder audit (planning 15 paid); Rupam: business approached/replied/meeting report; Mannu: channel attribution totals; Shrushti: ledger-confirmed paid total |
+| 1 | Pragati: founder-verified price/payment policy; Pragati: identify business buyer segment; Mannu: define interested-vs-paid; Shrushti: payment/signup test plan |
+| 2 | Pragati: paid funnel columns + private ledger access; Pragati: research 8-10 business prospects; Mannu: consent-based discovery list; Shrushti: verified checkout/onboarding SOP |
+| 3 | Pragati: approved priced CTA; Pragati: shortlist 3 business prospects; Mannu: approved student discovery; Shrushti: pricing/receipt FAQ |
+| 4 | Pragati: paid conversions vs enquiries report; Pragati: draft 1 custom business pitch; Mannu: interested paid-intent handoffs; Shrushti: demo + payment help |
+| 5 | Pragati: founder checkpoint (planning ≥2 paid); Pragati: founder review of business pitch; Mannu: warm lead analysis; Shrushti: reconcile paid unique count |
+| 6 | Pragati: trust/offer clarification content; Pragati: first approved business approach; Mannu: consented follow-ups; Shrushti: help legitimate checkouts |
+| 7 | Pragati: daily source-level funnel; Pragati: log proof of 1 business approach sent; Mannu: orientation invitation; Shrushti: payment/onboarding quality |
+| 8 | Pragati: real product proof content; Pragati: seek business discovery call if response; Mannu: schedule student demos; Shrushti: paid walkthrough |
+| 9 | Pragati: review channel ROI; Pragati: qualify business needs/budget; Mannu: address cost questions via approved FAQ; Shrushti: verify payment status |
+| 10 | Pragati: founder checkpoint (planning ≥7 paid); Pragati: audit business approached vs replied; Mannu: conversion drop-off report; Shrushti: financial reconciliation |
+| 11 | Pragati: verified FAQ/reassurance campaign; Pragati: polite business follow-up if allowed; Mannu: honest price/eligibility answers; Shrushti: stalled payment troubleshooting |
+| 12 | Pragati: optimize approved CTA; Pragati: prepare short business discovery agenda; Mannu: optional consensual referrals; Shrushti: after-purchase feedback |
+| 13 | Pragati: conversion bottleneck coaching; Pragati: seek meeting or document no-reply; Mannu: warm leads; Shrushti: end-to-end paid onboarding |
+| 14 | Pragati: audit uniqueness and refunds; Pragati: final approved business next-step; Mannu: final opt-in follow-ups; Shrushti: check paid + access + onboarding |
+| 15 | Pragati: founder audit (planning 15 paid); Pragati: business approached/replied/meeting report; Mannu: channel attribution totals; Shrushti: ledger-confirmed paid total |
 
 ## Responsibilities (no fifth student invented)
 
 - **Pragati — Team Leader + Content:** daily paid funnel scorecard, founder-approved offer/CTA content, track 15-person milestone; reviews all reports at 7:15 PM IST. Does not verify personal transactions publicly.
-- **Rupam — Campus + additional Heal Bharat Business Outreach:** continue normal college work; research 8–10 plausible businesses, shortlist 3, get founder-approved service/pitch, contact ≥1 by day 7 and follow up respectfully if appropriate. This is a small additional business sub-workstream, not a replacement for campus outreach.
+- **Pragati — Team Leader + campus-strategy / Heal Bharat Business Outreach Handover:** continue normal college work; research 8–10 plausible businesses, shortlist 3, get founder-approved service/pitch, contact ≥1 by day 7 and follow up respectfully if appropriate. This is a small additional business sub-workstream, not a replacement for campus outreach.
 - **Mannu Sharma — Student Outreach:** relevant personalised opt-in education and conversations; qualify intent, ask permission for demonstrations, handoff warm prospects privately to Shrushti; no spam or pressure-based payment tactics.
 - **Shrushti — Demo, Registration & Paid Onboarding:** validate actual working payment journey, demo only verified features, guide approved checkout, verify successful payment privately, ensure account access/onboarding and reconciled distinct paid counts.
 - **Founder — final approval and business close owner:** approve price/refund/trial copy, authorise any real offers, review Day 5/10/15 paid funnel, attend business qualification/discovery calls, and close reviewed GitHub issues.
@@ -94,3 +94,7 @@ FOUNDER REVIEW: Pending / Changes requested / Approved
 ## Exception rules
 
 If no approved price, no verified checkout, privacy/terms missing or the product cannot be accessed: mark **Blocked**, report actuals even if 0, and fix the dependency before marketing payment. If 15 paid is missed, Day 15 records the true count and reasons; do not claim success. Business cold outreach needs relevance and compliance, not indiscriminate volume.
+
+## November 2026 staffing change — definitive owner override
+
+**Rupam left the internship. Rupam has no current assignments.** All 15 former Rupam issues (#16–30) have been reassigned as Day 16–20 handover tasks: Pragati #16, #20–22, #25; Mannu Sharma #17–19, #24, #26; Shrushti #23, #27–30. **Pragati, with founder approval, now owns the 1-business-approach target and service pitch coordination**, not Rupam. Do not treat the earlier references to Rupam in historical day-by-day planning as current ownership. New Day 16–20 work does not extend the original Day 15 paid-enrollment target. Vaishnavi is exclusively Instagram Stories student engagement; she is not responsible for business clients or paid conversions. Follow [updated daily matrix](15_DAY_TASK_MATRIX.md) and [Vaishnavi Story plan](VAISHNAVI_INSTAGRAM_STORIES_PLAN.md).
