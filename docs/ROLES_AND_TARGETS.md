@@ -1,38 +1,41 @@
-# Fixed Roles & Targets
+# Current CareerPluse Marketing Team — Roles and Ownership (November 2026)
 
-**Scope:** CareerPluse student marketing only. One owner per task. A person may collaborate but should not take over another role without founder approval.
+## Pragati — Marketing Team Leader, Content & Social
+GitHub `@PragatiC-code`; 20 issues: original Day 1–15 (#1–15), follow-on Day 16–20 (#16, #20–22, #25).
 
-## Pragati: Marketing Team Leader + Social Media & Content Marketing Executive
+- Review team reports, approved live product/price/trial claims, content calendar, 3–5 quality approved posts/Reels weekly when feasible.
+- Take over college-partnership strategic coordination and **business outreach ownership** from departed Rupam. Research/verify suitable business fit, obtain founder-approved Heal Bharat service pitch, make at least one real personalised approach, keep reply/meeting distinct.
+- Give Vaishnavi the **official approved brand kit** (Canva brand templates, logo, font, palette, tone, story-sticker guidelines) or arrange access from Marketing Manager. No live Instagram publication without approval.
+- Every working day report safe aggregate funnel metrics and blockers to Founder.
 
-**Cadence:** Daily all-team tracker audit; one approved content draft/day on working days; 3–5 quality published posts/reels per week.
+## Mannu Sharma — Student Outreach and Community
+GitHub `@mannusharma8397`; 20 issues: Day 1–15 (#31–45); added Day 16–20 (#17–19, #24, #26).
 
-**Definition of success:** Verified, useful output and recorded evidence; not raw volume or fabricated results.
+- Permission-based personalised student community outreach; original activity target up to 10 relevant contacts per active outreach day.
+- Take over coding club/college community research, personalised permission requests and campus-club follow-ups. Avoid unsolicited bulk messaging; respect opt-out.
+- Handoff interested students privately for Shrushti demo/onboarding and provide safe public-only results in Issues.
 
-## Rupam: College Outreach & Partnership Executive
+## Shrushti — Product Demo, Registration, Onboarding
+GitHub `@srushtip223`; 20 issues: Day 1–15 (#46–60); added Day 16–20 (#23, #27–30).
 
-**Cadence:** 5 relevant college/club prospects researched and up to 3 personalised permission-based contacts on active outreach days.
+- Test live functionality, demonstrate only verified product features, assist users with actual site registration/approved payment steps.
+- Count paid students only after payment is successfully confirmed in authorised records, account access works and onboarding is complete, less confirmed reversals/refunds.
+- Take over campus demo/Q&A coordination and follow-up verification.
+- Never collect OTPs, passwords, card details or publish payment records.
 
-**Definition of success:** Verified, useful output and recorded evidence; not raw volume or fabricated results.
+## Vaishnavi — Instagram Stories Student Engagement Intern (EXCLUSIVE scope)
+GitHub `@vaishnavi-2312-google`; 15 tasks in Issues #61–75, **own Day 1–15**.
 
-## Mannu Sharma: Student Outreach & Community Executive
+- Instagram interactive Poll, Quiz, Questions, Emoji Slider, This-or-That, Q&A and feedback surveys **only**.
+- Day 1: obtain official content brand kit **from Marketing Manager / Pragati**, receive Canva templates and approval instructions. Do not invent independent branding.
+- Design and post only approved 1080×1920 story creatives through authorised Instagram access; report story views, votes, quiz answers, question counts and anonymised insights.
+- **No college outreach, business prospecting, sales/payment collection or internship/job guarantees.**
 
-**Cadence:** Up to 10 relevant personalised permission-based contacts on active outreach days; track meaningful replies and hand-offs, not spam volume.
+## Founder — Approval owner
+Confirm live features, pricing, trial terms, refund policy, privacy, business-service scope; review private finance/CRM records, settle ownership of active leads, approve final issue closure.
 
-**Definition of success:** Verified, useful output and recorded evidence; not raw volume or fabricated results.
+## Former intern
+**Rupam has left and no longer owns any issues.** Revoke any pending invitation/collaborator access at [repo access settings](https://github.com/healbharat/CareerPluse-Marketing-Team/settings/access). Do not re-invite her.
 
-## Shrushti: Product Demo, Registration & Onboarding Executive
-
-**Cadence:** 2–3 demos when scheduled; verify 100% of claimed registrations with product evidence and log blockers.
-
-**Definition of success:** Verified, useful output and recorded evidence; not raw volume or fabricated results.
-
-## Founder — Management Approver
-
-Confirm official URL and working links; approve the **live feature list**, eligibility, pricing and any trial duration. Approve content/public pitch before publication. Maintain confidential CRM access and review KPI evidence. High-value college partner calls require founder participation as needed. Founder verifies and closes tasks after Pragati review.
-
-**Time budget:** Pragati holds TWO roles; reduce content volume or share design production by explicit founder-approved arrangement if daily leadership becomes excessive.
-
-
-## New conversion accountability — 15 paid + 1 approached business
-
-**Pragati:** own weekly approved pricing/benefit messaging, compile daily paid-funnel KPIs, flag performance gap from 15, coordinate founder review. **Rupam:** own the additional micro-workstream of 8–10 business prospects researched; three shortlisted; one personalised approved business approach sent by Day 7; log a reply or meeting separately, not as a won client. **Mannu Sharma:** source real opt-in student leads and paid-intent handoffs; never pressure anyone to purchase. **Shrushti:** prove successful authorised payment + registration + account access + initial onboarding for every paid student; check refunds/reversals and deduplicate. **Founder:** confirm real live price, payment, offer, refund and service claims before outreach; review private finance records. Full targets: [Paid Acquisition & Business Outreach](PAID_ACQUISITION_AND_BUSINESS_OUTREACH.md).
+## Targets
+**Original Day 15:** 15 unique net paid + fully onboarded students (target only) and ≥1 real founder-approved business outreach. The new Day 16–20 follow-on tasks do not retroactively change that original goal. See [payment and business guide](PAID_ACQUISITION_AND_BUSINESS_OUTREACH.md).
