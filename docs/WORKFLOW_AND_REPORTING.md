@@ -1,51 +1,49 @@
-# GitHub Operating Procedure (SOP)
+# CareerPluse GitHub Reporting & Review — Updated Team
 
-## Onboarding collaborators
+## Where everyone works
+- [Pragati's 20 issues](https://github.com/healbharat/CareerPluse-Marketing-Team/issues?q=is%3Aissue+label%3Aowner%3Apragati)
+- [Mannu's 20 issues](https://github.com/healbharat/CareerPluse-Marketing-Team/issues?q=is%3Aissue+label%3Aowner%3Amannu)
+- [Shrushti's 20 issues](https://github.com/healbharat/CareerPluse-Marketing-Team/issues?q=is%3Aissue+label%3Aowner%3Ashrushti)
+- [Vaishnavi's 15 Instagram Stories issues](https://github.com/healbharat/CareerPluse-Marketing-Team/issues?q=is%3Aissue+label%3Aowner%3Avaishnavi)
+- Vaishnavi must be invited as a **write collaborator** and accept before her Issues can be assigned to her GitHub account. Existing owner labels do NOT grant access.
+- Rupam no longer owns tasks. Repo owner must revoke her invitation/access if any remains.
 
-1. Founder: open repository **Settings → Collaborators and teams → Add people**; invite each student's **exact GitHub username** when given. GitHub may require accepting invitation before assignee list works.
-2. Each student: open repo → **Issues**, filter by `label:owner:pragati` etc., and open the task for the current numbered day. Do not use someone else's account.
-3. Founder may set real GitHub assignees after collaborators accept. **Name labels are present even before usernames are available.**
+## Reporting timeline (suggested, adjustable at kickoff)
+- 10:00 AM IST: review assigned tasks and unblock requests.
+- 1:30 PM: asynchronous urgent approval check.
+- **7:00 PM:** each intern posts daily comment inside assigned Issue.
+- **7:15 PM:** Pragati reviews each comment; audits paid + business aggregates with private authorised sources.
+- **7:30 PM:** Founder approves, requests changes or closes completed Issue.
 
-## Timeline (suggested, change at kickoff if needed)
+## Main team daily comment
+```text
+DAY: __ | OWNER: __ | STATUS: In Progress / Blocked / Ready for Review
+ACTIONS COMPLETED: __ / __
+ACTIVITY: [relevant] researched __; contacts __; replies __; demos held __
+PAID TODAY verified and onboarded: __ | refunds/reversals __
+NET PAID + ONBOARDED cumulative: __/15
+BUSINESSES: researched __; approached __/1; replied __; meetings __
+EVIDENCE: approved public-safe links only
+BLOCKERS: __ | NEXT ACTION: __
+PRAGATI REVIEW: Pending | FOUNDER APPROVAL: Pending
+```
 
-- **10:00 AM IST:** 10-minute kickoff; Pragati reminds daily tasks and blockers.
-- **1:30 PM IST:** async check-in if a blocker affects outreach/registration.
-- **7:00 PM IST:** every person posts a factual issue comment with result and safe public evidence.
-- **7:15 PM IST:** Pragati audits 4 daily issue comments and posts an aggregate founder summary.
-- **7:30 PM IST:** founder checks report and marks completion/requests changes.
+## Vaishnavi Stories-only daily comment
+```text
+STORY DAY: __ | OWNER: Vaishnavi | STATUS: In Progress / Blocked / Ready for Review
+BRAND KIT RECEIVED FROM MARKETING MANAGER: Yes / No
+FORMAT: Poll / Quiz / Questions / This-or-That / Q&A / Emoji Slider
+STORY DESIGNS CREATED __ | APPROVED __ | PUBLISHED __
+VIEWS __ | VOTES __ | QUESTION RESPONSES __ | STICKER INTERACTIONS __
+ANONYMISED STUDENT INSIGHTS: __
+CANVA / PUBLIC STORY LINK: __
+BLOCKERS __ | NEXT ACTION __ | PRAGATI REVIEW Pending
+```
 
-A working day starts when the team agrees it starts; Day 1 isn't assumed to be October 30. No outreach before approved pitch and tested signup journey.
+No personal responses, DMs, student contacts, account screenshots with private identifiers or transaction details may go on public GitHub. Use private, approved company CRM/Instagram analytics for source proof.
 
-## Workflow
+## Issue lifecycle
+`To Do → In Progress → Ready for Review → Founder Approved/Closed`. If blocked, comment `STATUS: Blocked` with owner, exact dependency and next action. Only real outcomes count as outcomes. Never claim Instagram poll engagement proves paid conversion.
 
-`To Do → In Progress → Ready for Review → Approved/Closed` or `Blocked`.
-
-- **To Do:** issue open + initial label `status:todo`.
-- **In Progress:** owner comments `STATUS: In Progress` and edits checkboxes.
-- **Blocked:** owner comments `STATUS: Blocked`, explains cause, owner of fix and recheck date. Never quietly close.
-- **Ready for Review:** owner ticks checkboxes, links public-safe evidence and posts report. Pragati verifies it; marks review via comment.
-- **Approved/Closed:** Founder confirms evidence, closes issue and optionally replaces label with `status:approved`.
-- **Not achieved:** still report real output. A task may be closed after an honest documented attempt if acceptance criteria are met; numerical conversion goals remain actuals, not invented wins.
-
-## Where to find/report tasks
-
-- Click **Issues** → filter `label:owner:pragati`, `label:owner:rupam`, `label:owner:mannu`, `label:owner:shrushti`.
-- For Day 05 issues filter `label:day:05`.
-- Use comments inside **your own daily issue**; link to the deliverable when publicly safe. Founder checks all four daily issues, not one combined chat screenshot.
-- For cross-team handoffs: comment only with aggregate status and mark the recipient in name; put individual student records only in private company-approved CRM.
-
-## Reporting proof
-
-- Social: published public post link, impressions/engagement in aggregate; do not include private DM screenshots.
-- Campus: count of researched institutions, official public links if appropriate, count of consented outreach, session count; not private emails/phone numbers.
-- Outreach: attempts, meaningful replies, opt-in demo count; not student names/handles/DMs.
-- Onboarding: # registrations started, complete, access confirmed, onboarding complete, connected unique total; proofs stay in restricted product system.
-- **All statuses and numbers must reflect reality, including zero.** No fabrication or generic "completed" without detail.
-
-
-## Conversion-focused reviews (new)
-
-- Public daily issue reports must include **net verified paid and onboarded / 15** and **business approached / 1** alongside existing activity counts.
-- Pragati privately reconciles totals with Shrushti's verified payment/onboarding report. Founder checks accounting/payment source of truth. Rupam shows privately dated evidence of the first approved business approach.
-- **Day 5/10/15:** Founder assesses genuine conversion, not just content and messages. Missed milestones generate corrective tasks and realistic adjustment, never fabricated wins.
-- The repo is public: do **not** paste students' identities, payment/transaction data or private business CRM records into issues. Full specification: [paid conversion playbook](PAID_ACQUISITION_AND_BUSINESS_OUTREACH.md).
+## Timeframe note
+The reassigned Day 16–20 tasks are **additional follow-on work** and do NOT change the original Day-15 conversion goal. Vaishnavi's Day 1 starts when she receives the official brand kit, approval and access; it is independent of the other interns' Day 16–20.
