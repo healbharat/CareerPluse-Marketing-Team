@@ -9,7 +9,7 @@ Separate 10-calendar-day **Growth Sprint subproject** for six marketing workstre
 - [Sprint 2 reporting, evidence and privacy rules](campaigns/2026-11-22-growth-sprint/REPORTING_AND_APPROVAL.md)
 - [Master Campaign Issue #76](https://github.com/healbharat/CareerPluse-Marketing-Team/issues/76)
 
-**New student access:** Two new interns have 10 task placeholders each; **no new invitations were sent**. Existing marketing roster is unchanged. For this 10-day Sprint, shared targets are 30 new legitimate registrations, 15 net new paid subscriptions, 10 colleges with 1 qualified positive discussion, 20 clients with 2 qualified two-way discussions, 2 onboarded campus ambassadors, 10 Instagram + 10 LinkedIn interactive feed posts, 4 Reels, and 10 Instagram Stories sequences.
+**New student access:** Yashika (`yashikakilledar2-cpu`) and Bhagyashrii (`Bhagya242656`) each have 10 named, dated Issues; formal GitHub assignment is still pending, and **no new invitations were sent**. Existing marketing roster is unchanged. For this 10-day Sprint, shared targets are 30 new legitimate registrations, 15 net new paid subscriptions, 10 colleges with 1 qualified positive discussion, 20 clients with 2 qualified two-way discussions, 2 onboarded campus ambassadors, 10 Instagram + 10 LinkedIn interactive feed posts, 4 Reels, and 10 Instagram Stories sequences.
 
 ---
 
