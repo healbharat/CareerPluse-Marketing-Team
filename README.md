@@ -1,5 +1,19 @@
 # CareerPluse — Marketing Team GitHub Task Board
 
+## New Sprint 2 — 22 November–1 December 2026
+
+Separate 10-calendar-day **Growth Sprint subproject** for six marketing workstreams. The previous 75 Issues are retained; Sprint 2 adds 60 dated daily Issues (#77–#136) and a master issue (#76). Outcomes are new targets, not verified results.
+
+- [Open all Sprint 2 daily tasks by day and student](campaigns/2026-11-22-growth-sprint/ISSUE_INDEX.md)
+- [Sprint 2 team targets and daily cumulative metrics](campaigns/2026-11-22-growth-sprint/README.md)
+- [Sprint 2 reporting, evidence and privacy rules](campaigns/2026-11-22-growth-sprint/REPORTING_AND_APPROVAL.md)
+- [Master Campaign Issue #76](https://github.com/healbharat/CareerPluse-Marketing-Team/issues/76)
+
+**New student access:** Two new interns have 10 task placeholders each; **no new invitations were sent**. Existing marketing roster is unchanged. For this 10-day Sprint, shared targets are 30 new legitimate registrations, 15 net new paid subscriptions, 10 colleges with 1 qualified positive discussion, 20 clients with 2 qualified two-way discussions, 2 onboarded campus ambassadors, 10 Instagram + 10 LinkedIn interactive feed posts, 4 Reels, and 10 Instagram Stories sequences.
+
+---
+
+
 **Public task tracker:** [CareerPluse.in](https://careerpluse.in) | [All GitHub Issues](https://github.com/healbharat/CareerPluse-Marketing-Team/issues)
 
 ## Current team (updated November 2026)
