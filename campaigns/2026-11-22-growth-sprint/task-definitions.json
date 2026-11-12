@@ -1,0 +1,841 @@
+{
+  "campaignId": "CareerPluse-Sprint-2-2026-11-22",
+  "title": "CareerPluse 10-Day Growth Sprint",
+  "start": "2026-11-22",
+  "end": "2026-12-01",
+  "goal": {
+    "verifiedNewRegistrations": 30,
+    "netPaidSubscriptions": 15,
+    "regionalColleges": 10,
+    "positiveCollegeConversations": 1,
+    "clientsContacted": 20,
+    "positiveClientDiscussions": 2,
+    "campusAmbassadors": 2,
+    "instagramFeedPosts": 10,
+    "linkedinFeedPosts": 10,
+    "reels": 4,
+    "storySequences": 10
+  },
+  "tasks": [
+    {
+      "day": 1,
+      "date": "2026-11-22",
+      "owner": "PRAGATI",
+      "name": "Pragati",
+      "assignee": "PragatiC-code",
+      "title": "[SPRINT-2][D01][PRAGATI] Interactive Instagram + LinkedIn daily posts — 2026-11-22",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-22 | **Day:** 1/10 | **Owner:** Pragati (@PragatiC-code)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Sprint launch, true value and student learning gaps\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Publish **one approved interactive Instagram FEED post** with a real question/poll/comment CTA on: Sprint launch, true value and student learning gaps.\n- [ ] Publish **one separately adapted interactive LinkedIn FEED post** today; include a real career/skills question and truthful CareerPluse CTA.\n- [ ] Record both public URLs, post performance and genuine student inquiries; hand off opt-in leads privately.\n- [ ] Review Vaishnavi Story creative, college/client copy, staffing requirements and daily shared KPI scoreboard.\n- [ ] If hiring is actually required, prepare one honest founder-approved student hiring post and track responses without sharing applicant data publicly.\n\n## Expected target (NOT achieved outcome)\nMandatory today's deliverables: IG post 1/1 and LinkedIn post 1/1; cumulative IG 1/10, LinkedIn 1/10, Reels 0/4 by today.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:pragati"
+      ]
+    },
+    {
+      "day": 1,
+      "date": "2026-11-22",
+      "owner": "MANNU",
+      "name": "Mannu Sharma",
+      "assignee": "mannusharma8397",
+      "title": "[SPRINT-2][D01][MANNU] Verified first-time student registrations — 2026-11-22",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-22 | **Day:** 1/10 | **Owner:** Mannu Sharma (@mannusharma8397)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Sprint launch, true value and student learning gaps\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Coordinate **3 newly verified first-time student signups across the whole team today**; sprint cumulative goal **3/30**, not existing returning logins.\n- [ ] Focus: Audit opt-in student leads and referral sources. Reach only relevant, consented students; honor opt-outs and avoid duplicate cold contacts.\n- [ ] Verify unique first-time accounts through authorized private analytics and hand over all qualified demos/paid queries to Shrushti.\n- [ ] Log only aggregate outreach, qualified replies, verified signups and issues in the public GitHub comment; maintain the real lead tracker privately.\n\n## Expected target (NOT achieved outcome)\nCumulative new legitimate student accounts: 3/30 (planning target; all teammates may contribute, coordinator Mannu).\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:mannu"
+      ]
+    },
+    {
+      "day": 1,
+      "date": "2026-11-22",
+      "owner": "SHRUSHTI",
+      "name": "Shrushti",
+      "assignee": "srushtip223",
+      "title": "[SPRINT-2][D01][SHRUSHTI] Product demos and confirmed paid onboarding — 2026-11-22",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-22 | **Day:** 1/10 | **Owner:** Shrushti (@srushtip223)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Sprint launch, true value and student learning gaps\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Provide approved product demos/onboarding; focus: Test live demo, signup and checkout before push.\n- [ ] Verify today's **new net settled paid conversions** target 1 and sprint cumulative **1/15**; exclude refunds, reversals and prior campaign payments.\n- [ ] Validate each paid student's real account access, first login and onboarding; record private verification references but never screenshots/IDs on public GitHub.\n- [ ] Coordinate with Mannu, college leads and social CTA conversions, publish only aggregate qualified demos, payments and technical blockers.\n\n## Expected target (NOT achieved outcome)\nCumulative verified NET new paid + onboarded: 1/15; today increase 1.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:shrushti"
+      ]
+    },
+    {
+      "day": 1,
+      "date": "2026-11-22",
+      "owner": "VAISHNAVI",
+      "name": "Vaishnavi",
+      "assignee": "vaishnavi-2312-google",
+      "title": "[SPRINT-2][D01][VAISHNAVI] Instagram Stories interaction only — 2026-11-22",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-22 | **Day:** 1/10 | **Owner:** Vaishnavi (@vaishnavi-2312-google)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Sprint launch, true value and student learning gaps\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Prepare and publish **1 approved interactive Instagram STORY sequence**, using Poll: biggest career-learning barrier.\n- [ ] Use only official CareerPluse brand kit, native Stories stickers, safe product claims and Pragati's approval before publishing.\n- [ ] Add optional registration/demo CTA only with approved link and student consent; do not sell, verify payments, post feeds/Reels or contact colleges/clients.\n- [ ] Report anonymized Story views, poll votes, sticker engagement, link taps and public-safe creative links.\n\n## Expected target (NOT achieved outcome)\nInstagram Story sequences planned: 1/10, strictly Stories engagement scope.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:vaishnavi"
+      ]
+    },
+    {
+      "day": 1,
+      "date": "2026-11-22",
+      "owner": "COLLEGE",
+      "name": "New Intern A (unconfirmed)",
+      "assignee": null,
+      "title": "[SPRINT-2][D01][COLLEGE] Regional colleges and campus ambassadors — 2026-11-22",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-22 | **Day:** 1/10 | **Owner:** New Intern A (unconfirmed) (username pending; no invitation until requested)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Sprint launch, true value and student learning gaps\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Research and verify first 10 colleges; approve pitch and decision maker; Sunday: prepare only.\n- [ ] Private CRM: distinguish RESEARCHED vs APPROACHED (unique approved first contact) vs POSITIVE 2-way response or booked meeting; current cumulative approach goal 0/10.\n- [ ] Campus ambassadors: identify consented candidates, explain voluntary expectations, obtain manager approval and onboarding; cumulative 0/2.\n- [ ] Report aggregated contacts, replies, meetings, prospective ambassador statuses without college personal identifiers or student contacts in public Issues.\n\n## Expected target (NOT achieved outcome)\nColleges approached cumulative 0/10; positive college discussion minimum 1 by Day 10; ambassadors 0/2 by today.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task"
+      ]
+    },
+    {
+      "day": 1,
+      "date": "2026-11-22",
+      "owner": "CLIENT",
+      "name": "New Intern B (unconfirmed)",
+      "assignee": null,
+      "title": "[SPRINT-2][D01][CLIENT] B2B client outreach and qualified discussions — 2026-11-22",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-22 | **Day:** 1/10 | **Owner:** New Intern B (unconfirmed) (username pending; no invitation until requested)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Sprint launch, true value and student learning gaps\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Qualify a private shortlist of 20 business prospects and approved offer; Sunday: research only.\n- [ ] Use founder-approved CareerPluse partnership and/or Heal Bharat business service offer (confirm exact offer first), personalized verified public business channels and opt-out rules.\n- [ ] Track UNIQUE first approaches separately from responses; cumulative outreach goal 0/20 and real two-way business conversations goal 2 by Day 10.\n- [ ] Submit proposed quotations and next steps for founder approval; no mass unsolicited messages, fabricated outcomes or private contact details on public GitHub.\n\n## Expected target (NOT achieved outcome)\nQualified clients approached cumulative 0/20; minimum 2 two-way discovery conversations by Day 10.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task"
+      ]
+    },
+    {
+      "day": 2,
+      "date": "2026-11-23",
+      "owner": "PRAGATI",
+      "name": "Pragati",
+      "assignee": "PragatiC-code",
+      "title": "[SPRINT-2][D02][PRAGATI] Interactive Instagram + LinkedIn daily posts — 2026-11-23",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-23 | **Day:** 2/10 | **Owner:** Pragati (@PragatiC-code)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Live product tour and practical learning demo\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Publish **one approved interactive Instagram FEED post** with a real question/poll/comment CTA on: Live product tour and practical learning demo.\n- [ ] Publish **one separately adapted interactive LinkedIn FEED post** today; include a real career/skills question and truthful CareerPluse CTA.\n- [ ] Record both public URLs, post performance and genuine student inquiries; hand off opt-in leads privately.\n- [ ] Review Vaishnavi Story creative, college/client copy, staffing requirements and daily shared KPI scoreboard.\n- [ ] If hiring is actually required, prepare one honest founder-approved student hiring post and track responses without sharing applicant data publicly.\n- [ ] **REEL REQUIRED TODAY:** Publish Reel 1 (two in Nov 22-28, two in Nov 29-Dec 1). Use original/authorized media, brand-kit design, approved claim and video link.\n\n## Expected target (NOT achieved outcome)\nMandatory today's deliverables: IG post 1/1 and LinkedIn post 1/1; cumulative IG 2/10, LinkedIn 2/10, Reels 1/4 by today.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:pragati"
+      ]
+    },
+    {
+      "day": 2,
+      "date": "2026-11-23",
+      "owner": "MANNU",
+      "name": "Mannu Sharma",
+      "assignee": "mannusharma8397",
+      "title": "[SPRINT-2][D02][MANNU] Verified first-time student registrations — 2026-11-23",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-23 | **Day:** 2/10 | **Owner:** Mannu Sharma (@mannusharma8397)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Live product tour and practical learning demo\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Coordinate **3 newly verified first-time student signups across the whole team today**; sprint cumulative goal **6/30**, not existing returning logins.\n- [ ] Focus: Invite relevant programming learners to genuine demo. Reach only relevant, consented students; honor opt-outs and avoid duplicate cold contacts.\n- [ ] Verify unique first-time accounts through authorized private analytics and hand over all qualified demos/paid queries to Shrushti.\n- [ ] Log only aggregate outreach, qualified replies, verified signups and issues in the public GitHub comment; maintain the real lead tracker privately.\n\n## Expected target (NOT achieved outcome)\nCumulative new legitimate student accounts: 6/30 (planning target; all teammates may contribute, coordinator Mannu).\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:mannu"
+      ]
+    },
+    {
+      "day": 2,
+      "date": "2026-11-23",
+      "owner": "SHRUSHTI",
+      "name": "Shrushti",
+      "assignee": "srushtip223",
+      "title": "[SPRINT-2][D02][SHRUSHTI] Product demos and confirmed paid onboarding — 2026-11-23",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-23 | **Day:** 2/10 | **Owner:** Shrushti (@srushtip223)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Live product tour and practical learning demo\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Provide approved product demos/onboarding; focus: Run approved product walkthroughs.\n- [ ] Verify today's **new net settled paid conversions** target 1 and sprint cumulative **2/15**; exclude refunds, reversals and prior campaign payments.\n- [ ] Validate each paid student's real account access, first login and onboarding; record private verification references but never screenshots/IDs on public GitHub.\n- [ ] Coordinate with Mannu, college leads and social CTA conversions, publish only aggregate qualified demos, payments and technical blockers.\n\n## Expected target (NOT achieved outcome)\nCumulative verified NET new paid + onboarded: 2/15; today increase 1.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:shrushti"
+      ]
+    },
+    {
+      "day": 2,
+      "date": "2026-11-23",
+      "owner": "VAISHNAVI",
+      "name": "Vaishnavi",
+      "assignee": "vaishnavi-2312-google",
+      "title": "[SPRINT-2][D02][VAISHNAVI] Instagram Stories interaction only — 2026-11-23",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-23 | **Day:** 2/10 | **Owner:** Vaishnavi (@vaishnavi-2312-google)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Live product tour and practical learning demo\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Prepare and publish **1 approved interactive Instagram STORY sequence**, using Quiz: match a skill with a project.\n- [ ] Use only official CareerPluse brand kit, native Stories stickers, safe product claims and Pragati's approval before publishing.\n- [ ] Add optional registration/demo CTA only with approved link and student consent; do not sell, verify payments, post feeds/Reels or contact colleges/clients.\n- [ ] Report anonymized Story views, poll votes, sticker engagement, link taps and public-safe creative links.\n\n## Expected target (NOT achieved outcome)\nInstagram Story sequences planned: 2/10, strictly Stories engagement scope.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:vaishnavi"
+      ]
+    },
+    {
+      "day": 2,
+      "date": "2026-11-23",
+      "owner": "COLLEGE",
+      "name": "New Intern A (unconfirmed)",
+      "assignee": null,
+      "title": "[SPRINT-2][D02][COLLEGE] Regional colleges and campus ambassadors — 2026-11-23",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-23 | **Day:** 2/10 | **Owner:** New Intern A (unconfirmed) (username pending; no invitation until requested)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Live product tour and practical learning demo\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Approach first verified college and find consented ambassador prospects.\n- [ ] Private CRM: distinguish RESEARCHED vs APPROACHED (unique approved first contact) vs POSITIVE 2-way response or booked meeting; current cumulative approach goal 1/10.\n- [ ] Campus ambassadors: identify consented candidates, explain voluntary expectations, obtain manager approval and onboarding; cumulative 0/2.\n- [ ] Report aggregated contacts, replies, meetings, prospective ambassador statuses without college personal identifiers or student contacts in public Issues.\n\n## Expected target (NOT achieved outcome)\nColleges approached cumulative 1/10; positive college discussion minimum 1 by Day 10; ambassadors 0/2 by today.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task"
+      ]
+    },
+    {
+      "day": 2,
+      "date": "2026-11-23",
+      "owner": "CLIENT",
+      "name": "New Intern B (unconfirmed)",
+      "assignee": null,
+      "title": "[SPRINT-2][D02][CLIENT] B2B client outreach and qualified discussions — 2026-11-23",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-23 | **Day:** 2/10 | **Owner:** New Intern B (unconfirmed) (username pending; no invitation until requested)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Live product tour and practical learning demo\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Approach first 3 qualified businesses with personalized approved proposal.\n- [ ] Use founder-approved CareerPluse partnership and/or Heal Bharat business service offer (confirm exact offer first), personalized verified public business channels and opt-out rules.\n- [ ] Track UNIQUE first approaches separately from responses; cumulative outreach goal 3/20 and real two-way business conversations goal 2 by Day 10.\n- [ ] Submit proposed quotations and next steps for founder approval; no mass unsolicited messages, fabricated outcomes or private contact details on public GitHub.\n\n## Expected target (NOT achieved outcome)\nQualified clients approached cumulative 3/20; minimum 2 two-way discovery conversations by Day 10.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task"
+      ]
+    },
+    {
+      "day": 3,
+      "date": "2026-11-24",
+      "owner": "PRAGATI",
+      "name": "Pragati",
+      "assignee": "PragatiC-code",
+      "title": "[SPRINT-2][D03][PRAGATI] Interactive Instagram + LinkedIn daily posts — 2026-11-24",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-24 | **Day:** 3/10 | **Owner:** Pragati (@PragatiC-code)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Which skill? Python vs Java conversation\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Publish **one approved interactive Instagram FEED post** with a real question/poll/comment CTA on: Which skill? Python vs Java conversation.\n- [ ] Publish **one separately adapted interactive LinkedIn FEED post** today; include a real career/skills question and truthful CareerPluse CTA.\n- [ ] Record both public URLs, post performance and genuine student inquiries; hand off opt-in leads privately.\n- [ ] Review Vaishnavi Story creative, college/client copy, staffing requirements and daily shared KPI scoreboard.\n- [ ] If hiring is actually required, prepare one honest founder-approved student hiring post and track responses without sharing applicant data publicly.\n\n## Expected target (NOT achieved outcome)\nMandatory today's deliverables: IG post 1/1 and LinkedIn post 1/1; cumulative IG 3/10, LinkedIn 3/10, Reels 1/4 by today.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:pragati"
+      ]
+    },
+    {
+      "day": 3,
+      "date": "2026-11-24",
+      "owner": "MANNU",
+      "name": "Mannu Sharma",
+      "assignee": "mannusharma8397",
+      "title": "[SPRINT-2][D03][MANNU] Verified first-time student registrations — 2026-11-24",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-24 | **Day:** 3/10 | **Owner:** Mannu Sharma (@mannusharma8397)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Which skill? Python vs Java conversation\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Coordinate **3 newly verified first-time student signups across the whole team today**; sprint cumulative goal **9/30**, not existing returning logins.\n- [ ] Focus: Engage student clubs with admin permission. Reach only relevant, consented students; honor opt-outs and avoid duplicate cold contacts.\n- [ ] Verify unique first-time accounts through authorized private analytics and hand over all qualified demos/paid queries to Shrushti.\n- [ ] Log only aggregate outreach, qualified replies, verified signups and issues in the public GitHub comment; maintain the real lead tracker privately.\n\n## Expected target (NOT achieved outcome)\nCumulative new legitimate student accounts: 9/30 (planning target; all teammates may contribute, coordinator Mannu).\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:mannu"
+      ]
+    },
+    {
+      "day": 3,
+      "date": "2026-11-24",
+      "owner": "SHRUSHTI",
+      "name": "Shrushti",
+      "assignee": "srushtip223",
+      "title": "[SPRINT-2][D03][SHRUSHTI] Product demos and confirmed paid onboarding — 2026-11-24",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-24 | **Day:** 3/10 | **Owner:** Shrushti (@srushtip223)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Which skill? Python vs Java conversation\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Provide approved product demos/onboarding; focus: Convert qualified demo attenders.\n- [ ] Verify today's **new net settled paid conversions** target 2 and sprint cumulative **4/15**; exclude refunds, reversals and prior campaign payments.\n- [ ] Validate each paid student's real account access, first login and onboarding; record private verification references but never screenshots/IDs on public GitHub.\n- [ ] Coordinate with Mannu, college leads and social CTA conversions, publish only aggregate qualified demos, payments and technical blockers.\n\n## Expected target (NOT achieved outcome)\nCumulative verified NET new paid + onboarded: 4/15; today increase 2.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:shrushti"
+      ]
+    },
+    {
+      "day": 3,
+      "date": "2026-11-24",
+      "owner": "VAISHNAVI",
+      "name": "Vaishnavi",
+      "assignee": "vaishnavi-2312-google",
+      "title": "[SPRINT-2][D03][VAISHNAVI] Instagram Stories interaction only — 2026-11-24",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-24 | **Day:** 3/10 | **Owner:** Vaishnavi (@vaishnavi-2312-google)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Which skill? Python vs Java conversation\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Prepare and publish **1 approved interactive Instagram STORY sequence**, using This-or-that: Python versus Java.\n- [ ] Use only official CareerPluse brand kit, native Stories stickers, safe product claims and Pragati's approval before publishing.\n- [ ] Add optional registration/demo CTA only with approved link and student consent; do not sell, verify payments, post feeds/Reels or contact colleges/clients.\n- [ ] Report anonymized Story views, poll votes, sticker engagement, link taps and public-safe creative links.\n\n## Expected target (NOT achieved outcome)\nInstagram Story sequences planned: 3/10, strictly Stories engagement scope.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:vaishnavi"
+      ]
+    },
+    {
+      "day": 3,
+      "date": "2026-11-24",
+      "owner": "COLLEGE",
+      "name": "New Intern A (unconfirmed)",
+      "assignee": null,
+      "title": "[SPRINT-2][D03][COLLEGE] Regional colleges and campus ambassadors — 2026-11-24",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-24 | **Day:** 3/10 | **Owner:** New Intern A (unconfirmed) (username pending; no invitation until requested)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Which skill? Python vs Java conversation\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Approach second college, request relevant meeting.\n- [ ] Private CRM: distinguish RESEARCHED vs APPROACHED (unique approved first contact) vs POSITIVE 2-way response or booked meeting; current cumulative approach goal 2/10.\n- [ ] Campus ambassadors: identify consented candidates, explain voluntary expectations, obtain manager approval and onboarding; cumulative 0/2.\n- [ ] Report aggregated contacts, replies, meetings, prospective ambassador statuses without college personal identifiers or student contacts in public Issues.\n\n## Expected target (NOT achieved outcome)\nColleges approached cumulative 2/10; positive college discussion minimum 1 by Day 10; ambassadors 0/2 by today.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task"
+      ]
+    },
+    {
+      "day": 3,
+      "date": "2026-11-24",
+      "owner": "CLIENT",
+      "name": "New Intern B (unconfirmed)",
+      "assignee": null,
+      "title": "[SPRINT-2][D03][CLIENT] B2B client outreach and qualified discussions — 2026-11-24",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-24 | **Day:** 3/10 | **Owner:** New Intern B (unconfirmed) (username pending; no invitation until requested)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Which skill? Python vs Java conversation\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Reach 3 more unique clients (cumulative six).\n- [ ] Use founder-approved CareerPluse partnership and/or Heal Bharat business service offer (confirm exact offer first), personalized verified public business channels and opt-out rules.\n- [ ] Track UNIQUE first approaches separately from responses; cumulative outreach goal 6/20 and real two-way business conversations goal 2 by Day 10.\n- [ ] Submit proposed quotations and next steps for founder approval; no mass unsolicited messages, fabricated outcomes or private contact details on public GitHub.\n\n## Expected target (NOT achieved outcome)\nQualified clients approached cumulative 6/20; minimum 2 two-way discovery conversations by Day 10.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task"
+      ]
+    },
+    {
+      "day": 4,
+      "date": "2026-11-25",
+      "owner": "PRAGATI",
+      "name": "Pragati",
+      "assignee": "PragatiC-code",
+      "title": "[SPRINT-2][D04][PRAGATI] Interactive Instagram + LinkedIn daily posts — 2026-11-25",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-25 | **Day:** 4/10 | **Owner:** Pragati (@PragatiC-code)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Projects and internship-readiness Q&A\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Publish **one approved interactive Instagram FEED post** with a real question/poll/comment CTA on: Projects and internship-readiness Q&A.\n- [ ] Publish **one separately adapted interactive LinkedIn FEED post** today; include a real career/skills question and truthful CareerPluse CTA.\n- [ ] Record both public URLs, post performance and genuine student inquiries; hand off opt-in leads privately.\n- [ ] Review Vaishnavi Story creative, college/client copy, staffing requirements and daily shared KPI scoreboard.\n- [ ] If hiring is actually required, prepare one honest founder-approved student hiring post and track responses without sharing applicant data publicly.\n\n## Expected target (NOT achieved outcome)\nMandatory today's deliverables: IG post 1/1 and LinkedIn post 1/1; cumulative IG 4/10, LinkedIn 4/10, Reels 1/4 by today.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:pragati"
+      ]
+    },
+    {
+      "day": 4,
+      "date": "2026-11-25",
+      "owner": "MANNU",
+      "name": "Mannu Sharma",
+      "assignee": "mannusharma8397",
+      "title": "[SPRINT-2][D04][MANNU] Verified first-time student registrations — 2026-11-25",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-25 | **Day:** 4/10 | **Owner:** Mannu Sharma (@mannusharma8397)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Projects and internship-readiness Q&A\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Coordinate **3 newly verified first-time student signups across the whole team today**; sprint cumulative goal **12/30**, not existing returning logins.\n- [ ] Focus: Discuss hands-on project benefits with interested students. Reach only relevant, consented students; honor opt-outs and avoid duplicate cold contacts.\n- [ ] Verify unique first-time accounts through authorized private analytics and hand over all qualified demos/paid queries to Shrushti.\n- [ ] Log only aggregate outreach, qualified replies, verified signups and issues in the public GitHub comment; maintain the real lead tracker privately.\n\n## Expected target (NOT achieved outcome)\nCumulative new legitimate student accounts: 12/30 (planning target; all teammates may contribute, coordinator Mannu).\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:mannu"
+      ]
+    },
+    {
+      "day": 4,
+      "date": "2026-11-25",
+      "owner": "SHRUSHTI",
+      "name": "Shrushti",
+      "assignee": "srushtip223",
+      "title": "[SPRINT-2][D04][SHRUSHTI] Product demos and confirmed paid onboarding — 2026-11-25",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-25 | **Day:** 4/10 | **Owner:** Shrushti (@srushtip223)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Projects and internship-readiness Q&A\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Provide approved product demos/onboarding; focus: Handle registration and payment support tickets.\n- [ ] Verify today's **new net settled paid conversions** target 1 and sprint cumulative **5/15**; exclude refunds, reversals and prior campaign payments.\n- [ ] Validate each paid student's real account access, first login and onboarding; record private verification references but never screenshots/IDs on public GitHub.\n- [ ] Coordinate with Mannu, college leads and social CTA conversions, publish only aggregate qualified demos, payments and technical blockers.\n\n## Expected target (NOT achieved outcome)\nCumulative verified NET new paid + onboarded: 5/15; today increase 1.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:shrushti"
+      ]
+    },
+    {
+      "day": 4,
+      "date": "2026-11-25",
+      "owner": "VAISHNAVI",
+      "name": "Vaishnavi",
+      "assignee": "vaishnavi-2312-google",
+      "title": "[SPRINT-2][D04][VAISHNAVI] Instagram Stories interaction only — 2026-11-25",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-25 | **Day:** 4/10 | **Owner:** Vaishnavi (@vaishnavi-2312-google)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Projects and internship-readiness Q&A\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Prepare and publish **1 approved interactive Instagram STORY sequence**, using Q&A: internship search challenges.\n- [ ] Use only official CareerPluse brand kit, native Stories stickers, safe product claims and Pragati's approval before publishing.\n- [ ] Add optional registration/demo CTA only with approved link and student consent; do not sell, verify payments, post feeds/Reels or contact colleges/clients.\n- [ ] Report anonymized Story views, poll votes, sticker engagement, link taps and public-safe creative links.\n\n## Expected target (NOT achieved outcome)\nInstagram Story sequences planned: 4/10, strictly Stories engagement scope.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:vaishnavi"
+      ]
+    },
+    {
+      "day": 4,
+      "date": "2026-11-25",
+      "owner": "COLLEGE",
+      "name": "New Intern A (unconfirmed)",
+      "assignee": null,
+      "title": "[SPRINT-2][D04][COLLEGE] Regional colleges and campus ambassadors — 2026-11-25",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-25 | **Day:** 4/10 | **Owner:** New Intern A (unconfirmed) (username pending; no invitation until requested)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Projects and internship-readiness Q&A\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Approach third college, follow up on replies and student representatives.\n- [ ] Private CRM: distinguish RESEARCHED vs APPROACHED (unique approved first contact) vs POSITIVE 2-way response or booked meeting; current cumulative approach goal 3/10.\n- [ ] Campus ambassadors: identify consented candidates, explain voluntary expectations, obtain manager approval and onboarding; cumulative 0/2.\n- [ ] Report aggregated contacts, replies, meetings, prospective ambassador statuses without college personal identifiers or student contacts in public Issues.\n\n## Expected target (NOT achieved outcome)\nColleges approached cumulative 3/10; positive college discussion minimum 1 by Day 10; ambassadors 0/2 by today.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task"
+      ]
+    },
+    {
+      "day": 4,
+      "date": "2026-11-25",
+      "owner": "CLIENT",
+      "name": "New Intern B (unconfirmed)",
+      "assignee": null,
+      "title": "[SPRINT-2][D04][CLIENT] B2B client outreach and qualified discussions — 2026-11-25",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-25 | **Day:** 4/10 | **Owner:** New Intern B (unconfirmed) (username pending; no invitation until requested)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Projects and internship-readiness Q&A\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Reach 3 more unique clients (cumulative nine).\n- [ ] Use founder-approved CareerPluse partnership and/or Heal Bharat business service offer (confirm exact offer first), personalized verified public business channels and opt-out rules.\n- [ ] Track UNIQUE first approaches separately from responses; cumulative outreach goal 9/20 and real two-way business conversations goal 2 by Day 10.\n- [ ] Submit proposed quotations and next steps for founder approval; no mass unsolicited messages, fabricated outcomes or private contact details on public GitHub.\n\n## Expected target (NOT achieved outcome)\nQualified clients approached cumulative 9/20; minimum 2 two-way discovery conversations by Day 10.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task"
+      ]
+    },
+    {
+      "day": 5,
+      "date": "2026-11-26",
+      "owner": "PRAGATI",
+      "name": "Pragati",
+      "assignee": "PragatiC-code",
+      "title": "[SPRINT-2][D05][PRAGATI] Interactive Instagram + LinkedIn daily posts — 2026-11-26",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-26 | **Day:** 5/10 | **Owner:** Pragati (@PragatiC-code)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Verified practical projects and learner success criteria\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Publish **one approved interactive Instagram FEED post** with a real question/poll/comment CTA on: Verified practical projects and learner success criteria.\n- [ ] Publish **one separately adapted interactive LinkedIn FEED post** today; include a real career/skills question and truthful CareerPluse CTA.\n- [ ] Record both public URLs, post performance and genuine student inquiries; hand off opt-in leads privately.\n- [ ] Review Vaishnavi Story creative, college/client copy, staffing requirements and daily shared KPI scoreboard.\n- [ ] If hiring is actually required, prepare one honest founder-approved student hiring post and track responses without sharing applicant data publicly.\n- [ ] **REEL REQUIRED TODAY:** Publish Reel 2 (two in Nov 22-28, two in Nov 29-Dec 1). Use original/authorized media, brand-kit design, approved claim and video link.\n\n## Expected target (NOT achieved outcome)\nMandatory today's deliverables: IG post 1/1 and LinkedIn post 1/1; cumulative IG 5/10, LinkedIn 5/10, Reels 2/4 by today.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:pragati"
+      ]
+    },
+    {
+      "day": 5,
+      "date": "2026-11-26",
+      "owner": "MANNU",
+      "name": "Mannu Sharma",
+      "assignee": "mannusharma8397",
+      "title": "[SPRINT-2][D05][MANNU] Verified first-time student registrations — 2026-11-26",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-26 | **Day:** 5/10 | **Owner:** Mannu Sharma (@mannusharma8397)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Verified practical projects and learner success criteria\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Coordinate **3 newly verified first-time student signups across the whole team today**; sprint cumulative goal **15/30**, not existing returning logins.\n- [ ] Focus: Follow up on practical project requests. Reach only relevant, consented students; honor opt-outs and avoid duplicate cold contacts.\n- [ ] Verify unique first-time accounts through authorized private analytics and hand over all qualified demos/paid queries to Shrushti.\n- [ ] Log only aggregate outreach, qualified replies, verified signups and issues in the public GitHub comment; maintain the real lead tracker privately.\n\n## Expected target (NOT achieved outcome)\nCumulative new legitimate student accounts: 15/30 (planning target; all teammates may contribute, coordinator Mannu).\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:mannu"
+      ]
+    },
+    {
+      "day": 5,
+      "date": "2026-11-26",
+      "owner": "SHRUSHTI",
+      "name": "Shrushti",
+      "assignee": "srushtip223",
+      "title": "[SPRINT-2][D05][SHRUSHTI] Product demos and confirmed paid onboarding — 2026-11-26",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-26 | **Day:** 5/10 | **Owner:** Shrushti (@srushtip223)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Verified practical projects and learner success criteria\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Provide approved product demos/onboarding; focus: Demonstrate verified project features.\n- [ ] Verify today's **new net settled paid conversions** target 2 and sprint cumulative **7/15**; exclude refunds, reversals and prior campaign payments.\n- [ ] Validate each paid student's real account access, first login and onboarding; record private verification references but never screenshots/IDs on public GitHub.\n- [ ] Coordinate with Mannu, college leads and social CTA conversions, publish only aggregate qualified demos, payments and technical blockers.\n\n## Expected target (NOT achieved outcome)\nCumulative verified NET new paid + onboarded: 7/15; today increase 2.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:shrushti"
+      ]
+    },
+    {
+      "day": 5,
+      "date": "2026-11-26",
+      "owner": "VAISHNAVI",
+      "name": "Vaishnavi",
+      "assignee": "vaishnavi-2312-google",
+      "title": "[SPRINT-2][D05][VAISHNAVI] Instagram Stories interaction only — 2026-11-26",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-26 | **Day:** 5/10 | **Owner:** Vaishnavi (@vaishnavi-2312-google)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Verified practical projects and learner success criteria\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Prepare and publish **1 approved interactive Instagram STORY sequence**, using Quiz: identify a programming language.\n- [ ] Use only official CareerPluse brand kit, native Stories stickers, safe product claims and Pragati's approval before publishing.\n- [ ] Add optional registration/demo CTA only with approved link and student consent; do not sell, verify payments, post feeds/Reels or contact colleges/clients.\n- [ ] Report anonymized Story views, poll votes, sticker engagement, link taps and public-safe creative links.\n\n## Expected target (NOT achieved outcome)\nInstagram Story sequences planned: 5/10, strictly Stories engagement scope.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:vaishnavi"
+      ]
+    },
+    {
+      "day": 5,
+      "date": "2026-11-26",
+      "owner": "COLLEGE",
+      "name": "New Intern A (unconfirmed)",
+      "assignee": null,
+      "title": "[SPRINT-2][D05][COLLEGE] Regional colleges and campus ambassadors — 2026-11-26",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-26 | **Day:** 5/10 | **Owner:** New Intern A (unconfirmed) (username pending; no invitation until requested)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Verified practical projects and learner success criteria\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Approach fourth college and confirm first qualified ambassador if possible.\n- [ ] Private CRM: distinguish RESEARCHED vs APPROACHED (unique approved first contact) vs POSITIVE 2-way response or booked meeting; current cumulative approach goal 4/10.\n- [ ] Campus ambassadors: identify consented candidates, explain voluntary expectations, obtain manager approval and onboarding; cumulative 1/2.\n- [ ] Report aggregated contacts, replies, meetings, prospective ambassador statuses without college personal identifiers or student contacts in public Issues.\n\n## Expected target (NOT achieved outcome)\nColleges approached cumulative 4/10; positive college discussion minimum 1 by Day 10; ambassadors 1/2 by today.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task"
+      ]
+    },
+    {
+      "day": 5,
+      "date": "2026-11-26",
+      "owner": "CLIENT",
+      "name": "New Intern B (unconfirmed)",
+      "assignee": null,
+      "title": "[SPRINT-2][D05][CLIENT] B2B client outreach and qualified discussions — 2026-11-26",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-26 | **Day:** 5/10 | **Owner:** New Intern B (unconfirmed) (username pending; no invitation until requested)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Verified practical projects and learner success criteria\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Reach 3 more unique clients (cumulative twelve).\n- [ ] Use founder-approved CareerPluse partnership and/or Heal Bharat business service offer (confirm exact offer first), personalized verified public business channels and opt-out rules.\n- [ ] Track UNIQUE first approaches separately from responses; cumulative outreach goal 12/20 and real two-way business conversations goal 2 by Day 10.\n- [ ] Submit proposed quotations and next steps for founder approval; no mass unsolicited messages, fabricated outcomes or private contact details on public GitHub.\n\n## Expected target (NOT achieved outcome)\nQualified clients approached cumulative 12/20; minimum 2 two-way discovery conversations by Day 10.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task"
+      ]
+    },
+    {
+      "day": 6,
+      "date": "2026-11-27",
+      "owner": "PRAGATI",
+      "name": "Pragati",
+      "assignee": "PragatiC-code",
+      "title": "[SPRINT-2][D06][PRAGATI] Interactive Instagram + LinkedIn daily posts — 2026-11-27",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-27 | **Day:** 6/10 | **Owner:** Pragati (@PragatiC-code)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Mid-sprint feedback, objections and product questions\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Publish **one approved interactive Instagram FEED post** with a real question/poll/comment CTA on: Mid-sprint feedback, objections and product questions.\n- [ ] Publish **one separately adapted interactive LinkedIn FEED post** today; include a real career/skills question and truthful CareerPluse CTA.\n- [ ] Record both public URLs, post performance and genuine student inquiries; hand off opt-in leads privately.\n- [ ] Review Vaishnavi Story creative, college/client copy, staffing requirements and daily shared KPI scoreboard.\n- [ ] If hiring is actually required, prepare one honest founder-approved student hiring post and track responses without sharing applicant data publicly.\n\n## Expected target (NOT achieved outcome)\nMandatory today's deliverables: IG post 1/1 and LinkedIn post 1/1; cumulative IG 6/10, LinkedIn 6/10, Reels 2/4 by today.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:pragati"
+      ]
+    },
+    {
+      "day": 6,
+      "date": "2026-11-27",
+      "owner": "MANNU",
+      "name": "Mannu Sharma",
+      "assignee": "mannusharma8397",
+      "title": "[SPRINT-2][D06][MANNU] Verified first-time student registrations — 2026-11-27",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-27 | **Day:** 6/10 | **Owner:** Mannu Sharma (@mannusharma8397)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Mid-sprint feedback, objections and product questions\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Coordinate **3 newly verified first-time student signups across the whole team today**; sprint cumulative goal **18/30**, not existing returning logins.\n- [ ] Focus: Help students who faced registration issues. Reach only relevant, consented students; honor opt-outs and avoid duplicate cold contacts.\n- [ ] Verify unique first-time accounts through authorized private analytics and hand over all qualified demos/paid queries to Shrushti.\n- [ ] Log only aggregate outreach, qualified replies, verified signups and issues in the public GitHub comment; maintain the real lead tracker privately.\n\n## Expected target (NOT achieved outcome)\nCumulative new legitimate student accounts: 18/30 (planning target; all teammates may contribute, coordinator Mannu).\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:mannu"
+      ]
+    },
+    {
+      "day": 6,
+      "date": "2026-11-27",
+      "owner": "SHRUSHTI",
+      "name": "Shrushti",
+      "assignee": "srushtip223",
+      "title": "[SPRINT-2][D06][SHRUSHTI] Product demos and confirmed paid onboarding — 2026-11-27",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-27 | **Day:** 6/10 | **Owner:** Shrushti (@srushtip223)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Mid-sprint feedback, objections and product questions\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Provide approved product demos/onboarding; focus: Mid-sprint objection/FAQ review.\n- [ ] Verify today's **new net settled paid conversions** target 1 and sprint cumulative **8/15**; exclude refunds, reversals and prior campaign payments.\n- [ ] Validate each paid student's real account access, first login and onboarding; record private verification references but never screenshots/IDs on public GitHub.\n- [ ] Coordinate with Mannu, college leads and social CTA conversions, publish only aggregate qualified demos, payments and technical blockers.\n\n## Expected target (NOT achieved outcome)\nCumulative verified NET new paid + onboarded: 8/15; today increase 1.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:shrushti"
+      ]
+    },
+    {
+      "day": 6,
+      "date": "2026-11-27",
+      "owner": "VAISHNAVI",
+      "name": "Vaishnavi",
+      "assignee": "vaishnavi-2312-google",
+      "title": "[SPRINT-2][D06][VAISHNAVI] Instagram Stories interaction only — 2026-11-27",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-27 | **Day:** 6/10 | **Owner:** Vaishnavi (@vaishnavi-2312-google)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Mid-sprint feedback, objections and product questions\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Prepare and publish **1 approved interactive Instagram STORY sequence**, using Emoji slider: project confidence.\n- [ ] Use only official CareerPluse brand kit, native Stories stickers, safe product claims and Pragati's approval before publishing.\n- [ ] Add optional registration/demo CTA only with approved link and student consent; do not sell, verify payments, post feeds/Reels or contact colleges/clients.\n- [ ] Report anonymized Story views, poll votes, sticker engagement, link taps and public-safe creative links.\n\n## Expected target (NOT achieved outcome)\nInstagram Story sequences planned: 6/10, strictly Stories engagement scope.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:vaishnavi"
+      ]
+    },
+    {
+      "day": 6,
+      "date": "2026-11-27",
+      "owner": "COLLEGE",
+      "name": "New Intern A (unconfirmed)",
+      "assignee": null,
+      "title": "[SPRINT-2][D06][COLLEGE] Regional colleges and campus ambassadors — 2026-11-27",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-27 | **Day:** 6/10 | **Owner:** New Intern A (unconfirmed) (username pending; no invitation until requested)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Mid-sprint feedback, objections and product questions\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Approach fifth college and book college meeting if two-way interest.\n- [ ] Private CRM: distinguish RESEARCHED vs APPROACHED (unique approved first contact) vs POSITIVE 2-way response or booked meeting; current cumulative approach goal 5/10.\n- [ ] Campus ambassadors: identify consented candidates, explain voluntary expectations, obtain manager approval and onboarding; cumulative 1/2.\n- [ ] Report aggregated contacts, replies, meetings, prospective ambassador statuses without college personal identifiers or student contacts in public Issues.\n\n## Expected target (NOT achieved outcome)\nColleges approached cumulative 5/10; positive college discussion minimum 1 by Day 10; ambassadors 1/2 by today.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task"
+      ]
+    },
+    {
+      "day": 6,
+      "date": "2026-11-27",
+      "owner": "CLIENT",
+      "name": "New Intern B (unconfirmed)",
+      "assignee": null,
+      "title": "[SPRINT-2][D06][CLIENT] B2B client outreach and qualified discussions — 2026-11-27",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-27 | **Day:** 6/10 | **Owner:** New Intern B (unconfirmed) (username pending; no invitation until requested)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Mid-sprint feedback, objections and product questions\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Reach 3 more unique clients (cumulative fifteen).\n- [ ] Use founder-approved CareerPluse partnership and/or Heal Bharat business service offer (confirm exact offer first), personalized verified public business channels and opt-out rules.\n- [ ] Track UNIQUE first approaches separately from responses; cumulative outreach goal 15/20 and real two-way business conversations goal 2 by Day 10.\n- [ ] Submit proposed quotations and next steps for founder approval; no mass unsolicited messages, fabricated outcomes or private contact details on public GitHub.\n\n## Expected target (NOT achieved outcome)\nQualified clients approached cumulative 15/20; minimum 2 two-way discovery conversations by Day 10.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task"
+      ]
+    },
+    {
+      "day": 7,
+      "date": "2026-11-28",
+      "owner": "PRAGATI",
+      "name": "Pragati",
+      "assignee": "PragatiC-code",
+      "title": "[SPRINT-2][D07][PRAGATI] Interactive Instagram + LinkedIn daily posts — 2026-11-28",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-28 | **Day:** 7/10 | **Owner:** Pragati (@PragatiC-code)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Weekend learning challenge and outreach review\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Publish **one approved interactive Instagram FEED post** with a real question/poll/comment CTA on: Weekend learning challenge and outreach review.\n- [ ] Publish **one separately adapted interactive LinkedIn FEED post** today; include a real career/skills question and truthful CareerPluse CTA.\n- [ ] Record both public URLs, post performance and genuine student inquiries; hand off opt-in leads privately.\n- [ ] Review Vaishnavi Story creative, college/client copy, staffing requirements and daily shared KPI scoreboard.\n- [ ] If hiring is actually required, prepare one honest founder-approved student hiring post and track responses without sharing applicant data publicly.\n\n## Expected target (NOT achieved outcome)\nMandatory today's deliverables: IG post 1/1 and LinkedIn post 1/1; cumulative IG 7/10, LinkedIn 7/10, Reels 2/4 by today.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:pragati"
+      ]
+    },
+    {
+      "day": 7,
+      "date": "2026-11-28",
+      "owner": "MANNU",
+      "name": "Mannu Sharma",
+      "assignee": "mannusharma8397",
+      "title": "[SPRINT-2][D07][MANNU] Verified first-time student registrations — 2026-11-28",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-28 | **Day:** 7/10 | **Owner:** Mannu Sharma (@mannusharma8397)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Weekend learning challenge and outreach review\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Coordinate **3 newly verified first-time student signups across the whole team today**; sprint cumulative goal **21/30**, not existing returning logins.\n- [ ] Focus: Help weekend demo-ready learners without spam. Reach only relevant, consented students; honor opt-outs and avoid duplicate cold contacts.\n- [ ] Verify unique first-time accounts through authorized private analytics and hand over all qualified demos/paid queries to Shrushti.\n- [ ] Log only aggregate outreach, qualified replies, verified signups and issues in the public GitHub comment; maintain the real lead tracker privately.\n\n## Expected target (NOT achieved outcome)\nCumulative new legitimate student accounts: 21/30 (planning target; all teammates may contribute, coordinator Mannu).\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:mannu"
+      ]
+    },
+    {
+      "day": 7,
+      "date": "2026-11-28",
+      "owner": "SHRUSHTI",
+      "name": "Shrushti",
+      "assignee": "srushtip223",
+      "title": "[SPRINT-2][D07][SHRUSHTI] Product demos and confirmed paid onboarding — 2026-11-28",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-28 | **Day:** 7/10 | **Owner:** Shrushti (@srushtip223)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Weekend learning challenge and outreach review\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Provide approved product demos/onboarding; focus: Offer consented weekend demos.\n- [ ] Verify today's **new net settled paid conversions** target 2 and sprint cumulative **10/15**; exclude refunds, reversals and prior campaign payments.\n- [ ] Validate each paid student's real account access, first login and onboarding; record private verification references but never screenshots/IDs on public GitHub.\n- [ ] Coordinate with Mannu, college leads and social CTA conversions, publish only aggregate qualified demos, payments and technical blockers.\n\n## Expected target (NOT achieved outcome)\nCumulative verified NET new paid + onboarded: 10/15; today increase 2.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:shrushti"
+      ]
+    },
+    {
+      "day": 7,
+      "date": "2026-11-28",
+      "owner": "VAISHNAVI",
+      "name": "Vaishnavi",
+      "assignee": "vaishnavi-2312-google",
+      "title": "[SPRINT-2][D07][VAISHNAVI] Instagram Stories interaction only — 2026-11-28",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-28 | **Day:** 7/10 | **Owner:** Vaishnavi (@vaishnavi-2312-google)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Weekend learning challenge and outreach review\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Prepare and publish **1 approved interactive Instagram STORY sequence**, using Poll: weekend upskilling goal.\n- [ ] Use only official CareerPluse brand kit, native Stories stickers, safe product claims and Pragati's approval before publishing.\n- [ ] Add optional registration/demo CTA only with approved link and student consent; do not sell, verify payments, post feeds/Reels or contact colleges/clients.\n- [ ] Report anonymized Story views, poll votes, sticker engagement, link taps and public-safe creative links.\n\n## Expected target (NOT achieved outcome)\nInstagram Story sequences planned: 7/10, strictly Stories engagement scope.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:vaishnavi"
+      ]
+    },
+    {
+      "day": 7,
+      "date": "2026-11-28",
+      "owner": "COLLEGE",
+      "name": "New Intern A (unconfirmed)",
+      "assignee": null,
+      "title": "[SPRINT-2][D07][COLLEGE] Regional colleges and campus ambassadors — 2026-11-28",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-28 | **Day:** 7/10 | **Owner:** New Intern A (unconfirmed) (username pending; no invitation until requested)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Weekend learning challenge and outreach review\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Weekend: clean pipeline, confirm real ambassador interest; no bulk contact.\n- [ ] Private CRM: distinguish RESEARCHED vs APPROACHED (unique approved first contact) vs POSITIVE 2-way response or booked meeting; current cumulative approach goal 5/10.\n- [ ] Campus ambassadors: identify consented candidates, explain voluntary expectations, obtain manager approval and onboarding; cumulative 1/2.\n- [ ] Report aggregated contacts, replies, meetings, prospective ambassador statuses without college personal identifiers or student contacts in public Issues.\n\n## Expected target (NOT achieved outcome)\nColleges approached cumulative 5/10; positive college discussion minimum 1 by Day 10; ambassadors 1/2 by today.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task"
+      ]
+    },
+    {
+      "day": 7,
+      "date": "2026-11-28",
+      "owner": "CLIENT",
+      "name": "New Intern B (unconfirmed)",
+      "assignee": null,
+      "title": "[SPRINT-2][D07][CLIENT] B2B client outreach and qualified discussions — 2026-11-28",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-28 | **Day:** 7/10 | **Owner:** New Intern B (unconfirmed) (username pending; no invitation until requested)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Weekend learning challenge and outreach review\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Weekend: review objections, prepare approved follow-ups; no mass outreach.\n- [ ] Use founder-approved CareerPluse partnership and/or Heal Bharat business service offer (confirm exact offer first), personalized verified public business channels and opt-out rules.\n- [ ] Track UNIQUE first approaches separately from responses; cumulative outreach goal 15/20 and real two-way business conversations goal 2 by Day 10.\n- [ ] Submit proposed quotations and next steps for founder approval; no mass unsolicited messages, fabricated outcomes or private contact details on public GitHub.\n\n## Expected target (NOT achieved outcome)\nQualified clients approached cumulative 15/20; minimum 2 two-way discovery conversations by Day 10.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task"
+      ]
+    },
+    {
+      "day": 8,
+      "date": "2026-11-29",
+      "owner": "PRAGATI",
+      "name": "Pragati",
+      "assignee": "PragatiC-code",
+      "title": "[SPRINT-2][D08][PRAGATI] Interactive Instagram + LinkedIn daily posts — 2026-11-29",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-29 | **Day:** 8/10 | **Owner:** Pragati (@PragatiC-code)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Campus ambassador role and skill-building support\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Publish **one approved interactive Instagram FEED post** with a real question/poll/comment CTA on: Campus ambassador role and skill-building support.\n- [ ] Publish **one separately adapted interactive LinkedIn FEED post** today; include a real career/skills question and truthful CareerPluse CTA.\n- [ ] Record both public URLs, post performance and genuine student inquiries; hand off opt-in leads privately.\n- [ ] Review Vaishnavi Story creative, college/client copy, staffing requirements and daily shared KPI scoreboard.\n- [ ] If hiring is actually required, prepare one honest founder-approved student hiring post and track responses without sharing applicant data publicly.\n- [ ] **REEL REQUIRED TODAY:** Publish Reel 3 (two in Nov 22-28, two in Nov 29-Dec 1). Use original/authorized media, brand-kit design, approved claim and video link.\n\n## Expected target (NOT achieved outcome)\nMandatory today's deliverables: IG post 1/1 and LinkedIn post 1/1; cumulative IG 8/10, LinkedIn 8/10, Reels 3/4 by today.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:pragati"
+      ]
+    },
+    {
+      "day": 8,
+      "date": "2026-11-29",
+      "owner": "MANNU",
+      "name": "Mannu Sharma",
+      "assignee": "mannusharma8397",
+      "title": "[SPRINT-2][D08][MANNU] Verified first-time student registrations — 2026-11-29",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-29 | **Day:** 8/10 | **Owner:** Mannu Sharma (@mannusharma8397)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Campus ambassador role and skill-building support\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Coordinate **3 newly verified first-time student signups across the whole team today**; sprint cumulative goal **24/30**, not existing returning logins.\n- [ ] Focus: Coordinate ambassador referrals privately. Reach only relevant, consented students; honor opt-outs and avoid duplicate cold contacts.\n- [ ] Verify unique first-time accounts through authorized private analytics and hand over all qualified demos/paid queries to Shrushti.\n- [ ] Log only aggregate outreach, qualified replies, verified signups and issues in the public GitHub comment; maintain the real lead tracker privately.\n\n## Expected target (NOT achieved outcome)\nCumulative new legitimate student accounts: 24/30 (planning target; all teammates may contribute, coordinator Mannu).\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:mannu"
+      ]
+    },
+    {
+      "day": 8,
+      "date": "2026-11-29",
+      "owner": "SHRUSHTI",
+      "name": "Shrushti",
+      "assignee": "srushtip223",
+      "title": "[SPRINT-2][D08][SHRUSHTI] Product demos and confirmed paid onboarding — 2026-11-29",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-29 | **Day:** 8/10 | **Owner:** Shrushti (@srushtip223)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Campus ambassador role and skill-building support\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Provide approved product demos/onboarding; focus: Convert genuine ambassador/student referrals.\n- [ ] Verify today's **new net settled paid conversions** target 1 and sprint cumulative **11/15**; exclude refunds, reversals and prior campaign payments.\n- [ ] Validate each paid student's real account access, first login and onboarding; record private verification references but never screenshots/IDs on public GitHub.\n- [ ] Coordinate with Mannu, college leads and social CTA conversions, publish only aggregate qualified demos, payments and technical blockers.\n\n## Expected target (NOT achieved outcome)\nCumulative verified NET new paid + onboarded: 11/15; today increase 1.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:shrushti"
+      ]
+    },
+    {
+      "day": 8,
+      "date": "2026-11-29",
+      "owner": "VAISHNAVI",
+      "name": "Vaishnavi",
+      "assignee": "vaishnavi-2312-google",
+      "title": "[SPRINT-2][D08][VAISHNAVI] Instagram Stories interaction only — 2026-11-29",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-29 | **Day:** 8/10 | **Owner:** Vaishnavi (@vaishnavi-2312-google)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Campus ambassador role and skill-building support\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Prepare and publish **1 approved interactive Instagram STORY sequence**, using Question box: campus collaboration interests.\n- [ ] Use only official CareerPluse brand kit, native Stories stickers, safe product claims and Pragati's approval before publishing.\n- [ ] Add optional registration/demo CTA only with approved link and student consent; do not sell, verify payments, post feeds/Reels or contact colleges/clients.\n- [ ] Report anonymized Story views, poll votes, sticker engagement, link taps and public-safe creative links.\n\n## Expected target (NOT achieved outcome)\nInstagram Story sequences planned: 8/10, strictly Stories engagement scope.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:vaishnavi"
+      ]
+    },
+    {
+      "day": 8,
+      "date": "2026-11-29",
+      "owner": "COLLEGE",
+      "name": "New Intern A (unconfirmed)",
+      "assignee": null,
+      "title": "[SPRINT-2][D08][COLLEGE] Regional colleges and campus ambassadors — 2026-11-29",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-29 | **Day:** 8/10 | **Owner:** New Intern A (unconfirmed) (username pending; no invitation until requested)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Campus ambassador role and skill-building support\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Weekend: prepare campus plan, training slides and second candidate onboarding.\n- [ ] Private CRM: distinguish RESEARCHED vs APPROACHED (unique approved first contact) vs POSITIVE 2-way response or booked meeting; current cumulative approach goal 5/10.\n- [ ] Campus ambassadors: identify consented candidates, explain voluntary expectations, obtain manager approval and onboarding; cumulative 1/2.\n- [ ] Report aggregated contacts, replies, meetings, prospective ambassador statuses without college personal identifiers or student contacts in public Issues.\n\n## Expected target (NOT achieved outcome)\nColleges approached cumulative 5/10; positive college discussion minimum 1 by Day 10; ambassadors 1/2 by today.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task"
+      ]
+    },
+    {
+      "day": 8,
+      "date": "2026-11-29",
+      "owner": "CLIENT",
+      "name": "New Intern B (unconfirmed)",
+      "assignee": null,
+      "title": "[SPRINT-2][D08][CLIENT] B2B client outreach and qualified discussions — 2026-11-29",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-29 | **Day:** 8/10 | **Owner:** New Intern B (unconfirmed) (username pending; no invitation until requested)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Campus ambassador role and skill-building support\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Weekend: draft discovery agendas, follow-up only with consent.\n- [ ] Use founder-approved CareerPluse partnership and/or Heal Bharat business service offer (confirm exact offer first), personalized verified public business channels and opt-out rules.\n- [ ] Track UNIQUE first approaches separately from responses; cumulative outreach goal 15/20 and real two-way business conversations goal 2 by Day 10.\n- [ ] Submit proposed quotations and next steps for founder approval; no mass unsolicited messages, fabricated outcomes or private contact details on public GitHub.\n\n## Expected target (NOT achieved outcome)\nQualified clients approached cumulative 15/20; minimum 2 two-way discovery conversations by Day 10.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task"
+      ]
+    },
+    {
+      "day": 9,
+      "date": "2026-11-30",
+      "owner": "PRAGATI",
+      "name": "Pragati",
+      "assignee": "PragatiC-code",
+      "title": "[SPRINT-2][D09][PRAGATI] Interactive Instagram + LinkedIn daily posts — 2026-11-30",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-30 | **Day:** 9/10 | **Owner:** Pragati (@PragatiC-code)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Final demo invitations and real checkout FAQ\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Publish **one approved interactive Instagram FEED post** with a real question/poll/comment CTA on: Final demo invitations and real checkout FAQ.\n- [ ] Publish **one separately adapted interactive LinkedIn FEED post** today; include a real career/skills question and truthful CareerPluse CTA.\n- [ ] Record both public URLs, post performance and genuine student inquiries; hand off opt-in leads privately.\n- [ ] Review Vaishnavi Story creative, college/client copy, staffing requirements and daily shared KPI scoreboard.\n- [ ] If hiring is actually required, prepare one honest founder-approved student hiring post and track responses without sharing applicant data publicly.\n\n## Expected target (NOT achieved outcome)\nMandatory today's deliverables: IG post 1/1 and LinkedIn post 1/1; cumulative IG 9/10, LinkedIn 9/10, Reels 3/4 by today.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:pragati"
+      ]
+    },
+    {
+      "day": 9,
+      "date": "2026-11-30",
+      "owner": "MANNU",
+      "name": "Mannu Sharma",
+      "assignee": "mannusharma8397",
+      "title": "[SPRINT-2][D09][MANNU] Verified first-time student registrations — 2026-11-30",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-30 | **Day:** 9/10 | **Owner:** Mannu Sharma (@mannusharma8397)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Final demo invitations and real checkout FAQ\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Coordinate **3 newly verified first-time student signups across the whole team today**; sprint cumulative goal **27/30**, not existing returning logins.\n- [ ] Focus: Follow up on open opt-in demo requests. Reach only relevant, consented students; honor opt-outs and avoid duplicate cold contacts.\n- [ ] Verify unique first-time accounts through authorized private analytics and hand over all qualified demos/paid queries to Shrushti.\n- [ ] Log only aggregate outreach, qualified replies, verified signups and issues in the public GitHub comment; maintain the real lead tracker privately.\n\n## Expected target (NOT achieved outcome)\nCumulative new legitimate student accounts: 27/30 (planning target; all teammates may contribute, coordinator Mannu).\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:mannu"
+      ]
+    },
+    {
+      "day": 9,
+      "date": "2026-11-30",
+      "owner": "SHRUSHTI",
+      "name": "Shrushti",
+      "assignee": "srushtip223",
+      "title": "[SPRINT-2][D09][SHRUSHTI] Product demos and confirmed paid onboarding — 2026-11-30",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-30 | **Day:** 9/10 | **Owner:** Shrushti (@srushtip223)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Final demo invitations and real checkout FAQ\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Provide approved product demos/onboarding; focus: Resolve checkout blockers quickly.\n- [ ] Verify today's **new net settled paid conversions** target 2 and sprint cumulative **13/15**; exclude refunds, reversals and prior campaign payments.\n- [ ] Validate each paid student's real account access, first login and onboarding; record private verification references but never screenshots/IDs on public GitHub.\n- [ ] Coordinate with Mannu, college leads and social CTA conversions, publish only aggregate qualified demos, payments and technical blockers.\n\n## Expected target (NOT achieved outcome)\nCumulative verified NET new paid + onboarded: 13/15; today increase 2.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:shrushti"
+      ]
+    },
+    {
+      "day": 9,
+      "date": "2026-11-30",
+      "owner": "VAISHNAVI",
+      "name": "Vaishnavi",
+      "assignee": "vaishnavi-2312-google",
+      "title": "[SPRINT-2][D09][VAISHNAVI] Instagram Stories interaction only — 2026-11-30",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-30 | **Day:** 9/10 | **Owner:** Vaishnavi (@vaishnavi-2312-google)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Final demo invitations and real checkout FAQ\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Prepare and publish **1 approved interactive Instagram STORY sequence**, using Story Q&A: actual product features and demo.\n- [ ] Use only official CareerPluse brand kit, native Stories stickers, safe product claims and Pragati's approval before publishing.\n- [ ] Add optional registration/demo CTA only with approved link and student consent; do not sell, verify payments, post feeds/Reels or contact colleges/clients.\n- [ ] Report anonymized Story views, poll votes, sticker engagement, link taps and public-safe creative links.\n\n## Expected target (NOT achieved outcome)\nInstagram Story sequences planned: 9/10, strictly Stories engagement scope.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:vaishnavi"
+      ]
+    },
+    {
+      "day": 9,
+      "date": "2026-11-30",
+      "owner": "COLLEGE",
+      "name": "New Intern A (unconfirmed)",
+      "assignee": null,
+      "title": "[SPRINT-2][D09][COLLEGE] Regional colleges and campus ambassadors — 2026-11-30",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-30 | **Day:** 9/10 | **Owner:** New Intern A (unconfirmed) (username pending; no invitation until requested)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Final demo invitations and real checkout FAQ\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Approach three more colleges (cumulative eight), follow up on genuine interest.\n- [ ] Private CRM: distinguish RESEARCHED vs APPROACHED (unique approved first contact) vs POSITIVE 2-way response or booked meeting; current cumulative approach goal 8/10.\n- [ ] Campus ambassadors: identify consented candidates, explain voluntary expectations, obtain manager approval and onboarding; cumulative 1/2.\n- [ ] Report aggregated contacts, replies, meetings, prospective ambassador statuses without college personal identifiers or student contacts in public Issues.\n\n## Expected target (NOT achieved outcome)\nColleges approached cumulative 8/10; positive college discussion minimum 1 by Day 10; ambassadors 1/2 by today.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task"
+      ]
+    },
+    {
+      "day": 9,
+      "date": "2026-11-30",
+      "owner": "CLIENT",
+      "name": "New Intern B (unconfirmed)",
+      "assignee": null,
+      "title": "[SPRINT-2][D09][CLIENT] B2B client outreach and qualified discussions — 2026-11-30",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-11-30 | **Day:** 9/10 | **Owner:** New Intern B (unconfirmed) (username pending; no invitation until requested)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Final demo invitations and real checkout FAQ\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Reach 3 more unique clients (cumulative eighteen); progress two-way calls.\n- [ ] Use founder-approved CareerPluse partnership and/or Heal Bharat business service offer (confirm exact offer first), personalized verified public business channels and opt-out rules.\n- [ ] Track UNIQUE first approaches separately from responses; cumulative outreach goal 18/20 and real two-way business conversations goal 2 by Day 10.\n- [ ] Submit proposed quotations and next steps for founder approval; no mass unsolicited messages, fabricated outcomes or private contact details on public GitHub.\n\n## Expected target (NOT achieved outcome)\nQualified clients approached cumulative 18/20; minimum 2 two-way discovery conversations by Day 10.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task"
+      ]
+    },
+    {
+      "day": 10,
+      "date": "2026-12-01",
+      "owner": "PRAGATI",
+      "name": "Pragati",
+      "assignee": "PragatiC-code",
+      "title": "[SPRINT-2][D10][PRAGATI] Interactive Instagram + LinkedIn daily posts — 2026-12-01",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-12-01 | **Day:** 10/10 | **Owner:** Pragati (@PragatiC-code)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Sprint wrap-up with verifiable results only\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Publish **one approved interactive Instagram FEED post** with a real question/poll/comment CTA on: Sprint wrap-up with verifiable results only.\n- [ ] Publish **one separately adapted interactive LinkedIn FEED post** today; include a real career/skills question and truthful CareerPluse CTA.\n- [ ] Record both public URLs, post performance and genuine student inquiries; hand off opt-in leads privately.\n- [ ] Review Vaishnavi Story creative, college/client copy, staffing requirements and daily shared KPI scoreboard.\n- [ ] If hiring is actually required, prepare one honest founder-approved student hiring post and track responses without sharing applicant data publicly.\n- [ ] **REEL REQUIRED TODAY:** Publish Reel 4 (two in Nov 22-28, two in Nov 29-Dec 1). Use original/authorized media, brand-kit design, approved claim and video link.\n\n## Expected target (NOT achieved outcome)\nMandatory today's deliverables: IG post 1/1 and LinkedIn post 1/1; cumulative IG 10/10, LinkedIn 10/10, Reels 4/4 by today.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:pragati"
+      ]
+    },
+    {
+      "day": 10,
+      "date": "2026-12-01",
+      "owner": "MANNU",
+      "name": "Mannu Sharma",
+      "assignee": "mannusharma8397",
+      "title": "[SPRINT-2][D10][MANNU] Verified first-time student registrations — 2026-12-01",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-12-01 | **Day:** 10/10 | **Owner:** Mannu Sharma (@mannusharma8397)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Sprint wrap-up with verifiable results only\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Coordinate **3 newly verified first-time student signups across the whole team today**; sprint cumulative goal **30/30**, not existing returning logins.\n- [ ] Focus: Verify all 30 registrations, remove duplicates. Reach only relevant, consented students; honor opt-outs and avoid duplicate cold contacts.\n- [ ] Verify unique first-time accounts through authorized private analytics and hand over all qualified demos/paid queries to Shrushti.\n- [ ] Log only aggregate outreach, qualified replies, verified signups and issues in the public GitHub comment; maintain the real lead tracker privately.\n\n## Expected target (NOT achieved outcome)\nCumulative new legitimate student accounts: 30/30 (planning target; all teammates may contribute, coordinator Mannu).\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:mannu"
+      ]
+    },
+    {
+      "day": 10,
+      "date": "2026-12-01",
+      "owner": "SHRUSHTI",
+      "name": "Shrushti",
+      "assignee": "srushtip223",
+      "title": "[SPRINT-2][D10][SHRUSHTI] Product demos and confirmed paid onboarding — 2026-12-01",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-12-01 | **Day:** 10/10 | **Owner:** Shrushti (@srushtip223)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Sprint wrap-up with verifiable results only\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Provide approved product demos/onboarding; focus: Finalize net paid and onboarding verification.\n- [ ] Verify today's **new net settled paid conversions** target 2 and sprint cumulative **15/15**; exclude refunds, reversals and prior campaign payments.\n- [ ] Validate each paid student's real account access, first login and onboarding; record private verification references but never screenshots/IDs on public GitHub.\n- [ ] Coordinate with Mannu, college leads and social CTA conversions, publish only aggregate qualified demos, payments and technical blockers.\n\n## Expected target (NOT achieved outcome)\nCumulative verified NET new paid + onboarded: 15/15; today increase 2.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:shrushti"
+      ]
+    },
+    {
+      "day": 10,
+      "date": "2026-12-01",
+      "owner": "VAISHNAVI",
+      "name": "Vaishnavi",
+      "assignee": "vaishnavi-2312-google",
+      "title": "[SPRINT-2][D10][VAISHNAVI] Instagram Stories interaction only — 2026-12-01",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-12-01 | **Day:** 10/10 | **Owner:** Vaishnavi (@vaishnavi-2312-google)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Sprint wrap-up with verifiable results only\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Prepare and publish **1 approved interactive Instagram STORY sequence**, using Feedback survey: next learning priorities.\n- [ ] Use only official CareerPluse brand kit, native Stories stickers, safe product claims and Pragati's approval before publishing.\n- [ ] Add optional registration/demo CTA only with approved link and student consent; do not sell, verify payments, post feeds/Reels or contact colleges/clients.\n- [ ] Report anonymized Story views, poll votes, sticker engagement, link taps and public-safe creative links.\n\n## Expected target (NOT achieved outcome)\nInstagram Story sequences planned: 10/10, strictly Stories engagement scope.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task",
+        "owner:vaishnavi"
+      ]
+    },
+    {
+      "day": 10,
+      "date": "2026-12-01",
+      "owner": "COLLEGE",
+      "name": "New Intern A (unconfirmed)",
+      "assignee": null,
+      "title": "[SPRINT-2][D10][COLLEGE] Regional colleges and campus ambassadors — 2026-12-01",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-12-01 | **Day:** 10/10 | **Owner:** New Intern A (unconfirmed) (username pending; no invitation until requested)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Sprint wrap-up with verifiable results only\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Approach final two colleges (cumulative ten), secure one genuine meeting/positive response and two onboarded ambassadors.\n- [ ] Private CRM: distinguish RESEARCHED vs APPROACHED (unique approved first contact) vs POSITIVE 2-way response or booked meeting; current cumulative approach goal 10/10.\n- [ ] Campus ambassadors: identify consented candidates, explain voluntary expectations, obtain manager approval and onboarding; cumulative 2/2.\n- [ ] Report aggregated contacts, replies, meetings, prospective ambassador statuses without college personal identifiers or student contacts in public Issues.\n\n## Expected target (NOT achieved outcome)\nColleges approached cumulative 10/10; positive college discussion minimum 1 by Day 10; ambassadors 2/2 by today.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task"
+      ]
+    },
+    {
+      "day": 10,
+      "date": "2026-12-01",
+      "owner": "CLIENT",
+      "name": "New Intern B (unconfirmed)",
+      "assignee": null,
+      "title": "[SPRINT-2][D10][CLIENT] B2B client outreach and qualified discussions — 2026-12-01",
+      "body": "# CareerPluse Marketing — 10-Day Growth Sprint 2\n\n**Date:** 2026-12-01 | **Day:** 10/10 | **Owner:** New Intern B (unconfirmed) (username pending; no invitation until requested)\n**Campaign:** https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint\n**Daily creative theme:** Sprint wrap-up with verifiable results only\n**Schedule:** 22 November–1 December 2026, including weekends.\n\n## Required checklist\n- [ ] Reach final 2 clients (cumulative twenty), complete 2 genuine discovery conversations.\n- [ ] Use founder-approved CareerPluse partnership and/or Heal Bharat business service offer (confirm exact offer first), personalized verified public business channels and opt-out rules.\n- [ ] Track UNIQUE first approaches separately from responses; cumulative outreach goal 20/20 and real two-way business conversations goal 2 by Day 10.\n- [ ] Submit proposed quotations and next steps for founder approval; no mass unsolicited messages, fabricated outcomes or private contact details on public GitHub.\n\n## Expected target (NOT achieved outcome)\nQualified clients approached cumulative 20/20; minimum 2 two-way discovery conversations by Day 10.\n\n## Daily closeout (suggested deadline 7 PM IST)\n- [ ] Comment actual actions, today vs cumulative metrics, relevant public-approved URLs, blockers and tomorrow's next step.\n- [ ] Mark work as Ready for Review. Pragati checks at 7:15 PM, founder approves at 7:30 PM (times configurable).\n- [ ] Keep payment, student, client, lead or campus personal data in approved restricted company systems, never public GitHub.\n\n## Shared targets for ALL team members\n30 NEW registered logins, 15 NET settled paid subscriptions, 10 colleges approached with 1 qualified meeting, 20 clients approached with 2 qualified discussions, 2 actual onboarded ambassadors, 10 Instagram feed posts + 10 LinkedIn posts, 4 Reels across 2 calendar weeks, and 10 Stories.\n\n**Verification rules:** Count new first-time accounts, not repeated login; paid only after settled+onboarded; one-way approach is not a two-way meeting; candidate ambassador is not onboarded. No false claims or unapproved price/trial promises. The previous 75 Issues remain historical, not included in this sprint.",
+      "labels": [
+        "status:todo",
+        "type:marketing-task"
+      ]
+    }
+  ]
+}
