@@ -28,10 +28,10 @@
 | Mannu Sharma | @mannusharma8397 | Primary student acquisition: 3 verified new registrations daily (team referrals count only once) |
 | Shrushti | @srushtip223 | Demos, checkout, 15 confirmed new net paid subscriptions and onboarding |
 | Vaishnavi | @vaishnavi-2312-google | Only interactive Instagram Stories, polls/quizzes/Q&A and anonymized engagement; no sales, college or client outreach |
-| New Intern A (identity pending) | No invite yet | College outreach + 2 campus ambassadors |
-| New Intern B (identity pending) | No invite yet | Client/business outreach + 2 qualified discussions |
+| **Yashika** | `@yashikakilledar2-cpu` | College outreach: 10 colleges, 1 qualified positive meeting, 2 campus ambassadors; 10 dated issues, formal GitHub assignment pending |
+| **Bhagyashrii** | `@Bhagya242656` | 20 client approaches, 2 qualified discussions; 10 dated issues, formal GitHub assignment pending |
 
-**Former intern Rupam is not assigned and must not be re-invited.** Two new interns have placeholder Issues only until the owner supplies their GitHub usernames and explicitly requests invites.
+**Former intern Rupam is not assigned and must not be re-invited.** The new interns are identified as Yashika and Bhagyashrii. Their 20 issue titles/bodies name them, but GitHub assignees remain empty until founder-authorized collaborator invitations are sent and accepted.
 
 ## Cumulative day-by-day outcome target plan
 
@@ -60,3 +60,7 @@ Every issue is dated, has an owner, checklist, evidence guidance and its own sha
 - Suggested daily review: student report 7 PM IST, Pragati 7:15 PM, founder 7:30 PM (team can agree on another time).
 
 See [Reporting & Approval](./REPORTING_AND_APPROVAL.md).
+
+## Team-lead handover
+
+[Pragati — Team Lead Instructions and Forwarding Guide](PRAGATI_LEADER_HANDOVER.md). Yashika owns dated **COLLEGE** Issues and Bhagyashrii owns dated **CLIENT** Issues. No new GitHub invitation was sent as of 12 November 2026.
