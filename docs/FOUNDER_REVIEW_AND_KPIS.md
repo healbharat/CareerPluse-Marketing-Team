@@ -1,5 +1,8 @@
 # Founder Review · KPIs and Evidence Rules
 
+> **Current assignment update — 20 November 2026:** Shrushti (`srushtip223`) departed. All 30 of her open GitHub Issues have been reallocated (Mannu 14, Yashika 8, Bhagyashrii 5, Founder 3), preserving historical issue content. Older role/day tables below may describe the *original* plan and are not current assignments. Pragati remains content-only; Vaishnavi remains Instagram Stories-only. The Founder handles restricted payment verification and final Issue closure. [Current handover index](https://github.com/healbharat/CareerPluse-Marketing-Team/blob/main/campaigns/2026-11-22-growth-sprint/SHRUSHTI_DEPARTURE_HANDOVER.md).
+
+
 ## Daily scorecard
 
 | Metric | Who reports | Rule |
