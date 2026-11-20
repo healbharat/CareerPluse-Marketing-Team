@@ -1,16 +1,21 @@
 # CareerPluse Team Handover — November 2026
 
+> **Current assignment update — 20 November 2026:** Shrushti (`srushtip223`) departed. All 30 of her open GitHub Issues have been reallocated (Mannu 14, Yashika 8, Bhagyashrii 5, Founder 3), preserving historical issue content. Older role/day tables below may describe the *original* plan and are not current assignments. Pragati remains content-only; Vaishnavi remains Instagram Stories-only. The Founder handles restricted payment verification and final Issue closure. [Current handover index](https://github.com/healbharat/CareerPluse-Marketing-Team/blob/main/campaigns/2026-11-22-growth-sprint/SHRUSHTI_DEPARTURE_HANDOVER.md).
+
+
 ## Why the task board changed
 
 Rupam has departed the internship. The founder requested that her work not be lost, but instead be reassigned to the remaining active student marketing team as additional Day 16–20 responsibilities. Vaishnavi (`@vaishnavi-2312-google`) joins in an independent **15-working-day Instagram Stories engagement internship**.
 
-### Active team
+### Active team — see 20 November departure update
+
+The former Shrushti rows (#23, #27–30, #46–60) have been redistributed; check the current Issue assignee or new named owner before acting.
+
 
 | Person | Issue count | Scope | Issue numbers |
 |---|---:|---|---|
 | Pragati (@PragatiC-code) | 20 | Leadership/content + campus strategy and founder-approved B2B approach oversight | #1–15, #16, #20–22, #25 |
 | Mannu Sharma (@mannusharma8397) | 20 | Student outreach + club and campus community engagement | #31–45, #17–19, #24, #26 |
-| Shrushti (@srushtip223) | 20 | Registration, paid onboarding + campus demo/Q&A | #46–60, #23, #27–30 |
 | Vaishnavi (@vaishnavi-2312-google) | 15 | **Instagram Stories only**, no outreach/sales | #61–75 |
 
 All former Rupam issues #16–30 were repurposed and reassigned instead of deleted, so the original issue numbers remain accessible. Pragati oversees the one-business approach target, Mannu helps community outreach and Shrushti supports campus demos/onboarding.
