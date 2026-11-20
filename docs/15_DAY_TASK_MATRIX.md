@@ -1,10 +1,13 @@
 # Current CareerPluse Daily Task Matrix
 
+> **Current assignment update — 20 November 2026:** Shrushti (`srushtip223`) departed. All 30 of her open GitHub Issues have been reallocated (Mannu 14, Yashika 8, Bhagyashrii 5, Founder 3), preserving historical issue content. Older role/day tables below may describe the *original* plan and are not current assignments. Pragati remains content-only; Vaishnavi remains Instagram Stories-only. The Founder handles restricted payment verification and final Issue closure. [Current handover index](https://github.com/healbharat/CareerPluse-Marketing-Team/blob/main/campaigns/2026-11-22-growth-sprint/SHRUSHTI_DEPARTURE_HANDOVER.md).
+
+
 **Two parallel tracks:** Core team has original Day 1–15 then reassigned Day 16–20; Vaishnavi has a **separate** Day 1–15 sequence for Instagram Stories. Do not equate the calendar dates or confuse the earlier 15-day conversion deadline.
 
 ## Original 15-working-day main campaign and Vaishnavi's independent Story plan
 
-| Working Day | Pragati (#1–15) | Mannu (#31–45) | Shrushti (#46–60) | Vaishnavi (#61–75, own day count) |
+| Working Day | Pragati (#1–15) | Mannu (#31–45) | Redistributed former Shrushti (#46–60) | Vaishnavi (#61–75, own day count) |
 |---|---|---|---|---|
 | 01 | Kickoff and governance | Map student audience and communities | Test real registration journey | Obtain official manager brand kit |
 | 02 | Tracker and brand setup | Prepare outreach and consent tracker | Feature readiness and approved demo scope | 15-day Stories content calendar |
