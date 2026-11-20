@@ -38,3 +38,5 @@ Four known GitHub accounts are assigned to their 10 daily tasks each. Yashika an
 - [Filter all Sprint 2 GitHub Issues](https://github.com/healbharat/CareerPluse-Marketing-Team/issues?q=is%3Aissue+%22%5BSPRINT-2%5D%22)
 
 **Safety:** The repository is public. Never post student/client contact details, payment receipts, personal responses, or private lead sheets. Do not re-invite Rupam. Do not send formal GitHub invitations to Yashika or Bhagyashrii until the founder explicitly authorizes them.
+
+**Updated 20 Nov 2026:** Pragati's role is CONTENT ONLY. All teammates self-report; Founder approves/closes the tasks. Read [updated leader instructions](PRAGATI_LEADER_HANDOVER.md).
