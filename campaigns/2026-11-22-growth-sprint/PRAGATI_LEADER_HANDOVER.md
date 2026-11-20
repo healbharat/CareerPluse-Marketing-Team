@@ -17,7 +17,6 @@
 | Owner | Username | 10-day responsibility | Day 1 issue |
 |---|---|---|---|
 | Mannu | @mannusharma8397 | New verified registrations (team target 30) | [#78](https://github.com/healbharat/CareerPluse-Marketing-Team/issues/78) |
-| Shrushti | @srushtip223 | Demos, verified new net paid+onboarded (team target 15) | [#79](https://github.com/healbharat/CareerPluse-Marketing-Team/issues/79) |
 | Vaishnavi | @vaishnavi-2312-google | Interactive Instagram Stories ONLY | [#80](https://github.com/healbharat/CareerPluse-Marketing-Team/issues/80) |
 | Yashika | @yashikakilledar2-cpu | 10 colleges, 1 real college conversation, 2 ambassadors | [#81](https://github.com/healbharat/CareerPluse-Marketing-Team/issues/81) |
 | Bhagyashrii | @Bhagya242656 | 20 clients, 2 real qualified conversations | [#82](https://github.com/healbharat/CareerPluse-Marketing-Team/issues/82) |
@@ -42,3 +41,7 @@ Yashika and Bhagyashrii were named in task descriptions, but require repository 
 ## Copy/paste message from Pragati to team
 
 Hello Team. Our Sprint 2 is 22 Nov–1 Dec 2026. Your 10 daily GitHub Issues are linked in the Task Index. Please open your own Day 1 Issue, read the checklist and report directly on that Issue with real counts, public-safe evidence and any blockers by the agreed cutoff. I will work on and verify Instagram and LinkedIn post creative/Reels only. The founder will review subscription, student, campus and client outcomes and approve issue closure. Do not share private lead or payment data publicly. Yashika and Bhagyashrii: your issue descriptions are ready; GitHub invitations and formal assignment depend on acceptance of founder-enabled repo access.
+
+## Shrushti departure (20 Nov 2026)
+
+Shrushti left; all 30 assigned open Issues were redistributed (Mannu 14, Yashika 8, Bhagyashrii 5, Founder 3). Pragati is **not** expected to coordinate the handover, collect others' reports, verify payments, or handle extra demos. [Owner-approved handover index](https://github.com/healbharat/CareerPluse-Marketing-Team/blob/main/campaigns/2026-11-22-growth-sprint/SHRUSHTI_DEPARTURE_HANDOVER.md).
