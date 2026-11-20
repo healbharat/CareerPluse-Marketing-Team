@@ -1,9 +1,12 @@
 # CareerPluse GitHub Reporting & Review — Updated Team
 
+> **Current assignment update — 20 November 2026:** Shrushti (`srushtip223`) departed. All 30 of her open GitHub Issues have been reallocated (Mannu 14, Yashika 8, Bhagyashrii 5, Founder 3), preserving historical issue content. Older role/day tables below may describe the *original* plan and are not current assignments. Pragati remains content-only; Vaishnavi remains Instagram Stories-only. The Founder handles restricted payment verification and final Issue closure. [Current handover index](https://github.com/healbharat/CareerPluse-Marketing-Team/blob/main/campaigns/2026-11-22-growth-sprint/SHRUSHTI_DEPARTURE_HANDOVER.md).
+
+
 ## Where everyone works
 - [Pragati's 20 issues](https://github.com/healbharat/CareerPluse-Marketing-Team/issues?q=is%3Aissue+label%3Aowner%3Apragati)
 - [Mannu's 20 issues](https://github.com/healbharat/CareerPluse-Marketing-Team/issues?q=is%3Aissue+label%3Aowner%3Amannu)
-- [Shrushti's 20 issues](https://github.com/healbharat/CareerPluse-Marketing-Team/issues?q=is%3Aissue+label%3Aowner%3Ashrushti)
+- [30 redistributed Issues / updated handover](https://github.com/healbharat/CareerPluse-Marketing-Team/blob/main/campaigns/2026-11-22-growth-sprint/SHRUSHTI_DEPARTURE_HANDOVER.md)
 - [Vaishnavi's 15 Instagram Stories issues](https://github.com/healbharat/CareerPluse-Marketing-Team/issues?q=is%3Aissue+label%3Aowner%3Avaishnavi)
 - Vaishnavi must be invited as a **write collaborator** and accept before her Issues can be assigned to her GitHub account. Existing owner labels do NOT grant access.
 - Rupam no longer owns tasks. Repo owner must revoke her invitation/access if any remains.
