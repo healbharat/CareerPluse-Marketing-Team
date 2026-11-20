@@ -1,64 +1,44 @@
-# CareerPluse Sprint 2 — Pragati Team Leader Handover
+# Pragati — Content-Only Team Lead SOP (Sprint 2)
 
-**Owner:** Pragati (`@PragatiC-code`) | **Founder:** `@healbharat` | **Sprint:** 22 Nov–1 Dec 2026, 10 calendar days inclusive.
+**Dates:** 22 November–1 December 2026. **Role:** Team Lead title, with ONLY creative production and social content verification. Founder @healbharat owns operational reviews and closure of other students' tasks.
 
-**This file is a forwardable leadership brief. It contains task assignments and planning targets, not confirmed results.**
+## Pragati's ONLY required work
 
-## Share these links with each team member
+1. Produce, quality-check and publish **1 approved interactive Instagram feed post daily** (10 total).
+2. Produce, quality-check and publish **1 approved interactive LinkedIn feed post daily** (10 total).
+3. Produce **4 original approved Reels**, on 23 Nov, 26 Nov, 29 Nov and 1 Dec (2 Reels in each of the two calendar weeks).
+4. Verify post design, spelling, approved logos, factual claims, links and engagement CTA; optionally review submitted Stories creative from Vaishnavi strictly for CONTENT quality.
+5. Post own published URLs and a short report in own dated GitHub Issue, then request founder closure.
 
-- [Campaign Start Here](https://github.com/healbharat/CareerPluse-Marketing-Team/tree/main/campaigns/2026-11-22-growth-sprint)
-- [All 60 tasks by date / student](https://github.com/healbharat/CareerPluse-Marketing-Team/blob/main/campaigns/2026-11-22-growth-sprint/ISSUE_INDEX.md)
-- [Sprint 2 master goals / founder control — Issue #76](https://github.com/healbharat/CareerPluse-Marketing-Team/issues/76)
-- [Daily reporting rules](https://github.com/healbharat/CareerPluse-Marketing-Team/blob/main/campaigns/2026-11-22-growth-sprint/REPORTING_AND_APPROVAL.md)
+**Not Pragati's duties:** collecting each student's daily report, following up for KPI counts, student registrations, paid subscriptions, payment reconciliation, client/college outreach, campus ambassador onboarding, final outcome verification, task assignment across other workstreams, or closing other students' GitHub Issues.
 
-## Named team responsibilities — first dated tasks
+## Other owners report directly on their own GitHub Issues
 
-| Person | GitHub | Daily responsibility | First issue |
+| Owner | Username | 10-day responsibility | Day 1 issue |
 |---|---|---|---|
-| **Pragati** | `@PragatiC-code` | Social content and campaign leadership | [#77](https://github.com/healbharat/CareerPluse-Marketing-Team/issues/77) |
-| **Mannu Sharma** | `@mannusharma8397` | Student outreach, 30 verified first-time registrations | [#78](https://github.com/healbharat/CareerPluse-Marketing-Team/issues/78) |
-| **Shrushti** | `@srushtip223` | Demos, 15 net newly paid subscribers, onboarding | [#79](https://github.com/healbharat/CareerPluse-Marketing-Team/issues/79) |
-| **Vaishnavi** | `@vaishnavi-2312-google` | Interactive Instagram Stories only | [#80](https://github.com/healbharat/CareerPluse-Marketing-Team/issues/80) |
-| **Yashika** | `@yashikakilledar2-cpu` | 10 colleges, ≥1 positive meeting, 2 campus ambassadors | [#81](https://github.com/healbharat/CareerPluse-Marketing-Team/issues/81) |
-| **Bhagyashrii** | `@Bhagya242656` | 20 client approaches, ≥2 actual qualified conversations | [#82](https://github.com/healbharat/CareerPluse-Marketing-Team/issues/82) |
+| Mannu | @mannusharma8397 | New verified registrations (team target 30) | [#78](https://github.com/healbharat/CareerPluse-Marketing-Team/issues/78) |
+| Shrushti | @srushtip223 | Demos, verified new net paid+onboarded (team target 15) | [#79](https://github.com/healbharat/CareerPluse-Marketing-Team/issues/79) |
+| Vaishnavi | @vaishnavi-2312-google | Interactive Instagram Stories ONLY | [#80](https://github.com/healbharat/CareerPluse-Marketing-Team/issues/80) |
+| Yashika | @yashikakilledar2-cpu | 10 colleges, 1 real college conversation, 2 ambassadors | [#81](https://github.com/healbharat/CareerPluse-Marketing-Team/issues/81) |
+| Bhagyashrii | @Bhagya242656 | 20 clients, 2 real qualified conversations | [#82](https://github.com/healbharat/CareerPluse-Marketing-Team/issues/82) |
 
-All six people have **ten dated daily tasks each** (6 × 10 = 60). Follow the issue index for days 2–10. Yashika and Bhagyashrii own the named task descriptions, but are **not formal GitHub assignees** and have not received new invitations. They may read the public repo; their issues remain formally unassigned until the founder authorizes collaborator access.
+Yashika and Bhagyashrii were named in task descriptions, but require repository invitation/acceptance before formal GitHub assignment. Onboarding script is given separately to the founder. Do not claim invitations have been sent until verified.
 
-## Team KPI scorecard — shared team results
+## Daily workflow
 
-- 30 genuinely new, unique CareerPluse account registrations with first successful login.
-- 15 net-new verified settled, active paid subscriptions with completed initial onboarding (minus refunds/reversals).
-- 10 distinct Tier-3/regional colleges contacted; at least 1 real positive two-way college meeting/conversation.
-- 20 qualified business clients contacted; at least 2 real two-way discovery discussions.
-- 2 campus ambassadors genuinely onboarded, not merely candidates.
-- Pragati: 1 interactive approved Instagram **FEED** post + 1 interactive approved LinkedIn post per day (10 of each). Reels D2 (23 Nov), D5 (26 Nov), D8 (29 Nov), D10 (1 Dec); 2 Reels per calendar week.
-- Vaishnavi: 1 approved interactive Instagram **STORY sequence** per day, 10 total; no sales, business, college or paid-verification duties.
+- Pragati checks **only her own** today's Issue and produces approved posts/Reel. After publishing, paste public post links and brief content/quality verification notes.
+- Other owners independently check their Issues, work ethically, and post real results + blockers by suggested 7 PM IST.
+- Founder @healbharat reviews privacy-sensitive conversion evidence privately, approves offers/commitments and closes work Issues after evidence check. Pragati is not responsible for this.
+- If any post needs a claim about trial, fee, internships, rewards, results or discounts, obtain owner approval of the exact wording first.
+- Use only approved brand kits and authorized official social accounts. Do not share passwords.
 
-**These totals belong to the TEAM.** Do not tell every student to produce 30 logins, 15 subscriptions, 10 colleges or 20 clients individually; each has a primary accountability stream with cross-team support.
+## Everyone's direct links
 
-## Pragati's daily SOP
+- [Day-by-day task matrix](ISSUE_INDEX.md)
+- [Reporting & issue closing guide](REPORTING_AND_APPROVAL.md)
+- [Sprint goals and cumulative pacing](README.md)
+- [Owner Master Issue #76](https://github.com/healbharat/CareerPluse-Marketing-Team/issues/76)
 
-1. **10:00 AM IST** — open today's six dated issues; share owners' links and clarify blockers.
-2. **Before publication or outreach** — review copy, feature claims, brand kit, official account permissions, campus/client offers and consent. Escalate prices, discounts, trials, employment/placement claims, commitments and client quotations to founder.
-3. **Daily social output** — publish one approved Instagram feed post AND one approved LinkedIn feed post; both must invite real interaction. Add required Reels on the four specified days.
-4. **Support the team** — help Mannu and Shrushti with opt-in leads, check Vaishnavi's Stories, and coordinate Yashika's campus work and Bhagyashrii's business pipeline.
-5. **7:00 PM IST (proposed)** — require each owner to comment ACTUAL daily activity on their issue. If they lack issue comment access, collect their report privately and post a public-safe aggregate as team lead, crediting the owner; do not invent work.
-6. **7:15 PM IST** — reconcile non-duplicated aggregate totals, check links, address blocked tasks, and mark work Ready for Review only when proof exists.
-7. **7:30 PM IST** — request founder approval for confirmed payment totals, outreach commitments, public claims, and closing done issues.
-8. **Day 10** — send a real KPI report: actual new logins, net paid, unique colleges, positive college meetings, clients, client conversations, ambassadors, post URLs, reel URLs, story engagement and blockers.
+## Copy/paste message from Pragati to team
 
-## Communication boundaries
-
-- Do not send GitHub invitations to Yashika or Bhagyashrii until the founder expressly authorizes it. Do not claim their issues are officially assigned via GitHub yet.
-- This repo is public: no names/phone numbers/emails of student leads, payment receipts/transaction IDs, raw Instagram DMs, college contacts or client personal data. Store verified evidence in restricted company tools.
-- Do not count an existing-user login as new signup, an unverified checkout as paid, a sent message as a two-way conversation, or a campus ambassador candidate as onboarded.
-- Avoid scraping, spam, automated bulk DMs or forced group additions; respect opt-outs and use no more than two unanswered follow-ups.
-- Existing 75 tasks remain historical; work only in new `[SPRINT-2]` issues for this campaign.
-
-## Forwardable group message
-
-Hello CareerPluse Marketing Team,
-
-Our **10-day Growth Sprint** runs from **22 November to 1 December 2026**. Each of the six team members has **10 date-wise work items**. Please open the [Sprint 2 Task Index](https://github.com/healbharat/CareerPluse-Marketing-Team/blob/main/campaigns/2026-11-22-growth-sprint/ISSUE_INDEX.md), find your name and open your first issue for 22 November. Read the task checklist and follow its deadline. Every day submit truthful aggregate progress with approved public links and blockers by 7 PM IST (subject to team confirmation). I will review the work, and the founder will give final approval. Do not share private student, client or payment information on public GitHub. The team's shared minimum goal is 30 genuine new registrations, 15 paid subscriptions, 10 colleges and one positive college discussion, 20 client approaches and two qualified discussions, two campus ambassadors, daily interactive Instagram and LinkedIn content, two Reels each calendar week, and daily interactive Instagram Stories. Please confirm that you have read your assigned role and issue.
-
-**Access note:** Yashika and Bhagyashrii can review their named public tasks now. Do not expect GitHub assignment notifications or project edit rights until the founder separately enables collaborator access.
+Hello Team. Our Sprint 2 is 22 Nov–1 Dec 2026. Your 10 daily GitHub Issues are linked in the Task Index. Please open your own Day 1 Issue, read the checklist and report directly on that Issue with real counts, public-safe evidence and any blockers by the agreed cutoff. I will work on and verify Instagram and LinkedIn post creative/Reels only. The founder will review subscription, student, campus and client outcomes and approve issue closure. Do not share private lead or payment data publicly. Yashika and Bhagyashrii: your issue descriptions are ready; GitHub invitations and formal assignment depend on acceptance of founder-enabled repo access.
