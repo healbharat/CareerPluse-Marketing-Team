@@ -24,7 +24,7 @@
 
 | Student | GitHub | Primary role |
 |---|---|---|
-| Pragati | @PragatiC-code | Lead, Instagram+LinkedIn interactive posts daily, Reels 2/week, approvals and recruitment post if needed |
+| Pragati | @PragatiC-code | Content-only Team Lead: one Instagram+LinkedIn interactive feed post daily, 2 Reels/week and content quality verification; NO other student coordination, KPI reporting, customer or sales work |
 | Mannu Sharma | @mannusharma8397 | Primary student acquisition: 3 verified new registrations daily (team referrals count only once) |
 | Shrushti | @srushtip223 | Demos, checkout, 15 confirmed new net paid subscriptions and onboarding |
 | Vaishnavi | @vaishnavi-2312-google | Only interactive Instagram Stories, polls/quizzes/Q&A and anonymized engagement; no sales, college or client outreach |
@@ -57,10 +57,15 @@ Every issue is dated, has an owner, checklist, evidence guidance and its own sha
 - College/client outreach must be relevant, respectful, personalized and opt-out compliant. No scraping or bulk unsolicited messaging. At most 2 follow-ups to unanswered contacts.
 - Reports are factual. If results are zero, record zero. Registration is not payment; outreach is not a qualified meeting.
 - Campus ambassador counts only after actual acceptance, approved orientation and consent.
-- Suggested daily review: student report 7 PM IST, Pragati 7:15 PM, founder 7:30 PM (team can agree on another time).
+- Daily self-report by each owner at proposed 7 PM IST; Founder validates and closes work after reviewing private source evidence. Pragati only verifies content creative and publishes her own posts.
 
 See [Reporting & Approval](./REPORTING_AND_APPROVAL.md).
 
 ## Team-lead handover
 
 [Pragati — Team Lead Instructions and Forwarding Guide](PRAGATI_LEADER_HANDOVER.md). Yashika owns dated **COLLEGE** Issues and Bhagyashrii owns dated **CLIENT** Issues. No new GitHub invitation was sent as of 12 November 2026.
+
+
+## Pragati scope update (20 Nov 2026)
+
+Pragati's 10 Sprint 2 Issues have been simplified: only daily Instagram and LinkedIn interactive feed posts, four Reels, approved copy/design/link checks, and optionally review of Story creative. No acquisition tracking, team-wide reconciliation, outreach, payments, or closing other students' issues. Every other owner updates their own daily issue; Founder handles final review and closure.
