@@ -1,34 +1,45 @@
-# CareerPluse Sprint 2 — Daily Reporting and Approval
+# Sprint 2 — Daily Issue Reporting and Founder Approval
 
-## Standard day-end GitHub issue comment
+**Important:** Pragati handles only content creation and content quality review. Every other owner updates their own Issue. Founder @healbharat is final reviewer of every Issue.
 
-Day / date / owner:
-Status: Todo / In Progress / Blocked / Ready for Review
-Checklist completed: __ / __
-Verified NEW students today: __ ; sprint cumulative __ / 30
-Verified NET paid+onboarded today: __ ; sprint cumulative __ / 15
-Colleges first approached: __ ; cumulative __ / 10 ; positive 2-way __ / 1
-Clients first approached: __ ; cumulative __ / 20 ; qualified conversations __ / 2
-Onboarded campus ambassadors: __ / 2
-Instagram interactive feed posts: __ / 1 ; LinkedIn interactive feed posts __ / 1
-Reels published this calendar week: __ / 2 ; Stories today __ / 1
-Public approved URLs / aggregated metrics:
-Problems, opt-outs and next action:
-Pragati review: Pending ; Founder approval: Pending
+## How to report
 
-## Verification (in authorized private company tools ONLY)
-- New registration = first-time, unique legitimate account created during Nov 22–Dec 1, 2026; successful account access, deduplicated.
-- Net paid = confirmed settled payment + new registered account + onboarding completed, minus refunds/reversals; do not publish invoices or IDs in this public repo.
-- College or business approach = legitimate relevant unique prospect, personalized first approved outreach. Positive discussion = actual two-way reply or booked meeting, not merely sent/delivered.
-- Ambassador onboarded = college student voluntarily agrees, gets briefed, and manager confirms.
-- Daily posts and Reels need actual approved published public-safe links. Vaishnavi supplies only anonymized Story metrics.
+1. Visit [10-day task index](ISSUE_INDEX.md), choose your name and today, and open the Issue.
+2. Verify the date, owner and all **Required checklist** bullets. Do the work using authorized company tools and obtain prior approvals for offers/public claims.
+3. Click the **Comment** box at the bottom. Write real numbers and approved public-safe links; add blockers if needed. No private student/client data in this public repository.
+4. Update checkboxes if you have edit permission; if not, leave a comment listing completed items. Note that checkboxes are evidence markers, not proof of real conversion.
+5. When everything required has been performed, comment **Ready for Review**. Do not falsely claim outcomes that have not occurred.
+6. The Founder validates actual records privately, comments **Approved** or **Changes requested**, and closes the Issue if fully complete. On GitHub, authorized reviewer clicks **Close issue** at the bottom; choose **Completed** where GitHub offers that option.
+7. If asked to revise, keep the Issue Open, complete corrections and comment again. A closed Issue can be reopened if necessary by someone with appropriate access.
 
-## Founder approval prerequisites
-- [ ] Validate live student registration and login flow with consented test account.
-- [ ] Validate live payment, exact price, trial eligibility and approved refund terms.
-- [ ] Approve Insta/LinkedIn brand kit, college and client outreach pitch, real product claims and any hiring post.
-- [ ] Provide a restricted private CRM for real lead, referral, client and payment records.
-- [ ] Supply names of 2 new interns later; **no invitations are sent before the owner says so.**
+## Example daily comment (copy template)
 
-## Review cadence
-Students update their own daily Issues with actual activity and a status. Pragati reviews cross-team progress and social content; founder approves payment totals, public claims, campus/client commitments and issue closure. A checklist is not a substitute for proof.
+```text
+DAY / DATE / NAME:
+STATUS: In Progress | Blocked | Ready for Review
+CHECKLIST: __ of __ items complete
+ACTUAL WORK: ...
+TODAY VERIFIED (role-specific): ...
+SPRINT CUMULATIVE (role-specific): ...
+PUBLIC CONTENT URLS / APPROVED PROOF: ...
+PRIVATE EVIDENCE VERIFICATION REFERENCE: record kept in restricted company system
+BLOCKERS / NEXT STEP: ...
+FOUNDER REVIEW: Pending
+```
+
+## Count only real outcomes
+
+- **New signup:** unique first-time student created account during 22 Nov–1 Dec and logged in successfully; old logins and duplicate accounts do not count.
+- **Paid subscriber:** settled payment + active working account + onboarding, minus refunds/reversals; only the authorized owner verifies privately.
+- **College contact:** one relevant real college given an approved outreach message; a meeting needs a real two-way reply or confirmed booking.
+- **Client contact:** one distinct relevant business received appropriate personalized contact; qualified discussion needs a real response/meeting, not a sent text.
+- **Ambassador:** voluntarily accepted role with orientation and manager approval.
+- **Social:** a post/Reel/Story counts only when actually published with approved public-safe URL/analytics evidence.
+
+## Privacy and conduct
+
+This is a **PUBLIC GitHub repository**. Never publish students' names/contact details, leads, personal DMs, personal responses, screenshots of accounts, OTP/passwords, payment receipts, transaction IDs, private college/client contact information, or unpublished company offers. Use an access-controlled CRM/document for originals. No spam, contact scraping, false testimonials, unverified employment promises, or misleading pricing/trials.
+
+## Owner review cadence (adjustable)
+
+Students add their own reports by 7 PM IST; founder reviews as available and closes accepted work. Pragati is responsible for her own daily publishing and content verification only.
