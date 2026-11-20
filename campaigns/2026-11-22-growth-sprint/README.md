@@ -26,7 +26,6 @@
 |---|---|---|
 | Pragati | @PragatiC-code | Content-only Team Lead: one Instagram+LinkedIn interactive feed post daily, 2 Reels/week and content quality verification; NO other student coordination, KPI reporting, customer or sales work |
 | Mannu Sharma | @mannusharma8397 | Primary student acquisition: 3 verified new registrations daily (team referrals count only once) |
-| Shrushti | @srushtip223 | Demos, checkout, 15 confirmed new net paid subscriptions and onboarding |
 | Vaishnavi | @vaishnavi-2312-google | Only interactive Instagram Stories, polls/quizzes/Q&A and anonymized engagement; no sales, college or client outreach |
 | **Yashika** | `@yashikakilledar2-cpu` | College outreach: 10 colleges, 1 qualified positive meeting, 2 campus ambassadors; 10 dated issues, formal GitHub assignment pending |
 | **Bhagyashrii** | `@Bhagya242656` | 20 client approaches, 2 qualified discussions; 10 dated issues, formal GitHub assignment pending |
@@ -69,3 +68,8 @@ See [Reporting & Approval](./REPORTING_AND_APPROVAL.md).
 ## Pragati scope update (20 Nov 2026)
 
 Pragati's 10 Sprint 2 Issues have been simplified: only daily Instagram and LinkedIn interactive feed posts, four Reels, approved copy/design/link checks, and optionally review of Story creative. No acquisition tracking, team-wide reconciliation, outreach, payments, or closing other students' issues. Every other owner updates their own daily issue; Founder handles final review and closure.
+
+
+## Shrushti departure — 20 November 2026
+
+Shrushti has left. Her **30 open issues** (20 historical, 10 new Sprint 2 demos/onboarding) are redistributed: Mannu 14, Yashika 8, Bhagyashrii 5, Founder 3. Her previously named Sprint 2 demo support issue column remains as a *separate handover workstream* but is no longer assigned to her. Payment records and net-new paid subscription checks are Founder-only; Pragati remains content-only and Vaishnavi Stories-only. [Full Issue-by-Issue handover](https://github.com/healbharat/CareerPluse-Marketing-Team/blob/main/campaigns/2026-11-22-growth-sprint/SHRUSHTI_DEPARTURE_HANDOVER.md).
