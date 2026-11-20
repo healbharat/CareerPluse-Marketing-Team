@@ -9,7 +9,7 @@ Separate 10-calendar-day **Growth Sprint subproject** for six marketing workstre
 - [Sprint 2 reporting, evidence and privacy rules](campaigns/2026-11-22-growth-sprint/REPORTING_AND_APPROVAL.md)
 - [Master Campaign Issue #76](https://github.com/healbharat/CareerPluse-Marketing-Team/issues/76)
 
-**New student access:** Yashika (`yashikakilledar2-cpu`) and Bhagyashrii (`Bhagya242656`) each have 10 named, dated Issues; formal GitHub assignment is still pending, and **no new invitations were sent**. Existing marketing roster is unchanged. Sprint 2 update: Pragati is content-only Team Lead (daily Instagram + LinkedIn posts, 4 Reels and verification of creatives); all other students self-report and founder verifies/closes their Issues. For this 10-day Sprint, shared targets are 30 new legitimate registrations, 15 net new paid subscriptions, 10 colleges with 1 qualified positive discussion, 20 clients with 2 qualified two-way discussions, 2 onboarded campus ambassadors, 10 Instagram + 10 LinkedIn interactive feed posts, 4 Reels, and 10 Instagram Stories sequences.
+**New student access:** Yashika (`yashikakilledar2-cpu`) and Bhagyashrii (`Bhagya242656`) each have 10 named, dated Issues; formal GitHub assignment is still pending, and **no new invitations were sent**. Team roster updated after Shrushti departure (20 Nov 2026). Sprint 2 update: Pragati is content-only Team Lead (daily Instagram + LinkedIn posts, 4 Reels and verification of creatives); all other students self-report and founder verifies/closes their Issues. For this 10-day Sprint, shared targets are 30 new legitimate registrations, 15 net new paid subscriptions, 10 colleges with 1 qualified positive discussion, 20 clients with 2 qualified two-way discussions, 2 onboarded campus ambassadors, 10 Instagram + 10 LinkedIn interactive feed posts, 4 Reels, and 10 Instagram Stories sequences.
 
 ---
 
@@ -22,11 +22,18 @@ Separate 10-calendar-day **Growth Sprint subproject** for six marketing workstre
 |---|---|---|---|
 | Pragati | `@PragatiC-code` | Marketing team lead, content & social, campus strategy and 1-business approach handover | Day 1–15: #1–15; Day 16–20: #16, #20–22, #25 |
 | Mannu Sharma | `@mannusharma8397` | Student outreach, community/campus-club contacts | Day 1–15: #31–45; Day 16–20: #17–19, #24, #26 |
-| Shrushti | `@srushtip223` | Demos, payment verification, onboarding and campus session support | Day 1–15: #46–60; Day 16–20: #23, #27–30 |
 | Vaishnavi | `@vaishnavi-2312-google` | **Instagram Stories engagement only** | Her own Day 1–15: #61–75 |
+| Yashika | `@yashikakilledar2-cpu` | College demos and campus ambassadors | Sprint 2 #81 etc.; inherited open Shrushti tasks; pending formal GitHub Write access |
+| Bhagyashrii | `@Bhagya242656` | B2B clients and business demonstrations | Sprint 2 #82 etc.; inherited open Shrushti tasks; pending formal GitHub Write access |
 | Founder | `@healbharat` | Approvals, lead/privacy safeguards, finance verification, final issue closure | Across all work |
 
 **Former intern:** Rupam has left. Her 15 original issues #16–30 have been **reassigned and rescheduled**, with the existing issue numbers retained, preserving task history. Her access must also be revoked via [GitHub Manage Access](https://github.com/healbharat/CareerPluse-Marketing-Team/settings/access) by the repository owner. **Do not re-invite her.**
+
+## November 20 departure update
+
+Shrushti (`srushtip223`) left the team. All **30 Issues** that were previously assigned to her have been redistributed: Mannu 14, Yashika 8, Bhagyashrii 5, Founder 3. No new work is added to Pragati (content only) or Vaishnavi (Stories only). The 15 net paid subscription KPI is founder-verified. [Read full handover](https://github.com/healbharat/CareerPluse-Marketing-Team/blob/main/campaigns/2026-11-22-growth-sprint/SHRUSHTI_DEPARTURE_HANDOVER.md).
+
+**Security:** Former student must be removed from GitHub Manage access and any other connected marketing tools; this repository is public so Read permission is not proof of collaborator access.
 
 ## Current campaign targets
 
